@@ -1,15 +1,15 @@
 name: Refresh awesome list
 
-  on:
+on:
     schedule:
       # 每天 17:00 UTC = 北京时间次日 01:00 刷新
       - cron: '0 17 * * *'
     workflow_dispatch:  # 手动触发
 
-  permissions:
+permissions:
     contents: write
 
-  jobs:
+jobs:
     refresh:
       runs-on: ubuntu-latest
       timeout-minutes: 30
