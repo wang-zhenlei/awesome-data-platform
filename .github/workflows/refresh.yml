@@ -46,6 +46,14 @@ jobs:
             ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
             INSIGHT_MODEL: claude-haiku-5-5
 
+        - name: Generate vendor AI daily report
+          run: |
+            python3 scripts/vendor_ai_daily.py
+          env:
+            REPORT_DIR: 日报
+            STATE: scripts/state/vendor_ai_seen.json
+            TOPICS_DIR: topics
+
         - name: Commit & push changes
           run: |
             mkdir -p topics 日报 scripts/state
@@ -60,6 +68,6 @@ jobs:
             if git diff --cached --quiet; then
               echo "无变化，跳过提交"
             else
-              git commit -m "chore: 自动刷新 + 每日洞察 ($(date -u +%Y-%m-%d))"
+              git commit -m "chore: 自动刷新 + 每日洞察 + 厂商AI动态 ($(date -u +%Y-%m-%d))"
               git push
             fi
