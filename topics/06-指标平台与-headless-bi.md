@@ -5,14 +5,14 @@
 | ⭐ Stars | 仓库 | 最近更新 | 中文简介 |
 |--------:|------|----------|----------|
 | 111,806 | [microsoft/TypeScript](https://github.com/microsoft/TypeScript) | 2026-11-14 | TypeScript is a superset of JavaScript that compiles to clean JavaScript output. |
-| 90,605 | [koala73/worldmonitor](https://github.com/koala73/worldmonitor) | 2026-11-14 | 实时-时 global 智能 仪表盘. AI-powered news aggregation, geopolitical 监控, and infrastructure 追踪 in a unified situational awareness 界面 |
+| 90,607 | [koala73/worldmonitor](https://github.com/koala73/worldmonitor) | 2026-11-14 | 实时-时 global 智能 仪表盘. AI-powered news aggregation, geopolitical 监控, and infrastructure 追踪 in a unified situational awareness 界面 |
 | 75,520 | [apache/superset](https://github.com/apache/superset) | 2026-11-14 | Apache Superset is a 数据 Visualization and 数据 Exploration 平台 |
-| 71,630 | [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | 2026-11-14 | LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered 多-market stock analysis system with 多-source market 数据, 实时-时 news, decision 仪表盘, automated notifications, and cost-free scheduled runs. |
-| 50,318 | [metabase/metabase](https://github.com/metabase/metabase) | 2026-11-14 | The easy-to-use open source 商业 智能 and Embedded 分析 工具 that lets everyone work with 数据 :bar_chart: |
+| 71,674 | [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | 2026-11-14 | LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered 多-market stock analysis system with 多-source market 数据, 实时-时 news, decision 仪表盘, automated notifications, and cost-free scheduled runs. |
+| 50,319 | [metabase/metabase](https://github.com/metabase/metabase) | 2026-11-14 | The easy-to-use open source 商业 智能 and Embedded 分析 工具 that lets everyone work with 数据 :bar_chart: |
 | 45,693 | [ColorlibHQ/AdminLTE](https://github.com/ColorlibHQ/AdminLTE) | 2026-11-13 | AdminLTE - Free admin 仪表盘 template based on Bootstrap 5 |
 | 42,057 | [tabler/tabler](https://github.com/tabler/tabler) | 2026-11-13 | Free and open source admin 仪表盘 UI kit built on Bootstrap: 100+ pages, 6,000+ icons, dark mode, RTL. |
 | 40,125 | [umami-software/umami](https://github.com/umami-software/umami) | 2026-11-14 | Umami is a 隐私-first 网页 and product 分析 平台. Traffic, campaigns, behavior, conversions, and revenue in one place. No cookies, no surveillance, self-hosted or in the cloud. |
-| 38,178 | [glanceapp/glance](https://github.com/glanceapp/glance) | 2026-11-14 | A self-hosted 仪表盘 that puts all your feeds in one place |
+| 38,179 | [glanceapp/glance](https://github.com/glanceapp/glance) | 2026-11-14 | A self-hosted 仪表盘 that puts all your feeds in one place |
 | 33,667 | [gethomepage/homepage](https://github.com/gethomepage/homepage) | 2026-11-14 | A highly customizable homepage (or startpage / application 仪表盘) with Docker and service API integrations. |
 | 28,883 | [getredash/redash](https://github.com/getredash/redash) | 2026-11-13 | Make Your Company 数据 Driven. Connect to any 数据 source, easily visualize, 仪表盘 and share your 数据. |
 | 26,995 | [lissy93/dashy](https://github.com/lissy93/dashy) | 2026-11-13 | 🚀 A self-hostable personal 仪表盘 built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more! |
@@ -36,7 +36,7 @@
 | 5,584 | [allure-framework/allure2](https://github.com/allure-framework/allure2) | 2026-11-13 | Allure Report is a flexible, 轻量 多-语言 测试 报表 工具. It provides clear graphical reports and allows everyone involved in the development process to extract the maximum of information from the everyday testing process |
 | 5,290 | [ravionhq/superjson](https://github.com/ravionhq/superjson) | 2026-11-11 | Safely serialize JavaScript expressions to a superset of JSON, which includes Dates, BigInts, and more. |
 | 5,235 | [console-rs/indicatif](https://github.com/console-rs/indicatif) | 2026-11-13 | A command line progress 报表 库 for Rust |
-| 5,060 | [bowenliang123/dsh-context](https://github.com/bowenliang123/dsh-context) | 2026-11-14 | The best DeepSeek Harness plugin for 上下文 insight and management, with 上下文 仪表盘 / browser / sidebar and 上下文 command, for 上下文 statistics, composition, breakdown, evolution details, 智能体 teams, understanding how the 上下文 is made of, and h |
+| 5,062 | [bowenliang123/dsh-context](https://github.com/bowenliang123/dsh-context) | 2026-11-14 | The best DeepSeek Harness plugin for 上下文 insight and management, with 上下文 仪表盘 / browser / sidebar and 上下文 command, for 上下文 statistics, composition, breakdown, evolution details, 智能体 teams, understanding how the 上下文 is made of, and h |
 | 4,908 | [m3db/m3](https://github.com/m3db/m3) | 2026-11-12 | M3 monorepo - 分布式 TSDB, Aggregator and 查询 引擎, Prometheus Sidecar, Graphite Compatible, Metrics 平台 |
 | 4,808 | [ankane/blazer](https://github.com/ankane/blazer) | 2026-11-12 | 商业 智能 made 简单 |
 | 4,663 | [nunomaduro/collision](https://github.com/nunomaduro/collision) | 2026-11-10 | 💥 Collision is a beautiful error 报表 工具 for command-line applications |

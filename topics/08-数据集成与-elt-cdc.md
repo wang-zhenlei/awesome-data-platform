@@ -8,7 +8,7 @@
 | 16,135 | [coderamp-labs/gitingest](https://github.com/coderamp-labs/gitingest) | 2026-11-13 | Replace 'hub' with 'ingest' in any GitHub URL to get a 提示词-friendly extract of a codebase |
 | 13,348 | [debezium/debezium](https://github.com/debezium/debezium) | 2026-11-13 | 变更 数据 捕获 for a variety of databases. Please log issues at https://github.com/debezium/dbz/issues. |
 | 11,926 | [fivetran/great_expectations](https://github.com/fivetran/great_expectations) | 2026-11-13 | Always know what to expect from your 数据. |
-| 9,805 | [apache/seatunnel](https://github.com/apache/seatunnel) | 2026-11-14 | SeaTunnel is a 多模态, high-性能, 分布式, massive 数据 集成 工具. |
+| 9,804 | [apache/seatunnel](https://github.com/apache/seatunnel) | 2026-11-14 | SeaTunnel is a 多模态, high-性能, 分布式, massive 数据 集成 工具. |
 | 8,415 | [pentaho/pentaho-kettle](https://github.com/pentaho/pentaho-kettle) | 2026-11-13 | Pentaho 数据 集成 ( ETL ) a.k.a Kettle |
 | 8,007 | [turbot/steampipe](https://github.com/turbot/steampipe) | 2026-11-13 | Zero-ETL, infinite possibilities. Live 查询 APIs, code & more with SQL. No DB required. |
 | 7,934 | [adithya-s-k/omniparse](https://github.com/adithya-s-k/omniparse) | 2026-11-13 | Ingest, parse, and optimize any 数据 format ➡️ from documents to multimedia ➡️ for enhanced compatibility with GenAI frameworks |
@@ -32,7 +32,7 @@
 | 2,229 | [sequinstream/sequin](https://github.com/sequinstream/sequin) | 2026-11-13 | Postgres 变更 数据 捕获 to streams, queues, and 搜索 indexes like Kafka, SQS, Elasticsearch, HTTP endpoints, and more |
 | 2,138 | [async-library/react-async](https://github.com/async-library/react-async) | 2026-11-02 | 🍾 Flexible promise-based React 数据 loader |
 | 2,135 | [Micke-K/IntuneManagement](https://github.com/Micke-K/IntuneManagement) | 2026-11-13 | Copy, export, import, delete, 文档 and compare policies and profiles in Intune and Azure with PowerShell script and WPF UI. Import ADMX files and 注册表 settings with ADMX ingestion. View and edit PowerShell script. |
-| 2,102 | [monoscope-tech/monoscope](https://github.com/monoscope-tech/monoscope) | 2026-11-13 | Monoscope lets you ingest and explore your logs, traces and metrics. We 存储 these in S3 compatible buckets. 查询 in 自然 语言 via LLMs. |
+| 2,103 | [monoscope-tech/monoscope](https://github.com/monoscope-tech/monoscope) | 2026-11-14 | Monoscope lets you ingest and explore your logs, traces and metrics. We 存储 these in S3 compatible buckets. 查询 in 自然 语言 via LLMs. |
 | 2,028 | [jimmc414/onefilellm](https://github.com/jimmc414/onefilellm) | 2026-11-13 | Specify a github or 本地 repo, github pull request,  arXiv or Sci-Hub paper, Youtube transcript or documentation URL on the 网页 and scrape into a 文本 file and clipboard  for easier LLM ingestion |
 | 1,808 | [bruin-data/bruin](https://github.com/bruin-data/bruin) | 2026-11-13 | 构建 数据 pipelines with SQL and Python, ingest 数据 from different sources, add 质量 checks, and 构建 end-to-end flows. |
 | 1,785 | [embulk/embulk](https://github.com/embulk/embulk) | 2026-10-17 | Embulk: Pluggable Bulk 数据 Loader. |
