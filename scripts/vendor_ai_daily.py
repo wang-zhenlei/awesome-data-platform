@@ -240,7 +240,10 @@ def main():
                     items = items[:MAX_PER_SOURCE]
             elif kind == "hf":
                 items = parse_hf(target)
-                if not items:
+                if items:
+                    newest = items[0]
+                    print(f"  [hf-diag] {vendor} 最新一条: {newest['link']} @ {newest.get('created','?')}")
+                else:
                     status = "empty(API 无返回或窗口内无发布)"
                 keep = []
                 for it in items:
