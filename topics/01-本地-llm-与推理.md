@@ -4,31 +4,31 @@
 
 | ⭐ Stars | 仓库 | 最近更新 | 中文简介 |
 |--------:|------|----------|----------|
-| 186,890 | [ollama/ollama](https://github.com/ollama/ollama) | 2026-11-13 | Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models. |
-| 158,577 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | 2026-11-13 | User-friendly AI 界面 (Supports Ollama, OpenAI API, ...) |
-| 134,864 | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | 2026-11-13 | LLM 推理 in C/C++ |
-| 96,872 | [vllm-project/vllm](https://github.com/vllm-project/vllm) | 2026-11-13 | A 高吞吐 and 低内存 推理 and 服务 引擎 for LLMs |
-| 79,448 | [unslothai/unsloth](https://github.com/unslothai/unsloth) | 2026-11-13 | 本地 UI to 运行 and 训练 LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, DeepSeek-V4.1, MiniMax-H3, Gemma 4, FLUX and more. |
-| 63,220 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 2026-11-13 | The fastest, litest AI Gateway. Rust core with Python SDK. 调用 100+ LLM APIs in OpenAI (or native) format with cost 追踪, guardrails, load balancing, and logging [Bedrock, Azure, OpenAI, Anthropic, OpenAI, VertexAI, vLLM, Nvidia NIM] |
-| 57,635 | [zylon-ai/private-gpt](https://github.com/zylon-ai/private-gpt) | 2026-11-13 | Complete API layer for 私有 AI applications on 本地 models: RAG, skills, tools, MCP, 文本-to-sql, and more. Works with any OpenAI-compatible 推理 服务器. |
-| 50,355 | [mudler/LocalAI](https://github.com/mudler/LocalAI) | 2026-11-13 | LocalAI is the 开源 AI 引擎. 运行 any 模型 - LLMs, 视觉, 语音, 图像, 视频 - on any hardware. No GPU required. |
-| 43,364 | [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) | 2026-11-13 | Project NOMAD is an 离线-first 知识 and education 服务器. Wikipedia, thousands of books, courses, maps, and optional 本地 AI, all running on hardware you own with no internet required. |
-| 42,325 | [lyogavin/airllm](https://github.com/lyogavin/airllm) | 2026-11-13 | AirLLM 2.8T LLM 推理 with single 4GB GPU |
-| 38,831 | [sgl-project/sglang](https://github.com/sgl-project/sglang) | 2026-11-13 | SGLang is a high-性能 服务 框架 for large 语言 models and 多模态 models. |
-| 38,408 | [PDFMathTranslate/PDFMathTranslate](https://github.com/PDFMathTranslate/PDFMathTranslate) | 2026-11-13 | [EMNLP 2025 Demo] PDF scientific paper 翻译 with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/MCP/Docker/Zotero |
-| 38,124 | [khoj-ai/khoj](https://github.com/khoj-ai/khoj) | 2026-11-13 | Your AI second brain. Self-hostable. Get answers from the 网页 or your docs. 构建 custom agents, schedule automations, do deep research. Turn any online or 本地 LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - f |
-| 34,871 | [huggingface/agents-course](https://github.com/huggingface/agents-course) | 2026-11-13 | This repository contains the Hugging Face Agents Course. |
+| 186,900 | [ollama/ollama](https://github.com/ollama/ollama) | 2026-11-14 | Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models. |
+| 158,590 | [open-webui/open-webui](https://github.com/open-webui/open-webui) | 2026-11-14 | User-friendly AI 界面 (Supports Ollama, OpenAI API, ...) |
+| 134,883 | [ggml-org/llama.cpp](https://github.com/ggml-org/llama.cpp) | 2026-11-14 | LLM 推理 in C/C++ |
+| 96,879 | [vllm-project/vllm](https://github.com/vllm-project/vllm) | 2026-11-14 | A 高吞吐 and 低内存 推理 and 服务 引擎 for LLMs |
+| 79,459 | [unslothai/unsloth](https://github.com/unslothai/unsloth) | 2026-11-14 | 本地 UI to 运行 and 训练 LLMs and diffusion models. Supports GGUF, MLX, Qwen3.8, DeepSeek-V4.1, MiniMax-H3, Gemma 4, FLUX and more. |
+| 63,221 | [BerriAI/litellm](https://github.com/BerriAI/litellm) | 2026-11-14 | The fastest, litest AI Gateway. Rust core with Python SDK. 调用 100+ LLM APIs in OpenAI (or native) format with cost 追踪, guardrails, load balancing, and logging [Bedrock, Azure, OpenAI, Anthropic, OpenAI, VertexAI, vLLM, Nvidia NIM] |
+| 57,635 | [zylon-ai/private-gpt](https://github.com/zylon-ai/private-gpt) | 2026-11-14 | Complete API layer for 私有 AI applications on 本地 models: RAG, skills, tools, MCP, 文本-to-sql, and more. Works with any OpenAI-compatible 推理 服务器. |
+| 50,359 | [mudler/LocalAI](https://github.com/mudler/LocalAI) | 2026-11-14 | LocalAI is the 开源 AI 引擎. 运行 any 模型 - LLMs, 视觉, 语音, 图像, 视频 - on any hardware. No GPU required. |
+| 43,379 | [Crosstalk-Solutions/project-nomad](https://github.com/Crosstalk-Solutions/project-nomad) | 2026-11-14 | Project NOMAD is an 离线-first 知识 and education 服务器. Wikipedia, thousands of books, courses, maps, and optional 本地 AI, all running on hardware you own with no internet required. |
+| 42,329 | [lyogavin/airllm](https://github.com/lyogavin/airllm) | 2026-11-14 | AirLLM 2.8T LLM 推理 with single 4GB GPU |
+| 38,838 | [sgl-project/sglang](https://github.com/sgl-project/sglang) | 2026-11-14 | SGLang is a high-性能 服务 框架 for large 语言 models and 多模态 models. |
+| 38,409 | [PDFMathTranslate/PDFMathTranslate](https://github.com/PDFMathTranslate/PDFMathTranslate) | 2026-11-13 | [EMNLP 2025 Demo] PDF scientific paper 翻译 with preserved formats - 基于 AI 完整保留排版的 PDF 文档全文双语翻译，支持 Google/DeepL/Ollama/OpenAI 等服务，提供 CLI/GUI/MCP/Docker/Zotero |
+| 38,125 | [khoj-ai/khoj](https://github.com/khoj-ai/khoj) | 2026-11-13 | Your AI second brain. Self-hostable. Get answers from the 网页 or your docs. 构建 custom agents, schedule automations, do deep research. Turn any online or 本地 LLM into your personal, autonomous AI (gpt, claude, gemini, llama, qwen, mistral). Get started - f |
+| 34,874 | [huggingface/agents-course](https://github.com/huggingface/agents-course) | 2026-11-14 | This repository contains the Hugging Face Agents Course. |
 | 29,156 | [ml-explore/mlx](https://github.com/ml-explore/mlx) | 2026-11-13 | MLX: An array 框架 for Apple silicon |
-| 26,635 | [mozilla-ai/llamafile](https://github.com/mozilla-ai/llamafile) | 2026-11-13 | Distribute and 运行 LLMs with a single file. |
-| 23,608 | [jundot/omlx](https://github.com/jundot/omlx) | 2026-11-13 | LLM 推理 服务器 with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar |
+| 26,636 | [mozilla-ai/llamafile](https://github.com/mozilla-ai/llamafile) | 2026-11-13 | Distribute and 运行 LLMs with a single file. |
+| 23,612 | [jundot/omlx](https://github.com/jundot/omlx) | 2026-11-14 | LLM 推理 服务器 with continuous batching & SSD caching for Apple Silicon — managed from the macOS menu bar |
 | 22,138 | [huggingface/datasets](https://github.com/huggingface/datasets) | 2026-11-13 | 🤗 The largest hub of ready-to-use datasets for AI models with 快速, easy-to-use and 高效 数据 manipulation tools |
 | 21,565 | [AI4Finance-Foundation/FinGPT](https://github.com/AI4Finance-Foundation/FinGPT) | 2026-11-13 | FinGPT: 开源 Financial Large 语言 Models!  Revolutionize 🔥    We release the trained 模型 on HuggingFace. |
-| 19,668 | [kvcache-ai/ktransformers](https://github.com/kvcache-ai/ktransformers) | 2026-11-13 | A Flexible 框架 for Experiencing Heterogeneous LLM 推理/微调 Optimizations |
-| 19,375 | [mlc-ai/web-llm](https://github.com/mlc-ai/web-llm) | 2026-11-13 | High-性能 In-browser LLM 推理 引擎 |
+| 19,669 | [kvcache-ai/ktransformers](https://github.com/kvcache-ai/ktransformers) | 2026-11-13 | A Flexible 框架 for Experiencing Heterogeneous LLM 推理/微调 Optimizations |
+| 19,376 | [mlc-ai/web-llm](https://github.com/mlc-ai/web-llm) | 2026-11-14 | High-性能 In-browser LLM 推理 引擎 |
 | 19,291 | [lss233/kirara-ai](https://github.com/lss233/kirara-ai) | 2026-11-13 | 🤖 可 DIY 的 多模态 AI 聊天机器人 \| 🚀 快速接入 微信、 QQ、Telegram、等聊天平台 \| 🦈支持DeepSeek、Grok、Claude、Ollama、Gemini、OpenAI \| 工作流系统、网页搜索、AI画图、人设调教、虚拟女仆、语音对话 \| |
-| 19,283 | [huggingface/sentence-transformers](https://github.com/huggingface/sentence-transformers) | 2026-11-13 | State-of-the-Art Embeddings, 检索, and Reranking |
-| 18,489 | [lidge-jun/opencodex](https://github.com/lidge-jun/opencodex) | 2026-11-13 | Universal provider proxy for OpenAI Codex & Claude Code — use any LLM (Claude, Gemini, Grok, DeepSeek, Ollama…) with Codex CLI, App, SDK, and Claude Code |
-| 16,422 | [GeeeekExplorer/nano-vllm](https://github.com/GeeeekExplorer/nano-vllm) | 2026-11-13 | Nano vLLM |
+| 19,284 | [huggingface/sentence-transformers](https://github.com/huggingface/sentence-transformers) | 2026-11-13 | State-of-the-Art Embeddings, 检索, and Reranking |
+| 18,492 | [lidge-jun/opencodex](https://github.com/lidge-jun/opencodex) | 2026-11-14 | Universal provider proxy for OpenAI Codex & Claude Code — use any LLM (Claude, Gemini, Grok, DeepSeek, Ollama…) with Codex CLI, App, SDK, and Claude Code |
+| 16,423 | [GeeeekExplorer/nano-vllm](https://github.com/GeeeekExplorer/nano-vllm) | 2026-11-14 | Nano vLLM |
 | 16,350 | [chenhg5/cc-connect](https://github.com/chenhg5/cc-connect) | 2026-11-13 | Bridge 本地 AI coding agents (Claude Code, Cursor, Gemini CLI, Codex) to messaging platforms (Feishu/Lark, DingTalk, Slack, Telegram, Discord, LINE, WeChat Work). 聊天 with your AI dev 助手 from anywhere — no public IP required for most platforms. |
 | 15,623 | [ggml-org/ggml](https://github.com/ggml-org/ggml) | 2026-11-13 | Tensor 库 for machine learning |
 | 15,357 | [n8n-io/self-hosted-ai-starter-kit](https://github.com/n8n-io/self-hosted-ai-starter-kit) | 2026-11-13 | The Self-hosted AI Starter Kit is an 开源 template that quickly sets up a 本地 AI environment. Curated by n8n, it provides essential tools for creating 安全, self-hosted AI workflows. |
@@ -40,21 +40,21 @@
 | 10,700 | [ollama/ollama-python](https://github.com/ollama/ollama-python) | 2026-11-13 | Ollama Python 库 |
 | 10,676 | [abetlen/llama-cpp-python](https://github.com/abetlen/llama-cpp-python) | 2026-11-13 | Python bindings for llama.cpp |
 | 10,573 | [sigoden/aichat](https://github.com/sigoden/aichat) | 2026-11-13 | All-in-one LLM CLI 工具 featuring Shell 助手, 聊天-REPL, RAG, AI Tools & Agents, with access to OpenAI, Claude, Gemini, Ollama, Groq, and more. |
-| 10,151 | [OpenRLHF/OpenRLHF](https://github.com/OpenRLHF/OpenRLHF) | 2026-11-12 | An Easy-to-use, 可扩展 and High-性能 Agentic RL 框架 based on Ray (PPO & DAPO & REINFORCE++ &  VLM & TIS & vLLM & Ray & Async  RL) |
+| 10,152 | [OpenRLHF/OpenRLHF](https://github.com/OpenRLHF/OpenRLHF) | 2026-11-14 | An Easy-to-use, 可扩展 and High-性能 Agentic RL 框架 based on Ray (PPO & DAPO & REINFORCE++ &  VLM & TIS & vLLM & Ray & Async  RL) |
 | 9,579 | [LearningCircuit/local-deep-research](https://github.com/LearningCircuit/local-deep-research) | 2026-11-13 | ~95% on SimpleQA (e.g. Qwen3.6-27B on a 3090). Supports all 本地 and cloud LLMs (llama.cpp, Ollama, Google, ...). 10+ 搜索 engines - arXiv, PubMed, your 私有 documents. Everything 本地 & Encrypted. |
 | 9,065 | [ml-explore/mlx-examples](https://github.com/ml-explore/mlx-examples) | 2026-11-13 | Examples in the MLX 框架 |
 | 8,842 | [intel/ipex-llm](https://github.com/intel/ipex-llm) | 2026-11-13 | Accelerate 本地 LLM 推理 and finetuning (LLaMA, Mistral, ChatGLM, Qwen, DeepSeek, Mixtral, Gemma, Phi, MiniCPM, Qwen-VL, MiniCPM-V, etc.) on Intel XPU (e.g., 本地 PC with iGPU and NPU, discrete GPU such as Arc, Flex and Max); seamlessly integrate with l |
 | 8,647 | [lightningpixel/modly](https://github.com/lightningpixel/modly) | 2026-11-13 | Desktop app to generate 3D models from images or 提示词 using 本地 AI — runs entirely on your GPU |
 | 8,532 | [reorproject/reor](https://github.com/reorproject/reor) | 2026-11-13 | 私有 & 本地 AI personal 知识 management app for high entropy people. |
-| 8,262 | [Neywa-Labs/mlx-audio](https://github.com/Neywa-Labs/mlx-audio) | 2026-11-13 | A 文本-to-语音 (TTS), 语音-to-文本 (STT) and 语音-to-语音 (STS) 库 built on Apple's MLX 框架, providing 高效 语音 analysis on Apple Silicon. |
+| 8,263 | [Neywa-Labs/mlx-audio](https://github.com/Neywa-Labs/mlx-audio) | 2026-11-14 | A 文本-to-语音 (TTS), 语音-to-文本 (STT) and 语音-to-语音 (STS) 库 built on Apple's MLX 框架, providing 高效 语音 analysis on Apple Silicon. |
 | 7,837 | [EricLBuehler/mistral.rs](https://github.com/EricLBuehler/mistral.rs) | 2026-11-13 | 快速, flexible LLM 推理 |
 | 7,742 | [vllm-project/vllm-omni](https://github.com/vllm-project/vllm-omni) | 2026-11-13 | A 框架 for 高效 模型 推理 with omni-modality models |
 | 7,650 | [ml-explore/mlx-lm](https://github.com/ml-explore/mlx-lm) | 2026-11-13 | 运行 LLMs with MLX |
-| 7,548 | [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) | 2026-11-13 | top #1 and most 特征 rich GPT wrapper for git — generate commit messages with an LLM in 1 sec — works with Claude, GPT and every other provider, supports 本地 Ollama models too |
+| 7,549 | [di-sukharev/opencommit](https://github.com/di-sukharev/opencommit) | 2026-11-13 | top #1 and most 特征 rich GPT wrapper for git — generate commit messages with an LLM in 1 sec — works with Claude, GPT and every other provider, supports 本地 Ollama models too |
 | 7,102 | [mizorewww/laya-mlx](https://github.com/mizorewww/laya-mlx) | 2026-11-13 | Native MLX runtime for Laya typed decision models — 7–14 ms short decisions on M3 Max. No 文本 生成, PyTorch, or cloud API. |
 | 6,832 | [Andyyyy64/whichllm](https://github.com/Andyyyy64/whichllm) | 2026-11-13 | Find the 本地 LLM that actually runs and performs best on your hardware. Ranked by 实时, recency-aware benchmarks, not parameter count. One command, 运行 it instantly. |
-| 6,471 | [vllm-project/semantic-router](https://github.com/vllm-project/semantic-router) | 2026-11-13 | An open, programmable decision layer for models and compute. |
-| 6,209 | [lemonade-sdk/lemonade](https://github.com/lemonade-sdk/lemonade) | 2026-11-13 | Lemonade helps users discover and 运行 本地 AI apps by 服务 optimized LLMs right from their own GPUs and NPUs. Join our discord: https://discord.gg/5xXzkMu8Zk |
+| 6,472 | [vllm-project/semantic-router](https://github.com/vllm-project/semantic-router) | 2026-11-13 | An open, programmable decision layer for models and compute. |
+| 6,209 | [lemonade-sdk/lemonade](https://github.com/lemonade-sdk/lemonade) | 2026-11-14 | Lemonade helps users discover and 运行 本地 AI apps by 服务 optimized LLMs right from their own GPUs and NPUs. Join our discord: https://discord.gg/5xXzkMu8Zk |
 | 6,052 | [PawanOsman/OpenCursor](https://github.com/PawanOsman/OpenCursor) | 2026-11-13 | 开源 Cursor-like AI coding 智能体 for VS Code - agentic 聊天, 多-provider LLMs (OpenAI, Ollama, llama.cpp), 语义 搜索, and MCP support |
 | 6,040 | [gpustack/gpustack](https://github.com/gpustack/gpustack) | 2026-11-13 | A GPU cluster manager for high-性能 AI 模型 服务 (vLLM, SGLang) and on-demand SSH-accessible GPU instances. |
 | 6,013 | [Michael-A-Kuykendall/shimmy](https://github.com/Michael-A-Kuykendall/shimmy) | 2026-11-13 | ⚡ Pure-Rust WebGPU 推理 引擎 — OpenAI-API compatible, GGUF native, runs on any GPU. No Python. No llama.cpp. Single binary. |
@@ -65,27 +65,27 @@
 | 5,606 | [ngxson/smolvlm-realtime-webcam](https://github.com/ngxson/smolvlm-realtime-webcam) | 2026-11-13 | 实时-时 webcam demo with SmolVLM and llama.cpp 服务器 |
 | 5,601 | [NVIDIA/Model-Optimizer](https://github.com/NVIDIA/Model-Optimizer) | 2026-11-13 | A unified 库 of SOTA 模型 优化 techniques like 量化, distillation, pruning, neural architecture 搜索, speculative decoding, etc. It compresses deep learning models for downstream 部署 frameworks like TensorRT-LLM, TensorRT, vLLM, |
 | 5,577 | [sgl-project/mini-sglang](https://github.com/sgl-project/mini-sglang) | 2026-11-13 | A compact implementation of SGLang, designed to demystify the complexities of modern LLM 服务 systems. |
-| 5,559 | [qybaihe/bla](https://github.com/qybaihe/bla) | 2026-11-13 | 🛡️ BLA (bla-agents / Blind LLM Agents) — 开源 Blue Defense MCP 服务器 & CLI protecting JS/TS, Electron ASAR, WASM, Python, Native Binaries, SQLite, GGUF/Safetensors & Android DEX against AI reverse-engineering agents (REA). |
+| 5,564 | [qybaihe/bla](https://github.com/qybaihe/bla) | 2026-11-14 | 🛡️ BLA (bla-agents / Blind LLM Agents) — 开源 Blue Defense MCP 服务器 & CLI protecting JS/TS, Electron ASAR, WASM, Python, Native Binaries, SQLite, GGUF/Safetensors & Android DEX against AI reverse-engineering agents (REA). |
 | 5,556 | [xlite-dev/Awesome-LLM-Inference](https://github.com/xlite-dev/Awesome-LLM-Inference) | 2026-11-13 | 📚A curated list of Awesome LLM/VLM 推理 Papers with Codes: Flash-Attention, Paged-Attention, WINT8/4, Parallelism, etc.🎉 |
 | 5,431 | [docker/genai-stack](https://github.com/docker/genai-stack) | 2026-11-13 | Langchain + Docker + Neo4j + Ollama |
 | 5,121 | [huggingface/text-embeddings-inference](https://github.com/huggingface/text-embeddings-inference) | 2026-11-13 | A blazing 快速 推理 solution for 文本 embeddings models |
 | 5,083 | [tencentmusic/cube-studio](https://github.com/tencentmusic/cube-studio) | 2026-11-13 | cube studio开源云原生一站式机器学习/深度学习/大模型AI平台，mlops算法链路全流程，算力租赁平台，notebook在线开发，拖拉拽任务流pipeline编排，多机多卡分布式训练，超参搜索，推理服务VGPU虚拟化，边缘计算，标注平台自动化标注，deepseek等大模型sft微调/奖励模型/强化学习训练，vllm/ollama/mindie大模型多机推理，私有知识库，AI模型市场，支持国产cpu/gpu/npu 昇腾生态，支持RDMA，支持pytorch/tf/mxnet/deepspeed/paddl |
 | 4,621 | [huggingface/autotrain-advanced](https://github.com/huggingface/autotrain-advanced) | 2026-11-11 | 🤗 AutoTrain Advanced |
 | 4,374 | [CalvinXKY/InfraTech](https://github.com/CalvinXKY/InfraTech) | 2026-11-13 | 分享AI Infra知识&代码练习：PyTorch、vLLM/SGLang、slime/vime框架入门⚡️、性能加速🚀、大模型基础🧠、AI软硬件🔧等 |
-| 4,275 | [sooryathejas/METATRON](https://github.com/sooryathejas/METATRON) | 2026-11-13 | AI-powered penetration testing 助手 using 本地 LLM on linux (Parrot OS) |
+| 4,277 | [sooryathejas/METATRON](https://github.com/sooryathejas/METATRON) | 2026-11-14 | AI-powered penetration testing 助手 using 本地 LLM on linux (Parrot OS) |
 | 4,248 | [city96/ComfyUI-GGUF](https://github.com/city96/ComfyUI-GGUF) | 2026-11-13 | GGUF 量化 support for native ComfyUI models |
-| 4,218 | [0xShug0/audio.cpp](https://github.com/0xShug0/audio.cpp) | 2026-11-13 | An all-in-one, pure C++ 推理 引擎 for 音频 models, powered by ggml. Supports TTS, STT, VAD, 语音 conversion, music 生成, and more, with highly optimized 性能. No Python dependency. |
-| 4,185 | [PurpleDoubleD/locally-uncensored](https://github.com/PurpleDoubleD/locally-uncensored) | 2026-11-13 | The all-in-one 本地 AI studio for your desktop: 聊天, 图像 and 视频 生成 and a coding 智能体 in one free, open source app. Windows and Linux. No Docker, no terminal, no cloud required. |
-| 4,141 | [raullenchai/Rapid-MLX](https://github.com/raullenchai/Rapid-MLX) | 2026-11-13 | Rapid-MLX is an 开源 (Apache 2.0) OpenAI- and Anthropic-compatible LLM 推理 服务器 for Apple Silicon, built on MLX, focused on reliable 工具 calling for coding agents. Up to 4× faster than Apple's MLX (mlx-lm) on the same weights. |
+| 4,219 | [0xShug0/audio.cpp](https://github.com/0xShug0/audio.cpp) | 2026-11-14 | An all-in-one, pure C++ 推理 引擎 for 音频 models, powered by ggml. Supports TTS, STT, VAD, 语音 conversion, music 生成, and more, with highly optimized 性能. No Python dependency. |
+| 4,191 | [PurpleDoubleD/locally-uncensored](https://github.com/PurpleDoubleD/locally-uncensored) | 2026-11-14 | The all-in-one 本地 AI studio for your desktop: 聊天, 图像 and 视频 生成 and a coding 智能体 in one free, open source app. Windows and Linux. No Docker, no terminal, no cloud required. |
+| 4,142 | [raullenchai/Rapid-MLX](https://github.com/raullenchai/Rapid-MLX) | 2026-11-14 | Rapid-MLX is an 开源 (Apache 2.0) OpenAI- and Anthropic-compatible LLM 推理 服务器 for Apple Silicon, built on MLX, focused on reliable 工具 calling for coding agents. Up to 4× faster than Apple's MLX (mlx-lm) on the same weights. |
 | 4,103 | [zyds/transformers-code](https://github.com/zyds/transformers-code) | 2026-11-13 | 手把手带你实战 Huggingface Transformers 课程视频同步更新在B站与YouTube |
-| 4,049 | [huggingface/huggingface_hub](https://github.com/huggingface/huggingface_hub) | 2026-11-13 | The official CLI and Python 客户端 for the Hugging Face Hub. |
+| 4,050 | [huggingface/huggingface_hub](https://github.com/huggingface/huggingface_hub) | 2026-11-14 | The official CLI and Python 客户端 for the Hugging Face Hub. |
 | 3,968 | [KoboldAI/KoboldAI-Client](https://github.com/KoboldAI/KoboldAI-Client) | 2026-11-13 | For GGUF support, see KoboldCPP: https://github.com/LostRuins/koboldcpp |
 | 3,967 | [vllm-project/llm-compressor](https://github.com/vllm-project/llm-compressor) | 2026-11-13 | State-of-the-art LLM compression, built for 生产 推理 with vLLM |
 | 3,835 | [predibase/lorax](https://github.com/predibase/lorax) | 2026-11-12 | 多-LoRA 推理 服务器 that scales to 1000s of fine-tuned LLMs |
-| 3,656 | [AtomicBot-ai/atomic-agent](https://github.com/AtomicBot-ai/atomic-agent) | 2026-11-13 | Atomic 智能体 is a 本地-first AI 智能体. Runs open-weight models on your own machine via llama.cpp. |
-| 3,499 | [nicedreamzapp/claude-code-local](https://github.com/nicedreamzapp/claude-code-local) | 2026-11-13 | Hit your Claude Code usage limit? Keep going free and 离线 on a 本地 模型: Qwen 3.8, Gemma 4, and Qwen 4 the day it ships. Runs on Apple Silicon Macs (MLX), Linux and Windows (llama.cpp) with no API key. Your code stays home. |
+| 3,658 | [AtomicBot-ai/atomic-agent](https://github.com/AtomicBot-ai/atomic-agent) | 2026-11-14 | Atomic 智能体 is a 本地-first AI 智能体. Runs open-weight models on your own machine via llama.cpp. |
+| 3,500 | [nicedreamzapp/claude-code-local](https://github.com/nicedreamzapp/claude-code-local) | 2026-11-13 | Hit your Claude Code usage limit? Keep going free and 离线 on a 本地 模型: Qwen 3.8, Gemma 4, and Qwen 4 the day it ships. Runs on Apple Silicon Macs (MLX), Linux and Windows (llama.cpp) with no API key. Your code stays home. |
 | 3,393 | [ikawrakow/ik_llama.cpp](https://github.com/ikawrakow/ik_llama.cpp) | 2026-11-13 | llama.cpp fork with additional SOTA quants and improved 性能 |
-| 3,374 | [off-grid-ai/OGAM](https://github.com/off-grid-ai/OGAM) | 2026-11-13 | The Swiss Army Knife of 离线 AI. 聊天, see, speak, and generate images on your phone or Mac — GGUF LLMs, 视觉, Whisper 语音-to-文本, Stable Diffusion, 工具 calling, and 本地-network servers. Runs on your CPU, GPU, or NPU. No account, no API key, zero d |
+| 3,375 | [off-grid-ai/OGAM](https://github.com/off-grid-ai/OGAM) | 2026-11-13 | The Swiss Army Knife of 离线 AI. 聊天, see, speak, and generate images on your phone or Mac — GGUF LLMs, 视觉, Whisper 语音-to-文本, Stable Diffusion, 工具 calling, and 本地-network servers. Runs on your CPU, GPU, or NPU. No account, no API key, zero d |
 | 3,324 | [johnbean393/Sidekick](https://github.com/johnbean393/Sidekick) | 2026-11-11 | A native macOS app that allows users to 聊天 with a 本地 LLM that can respond with information from files, folders and websites on your Mac without installing any other software. Powered by llama.cpp. |
 | 3,150 | [spiceai/spiceai](https://github.com/spiceai/spiceai) | 2026-11-13 | Add a 实时-时 分析 node to your operational 数据库. Spice is a portable, accelerated SQL 查询, 搜索, and LLM-推理 引擎 in Rust for 数据-grounded AI apps and agents. |
 | 3,096 | [openlake-project/openlake](https://github.com/openlake-project/openlake) | 2026-11-13 | OpenLake is a high 性能 storage 引擎 for 高效 LLM 推理 and GPU Training |
@@ -95,7 +95,7 @@
 | 2,746 | [janhq/cortex.cpp](https://github.com/janhq/cortex.cpp) | 2026-11-09 | 本地 AI API 平台 |
 | 2,731 | [nikmcfly/MiroFish-Offline](https://github.com/nikmcfly/MiroFish-Offline) | 2026-11-13 | 离线 多-智能体 simulation & prediction 引擎. English fork of MiroFish with Neo4j + Ollama 本地 stack. |
 | 2,696 | [ml-explore/mlx-swift-examples](https://github.com/ml-explore/mlx-swift-examples) | 2026-11-12 | Examples using MLX Swift |
-| 2,609 | [mflux-community/mflux](https://github.com/mflux-community/mflux) | 2026-11-13 | Apple MLX native implementations of state-of-the-art generative 图像 & 视频 models |
+| 2,610 | [mflux-community/mflux](https://github.com/mflux-community/mflux) | 2026-11-14 | Apple MLX native implementations of state-of-the-art generative 图像 & 视频 models |
 | 2,609 | [data-infra/cube-studio](https://github.com/data-infra/cube-studio) | 2026-11-12 | cubestudio开源云原生一站式机器学习/深度学习/大模型AI平台/MaaS/mlops/人工智能平台/训推平台，算法全链路流程，多租户，算力租赁平台，token中转，拖拉拽任务流pipeline编排，多机多卡分布式训练，超参搜索，推理服务，VGPU虚拟化，云边端协同，边缘计算，自动化标注平台，deepseek等大模型sft微调/奖励模型/强化学习训练，vllm/ollama/mindie大模型多机推理，私有知识库llmops智能体，AI模型市场，支持国产异构算力调度,昇腾/寒武纪/海光/摩尔/沐曦等，支持ib |
 | 2,555 | [datawhalechina/handy-ollama](https://github.com/datawhalechina/handy-ollama) | 2026-11-11 | 动手学Ollama，CPU玩转大模型部署，在线阅读地址：https://datawhalechina.github.io/handy-ollama/ |
 | 2,499 | [noonghunna/club-3090](https://github.com/noonghunna/club-3090) | 2026-11-12 | Community recipes for 服务 LLMs on RTX 3090/4090/5090 CUDA gpus. 多-引擎 (vLLM, sglang, llama.cpp and other custom engines) and 模型-agnostic. Currently shipping Qwen3.8-27B Qwen3.6 35B Gemma 4 26B Gemma 4 31B configs for 1×/2×/4x/8x cards. |
@@ -103,27 +103,27 @@
 | 2,390 | [heshengtao/comfyui_LLM_party](https://github.com/heshengtao/comfyui_LLM_party) | 2026-11-11 | LLM 智能体 框架 in ComfyUI includes MCP sever, Omost,GPT-sovits, ChatTTS,GOT-OCR2.0, and FLUX 提示词 nodes,access to Feishu,discord,and adapts to all llms with similar openai / aisuite interfaces, such as o1,ollama, gemini, grok, qwen, GLM, deepseek, kimi, |
 | 2,321 | [severian42/GraphRAG-Local-UI](https://github.com/severian42/GraphRAG-Local-UI) | 2026-11-05 | Microsoft’s GraphRAG on 本地 models (Ollama, LM Studio), with an API and apps for 索引, 提示词 tuning, 查询 and 图 visualization. |
 | 2,205 | [withcatai/node-llama-cpp](https://github.com/withcatai/node-llama-cpp) | 2026-11-13 | 运行 AI models locally on your machine with node.js bindings for llama.cpp. Enforce a JSON 模式 on the 模型 output on the 生成 level |
-| 2,177 | [timoncool/YuE2-Studio](https://github.com/timoncool/YuE2-Studio) | 2026-11-13 | 本地 AI song generator with an editable score — YuE2 on your GPU: full songs with vocals, sheet music, covers, exact replay. Native Windows app, no Python, installer with auto-update. |
+| 2,179 | [timoncool/YuE2-Studio](https://github.com/timoncool/YuE2-Studio) | 2026-11-14 | 本地 AI song generator with an editable score — YuE2 on your GPU: full songs with vocals, sheet music, covers, exact replay. Native Windows app, no Python, installer with auto-update. |
 | 2,169 | [handy-computer/transcribe.cpp](https://github.com/handy-computer/transcribe.cpp) | 2026-11-13 | ggml 语音-to-文本 推理 for 16+ 模型 families |
-| 2,113 | [datawhalechina/zero-to-sglang](https://github.com/datawhalechina/zero-to-sglang) | 2026-11-13 | Official SGLang x Datawhale course on LLM 推理: understand 推理, 构建 a mini-sglang from scratch, then read the 实时 SGLang source and land your first PR. Available in English and Chinese. |
+| 2,116 | [datawhalechina/zero-to-sglang](https://github.com/datawhalechina/zero-to-sglang) | 2026-11-14 | Official SGLang x Datawhale course on LLM 推理: understand 推理, 构建 a mini-sglang from scratch, then read the 实时 SGLang source and land your first PR. Available in English and Chinese. |
 | 2,090 | [ml-explore/mlx-swift](https://github.com/ml-explore/mlx-swift) | 2026-11-12 | Swift API for MLX |
 | 2,087 | [camenduru/text-generation-webui-colab](https://github.com/camenduru/text-generation-webui-colab) | 2026-11-12 | A colab gradio 网页 UI for running Large 语言 Models |
 | 2,080 | [guinmoon/LLMFarm](https://github.com/guinmoon/LLMFarm) | 2026-11-09 | llama and other  large 语言 models on iOS and MacOS 离线 using GGML 库. |
 | 2,008 | [techjarves/Portable-Local-Studio](https://github.com/techjarves/Portable-Local-Studio) | 2026-11-13 | Portable 本地 AI studio for Windows, Linux, and macOS. Zero-setup GUI for 图像 生成, GGUF LLMs, 文本 to 语音 & 语音 to 文本 |
 | 2,005 | [lucidrains/titans-pytorch](https://github.com/lucidrains/titans-pytorch) | 2026-11-13 | Unofficial implementation of Titans, SOTA 记忆 for transformers, in Pytorch |
-| 1,999 | [AtomicBot-ai/Atomic-Chat](https://github.com/AtomicBot-ai/Atomic-Chat) | 2026-11-13 | 本地 AI app and 推理 引擎 for agents. 运行 open-weight LLMs locally — 私有, 100% 离线 on your computer. Join our Discord: https://discord.com/invite/8wGSsvmg4V |
+| 2,000 | [AtomicBot-ai/Atomic-Chat](https://github.com/AtomicBot-ai/Atomic-Chat) | 2026-11-14 | 本地 AI app and 推理 引擎 for agents. 运行 open-weight LLMs locally — 私有, 100% 离线 on your computer. Join our Discord: https://discord.com/invite/8wGSsvmg4V |
 | 1,994 | [vllm-project/vllm-metal](https://github.com/vllm-project/vllm-metal) | 2026-11-13 | Community maintained hardware plugin for vLLM on Apple Silicon |
 | 1,892 | [trevin-creator/autoresearch-mlx](https://github.com/trevin-creator/autoresearch-mlx) | 2026-11-11 | Apple Silicon (MLX) port of Karpathy's autoresearch — autonomous AI research loops on Mac, no PyTorch required. |
 | 1,888 | [marella/ctransformers](https://github.com/marella/ctransformers) | 2026-11-07 | Python bindings for the Transformer models implemented in C/C++ using GGML 库. |
 | 1,847 | [sammcj/gollama](https://github.com/sammcj/gollama) | 2026-11-10 | Go manage your Ollama models |
 | 1,844 | [sybil-solutions/local-studio](https://github.com/sybil-solutions/local-studio) | 2026-11-12 | Control panel for VLLM, Sglang, llama.cpp, exllamav3 |
-| 1,804 | [ggml-org/Llama-macOS](https://github.com/ggml-org/Llama-macOS) | 2026-11-13 | A cosy home for your LLMs. |
+| 1,808 | [ggml-org/Llama-macOS](https://github.com/ggml-org/Llama-macOS) | 2026-11-14 | A cosy home for your LLMs. |
 | 1,779 | [sgl-project/sglang-omni](https://github.com/sgl-project/sglang-omni) | 2026-11-13 | High 性能 服务 Runtime For Interactive Super 智能 System |
 | 1,744 | [StartLuxLabs/StartLux-Decision](https://github.com/StartLuxLabs/StartLux-Decision) | 2026-11-13 | Open decision models from 0.8B to 27B: a calibrated probability for every option in one pass, and a short thought only when unsure. 引擎 for vLLM, llama.cpp and MLX. |
 | 1,693 | [intentee/paddler](https://github.com/intentee/paddler) | 2026-11-13 | 开源 LLM/VLM load balancer and 服务 平台 for self-hosting LLMs (and VLMs) at scale 🏓🦙 Alternative to projects like llm-d, Docker 模型 Runner, etc but with less moving parts and 简单 deployments built around ggml ecosystem. Runs on CPU and GPU. |
 | 1,655 | [waybarrios/vllm-mlx](https://github.com/waybarrios/vllm-mlx) | 2026-11-13 | High-性能 OpenAI and Anthropic compatible LLM 推理 服务器 for Apple Silicon. Native MLX, continuous batching, 多模态 models, MCP 工具 calling, and Claude Code support. |
 | 1,606 | [QwenAudio/Fun-ASR](https://github.com/QwenAudio/Fun-ASR) | 2026-11-12 | Fun-ASR 语音 recognition models, with native Hugging Face Transformers support for Fun-ASR-Nano and separate FunASR, vLLM and llama.cpp 部署 paths. |
-| 1,586 | [techjarves/Uncensored-Local-AI-Multiplatform](https://github.com/techjarves/Uncensored-Local-AI-Multiplatform) | 2026-11-13 | A cross-平台 Flutter app that runs uncensored, 100% 离线 开源 AI models (GGUF) directly on your Android, iOS, or PC. No cloud, no filters, total 隐私. |
+| 1,596 | [techjarves/Uncensored-Local-AI-Multiplatform](https://github.com/techjarves/Uncensored-Local-AI-Multiplatform) | 2026-11-14 | A cross-平台 Flutter app that runs uncensored, 100% 离线 开源 AI models (GGUF) directly on your Android, iOS, or PC. No cloud, no filters, total 隐私. |
 | 1,584 | [RunanywhereAI/trnrt](https://github.com/RunanywhereAI/trnrt) | 2026-11-13 | The open LLM 推理 引擎 for AWS Trainium: NKI megakernels, 1M-token 上下文, OpenAI-compatible API. By RunAnywhere. |
 | 1,524 | [theroyallab/tabbyAPI](https://github.com/theroyallab/tabbyAPI) | 2026-11-13 | The official API 服务器 for Exllama. OAI compatible, 轻量, and 快速. |
 | 1,470 | [ARahim3/mlx-tune](https://github.com/ARahim3/mlx-tune) | 2026-11-12 | 微调 LLMs on your Mac with Apple Silicon. SFT, DPO, GRPO, 视觉, TTS, STT, 嵌入, and OCR 微调 — natively on MLX. Unsloth-compatible API. |
@@ -137,7 +137,7 @@
 | 1,169 | [patchy631/time-to-first-token](https://github.com/patchy631/time-to-first-token) | 2026-11-11 | A 10-week, 30-minutes-a-day roadmap for LLM 推理 服务 and 优化. vLLM, SGLang, 量化, speculative decoding, benchmarking. |
 | 1,137 | [localai-org/depth-anything.cpp](https://github.com/localai-org/depth-anything.cpp) | 2026-11-10 | A from-scratch C++17/ggml port of Depth Anything 2 and 3 (ByteDance) |
 | 1,073 | [mybigday/llama.rn](https://github.com/mybigday/llama.rn) | 2026-11-12 | React Native binding of llama.cpp |
-| 1,068 | [wici-ai/inferssd](https://github.com/wici-ai/inferssd) | 2026-11-13 | 运行 models larger than your RAM or VRAM by streaming MoE experts from SSD. Built on llama.cpp. |
+| 1,073 | [wici-ai/inferssd](https://github.com/wici-ai/inferssd) | 2026-11-14 | 运行 models larger than your RAM or VRAM by streaming MoE experts from SSD. Built on llama.cpp. |
 | 1,059 | [scrya-com/rotorquant](https://github.com/scrya-com/rotorquant) | 2026-11-12 | KV cache compression via block-diagonal rotation. Beats TurboQuant: better PPL (6.91 vs 7.07), 28% faster decode, 5.3x faster prefill, 44x fewer params. Drop-in llama.cpp 集成. |
 | 1,008 | [nomic-ai/pygpt4all](https://github.com/nomic-ai/pygpt4all) | 2026-11-08 | Official supported Python bindings for llama.cpp + gpt4all |
 | 984 | [patruff/ollama-mcp-bridge](https://github.com/patruff/ollama-mcp-bridge) | 2026-10-26 | Bridge between Ollama and MCP servers, enabling 本地 LLMs to use 模型 上下文 Protocol tools |
@@ -150,7 +150,7 @@
 | 907 | [spiritbuun/buun-llama-cpp](https://github.com/spiritbuun/buun-llama-cpp) | 2026-11-12 | Experimental llama.cpp fork for 推理 research and development |
 | 904 | [sgl-project/sgl-learning-materials](https://github.com/sgl-project/sgl-learning-materials) | 2026-11-13 | Materials for learning SGLang |
 | 903 | [SeldonIO/MLServer](https://github.com/SeldonIO/MLServer) | 2026-11-05 | An 推理 服务器 for your machine learning models, including support for multiple frameworks, 多-模型 服务 and more |
-| 889 | [hehehai/voxt](https://github.com/hehehai/voxt) | 2026-11-13 | We've moved to SGLang Omni Voxt: https://github.com/sgl-project/sglang-omni/tree/main/Voxt |
+| 890 | [hehehai/voxt](https://github.com/hehehai/voxt) | 2026-11-13 | We've moved to SGLang Omni Voxt: https://github.com/sgl-project/sglang-omni/tree/main/Voxt |
 | 887 | [mudler/parakeet.cpp](https://github.com/mudler/parakeet.cpp) | 2026-11-13 | 快速 and portable Parakeet implementation in C++ with ggml |
 | 849 | [karthikvenkatesan-eaton/Autogen_GraphRAG_Ollama](https://github.com/karthikvenkatesan-eaton/Autogen_GraphRAG_Ollama) | 2026-11-05 | Microsoft's GraphRAG + AutoGen + Ollama + Chainlit = Fully 本地 & Free 多-智能体 RAG Superbot |
 | 830 | [vmware-archive/tgik](https://github.com/vmware-archive/tgik) | 2026-11-09 | Official repository for TGI Kubernetes (TGIK)! |
@@ -192,7 +192,7 @@
 | 162 | [lee-b/kobold_assistant](https://github.com/lee-b/kobold_assistant) | 2026-11-02 | Like ChatGPT's 语音 conversations with an AI, but entirely 离线/私有/trade-secret-friendly, using 本地 AI models such as LLama 2 and Whisper |
 | 160 | [GuyMannDude/mnemo-cortex](https://github.com/GuyMannDude/mnemo-cortex) | 2026-11-12 | 开源 cognitive coprocessor with active 记忆 for AI agents — persistent recall, 语义 搜索, overnight dreaming, verified facts, encrypted USB sync. MCP 服务器; works with Claude, ChatGPT, and any 本地 LLM. Built by one maker and his agents. |
 | 159 | [if-ai/ComfyUI-IF_LLM](https://github.com/if-ai/ComfyUI-IF_LLM) | 2026-11-01 | 运行 本地 and API LLMs, Features Gemini2 图像 生成, DEEPSEEK R1, QwenVL2.5, QWQ32B, Ollama, LlamaCPP LMstudio, Koboldcpp, TextGen, Transformers or via APIs Anthropic, Groq, OpenAI, Google Gemini, Mistral, xAI and create your own charcters assistants (Sy |
-| 157 | [cxumol/promptmask](https://github.com/cxumol/promptmask) | 2026-11-04 | Never give AI companies your secrets! A 本地 LLM-based 隐私 filter for LLM users. Seamless 集成 with your existing AI tools as a Python 库 / OpenAI SDK replacement / API Gatetway / 网页 服务器. |
+| 158 | [cxumol/promptmask](https://github.com/cxumol/promptmask) | 2026-11-14 | Never give AI companies your secrets! A 本地 LLM-based 隐私 filter for LLM users. Seamless 集成 with your existing AI tools as a Python 库 / OpenAI SDK replacement / API Gatetway / 网页 服务器. |
 | 156 | [kanttouchthis/text_generation_webui_xtts](https://github.com/kanttouchthis/text_generation_webui_xtts) | 2026-09-19 | XTTSv2 Extension for oobabooga 文本-生成-webui |
 | 155 | [asg017/sqlite-rembed](https://github.com/asg017/sqlite-rembed) | 2026-11-06 | A SQLite extension for generating 文本 embeddings from remote APIs (OpenAI, Nomic, Ollama, llamafile...) |
 | 125 | [notadev-iamaura/OneRAG](https://github.com/notadev-iamaura/OneRAG) | 2026-11-04 | 生产-ready RAG 框架 (Python/FastAPI). 1-line config swaps: 6 向量 DBs (Weaviate, Pinecone, Qdrant, ChromaDB, pgvector, MongoDB), 5 LLMs (Gemini, OpenAI, Claude, Ollama, OpenRouter). OpenAI-compatible API. 2100+ tests. |

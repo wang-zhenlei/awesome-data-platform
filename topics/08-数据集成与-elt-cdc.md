@@ -8,13 +8,13 @@
 | 16,135 | [coderamp-labs/gitingest](https://github.com/coderamp-labs/gitingest) | 2026-11-13 | Replace 'hub' with 'ingest' in any GitHub URL to get a 提示词-friendly extract of a codebase |
 | 13,348 | [debezium/debezium](https://github.com/debezium/debezium) | 2026-11-13 | 变更 数据 捕获 for a variety of databases. Please log issues at https://github.com/debezium/dbz/issues. |
 | 11,926 | [fivetran/great_expectations](https://github.com/fivetran/great_expectations) | 2026-11-13 | Always know what to expect from your 数据. |
-| 9,802 | [apache/seatunnel](https://github.com/apache/seatunnel) | 2026-11-13 | SeaTunnel is a 多模态, high-性能, 分布式, massive 数据 集成 工具. |
+| 9,805 | [apache/seatunnel](https://github.com/apache/seatunnel) | 2026-11-14 | SeaTunnel is a 多模态, high-性能, 分布式, massive 数据 集成 工具. |
 | 8,415 | [pentaho/pentaho-kettle](https://github.com/pentaho/pentaho-kettle) | 2026-11-13 | Pentaho 数据 集成 ( ETL ) a.k.a Kettle |
 | 8,007 | [turbot/steampipe](https://github.com/turbot/steampipe) | 2026-11-13 | Zero-ETL, infinite possibilities. Live 查询 APIs, code & more with SQL. No DB required. |
 | 7,934 | [adithya-s-k/omniparse](https://github.com/adithya-s-k/omniparse) | 2026-11-13 | Ingest, parse, and optimize any 数据 format ➡️ from documents to multimedia ➡️ for enhanced compatibility with GenAI frameworks |
 | 7,419 | [The-Vibe-Company/megaparse](https://github.com/The-Vibe-Company/megaparse) | 2026-11-10 | File Parser optimised for LLM Ingestion with no loss 🧠 Parse PDFs, Docx, PPTx in a format that is ideal for LLMs. |
 | 6,495 | [apache/flink-cdc](https://github.com/apache/flink-cdc) | 2026-11-12 | Flink CDC is a streaming 数据 集成 工具 |
-| 6,089 | [dlt-hub/dlt](https://github.com/dlt-hub/dlt) | 2026-11-13 | 数据 load 工具 (dlt) is an open source Python 库 that makes 数据 loading easy 🛠️ |
+| 6,090 | [dlt-hub/dlt](https://github.com/dlt-hub/dlt) | 2026-11-13 | 数据 load 工具 (dlt) is an open source Python 库 that makes 数据 loading easy 🛠️ |
 | 5,723 | [mik3y/usb-serial-for-android](https://github.com/mik3y/usb-serial-for-android) | 2026-11-12 | Android USB host serial driver 库 for CDC, FTDI, Arduino and other devices. |
 | 4,109 | [DTStack/chunjun](https://github.com/DTStack/chunjun) | 2026-11-11 | A 数据 集成 框架 |
 | 3,683 | [linkedin/databus](https://github.com/linkedin/databus) | 2026-11-09 | Source-agnostic 分布式 变更 数据 捕获 system |
