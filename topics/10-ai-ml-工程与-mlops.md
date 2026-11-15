@@ -1,24 +1,24 @@
 # 🤖 AI/ML 工程与 MLOps
 
-> 共 **173** 个项目，按 star 降序。[← 返回首页](../README.md)
+> 共 **172** 个项目，按 star 降序。[← 返回首页](../README.md)
 
 | ⭐ Stars | 仓库 | 最近更新 | 中文简介 |
 |--------:|------|----------|----------|
-| 28,812 | [mlflow/mlflow](https://github.com/mlflow/mlflow) | 2026-11-14 | The open source AI engineering 平台 for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, evaluate, monitor, and optimize 生产-质量 AI applications while controlling costs and managing access to models and 数据. |
-| 17,189 | [FlashML-org/FreeToken](https://github.com/FlashML-org/FreeToken) | 2026-11-14 | FreeToken brings datacenter-scale 模型 服务 to your desktop. 运行 massive models locally, 快速 and efficiently. |
-| 15,974 | [treeverse/dvc](https://github.com/treeverse/dvc) | 2026-11-14 | 🦉 数据 Versioning and ML Experiments |
-| 15,964 | [kubeflow/kubeflow](https://github.com/kubeflow/kubeflow) | 2026-11-14 | The Cloud Native AI 平台 |
-| 15,555 | [DataTalksClub/mlops-zoomcamp](https://github.com/DataTalksClub/mlops-zoomcamp) | 2026-11-14 | Free MLOps course from DataTalks.Club. Register here 👇🏼 to get notified about the next cohort |
-| 14,300 | [visenger/awesome-mlops](https://github.com/visenger/awesome-mlops) | 2026-11-13 | A curated list of references for MLOps |
-| 12,600 | [bentoml/OpenLLM](https://github.com/bentoml/OpenLLM) | 2026-11-13 | 运行 any 开源 LLMs, such as DeepSeek and Llama, as OpenAI compatible API endpoint in the cloud. |
-| 10,348 | [Netflix/metaflow](https://github.com/Netflix/metaflow) | 2026-11-14 | 构建, Manage and 部署 AI/ML Systems |
-| 9,887 | [Tiiny-AI/PowerInfer](https://github.com/Tiiny-AI/PowerInfer) | 2026-11-14 | High-speed Large 语言 模型 服务 for 本地 部署 |
+| 28,822 | [mlflow/mlflow](https://github.com/mlflow/mlflow) | 2026-11-15 | The open source AI engineering 平台 for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, evaluate, monitor, and optimize 生产-质量 AI applications while controlling costs and managing access to models and 数据. |
+| 17,220 | [FlashML-org/FreeToken](https://github.com/FlashML-org/FreeToken) | 2026-11-15 | FreeToken brings datacenter-scale 模型 服务 to your desktop. 运行 massive models locally, 快速 and efficiently. |
+| 15,976 | [treeverse/dvc](https://github.com/treeverse/dvc) | 2026-11-15 | 🦉 数据 Versioning and ML Experiments |
+| 15,966 | [kubeflow/kubeflow](https://github.com/kubeflow/kubeflow) | 2026-11-15 | The Cloud Native AI 平台 |
+| 15,562 | [DataTalksClub/mlops-zoomcamp](https://github.com/DataTalksClub/mlops-zoomcamp) | 2026-11-15 | Free MLOps course from DataTalks.Club. Register here 👇🏼 to get notified about the next cohort |
+| 14,299 | [visenger/awesome-mlops](https://github.com/visenger/awesome-mlops) | 2026-11-15 | A curated list of references for MLOps |
+| 12,601 | [bentoml/OpenLLM](https://github.com/bentoml/OpenLLM) | 2026-11-15 | 运行 any 开源 LLMs, such as DeepSeek and Llama, as OpenAI compatible API endpoint in the cloud. |
+| 10,349 | [Netflix/metaflow](https://github.com/Netflix/metaflow) | 2026-11-15 | 构建, Manage and 部署 AI/ML Systems |
+| 9,888 | [Tiiny-AI/PowerInfer](https://github.com/Tiiny-AI/PowerInfer) | 2026-11-15 | High-speed Large 语言 模型 服务 for 本地 部署 |
 | 8,941 | [bentoml/BentoML](https://github.com/bentoml/BentoML) | 2026-11-14 | The easiest way to serve AI apps and models - 构建 模型 推理 APIs, Job queues, LLM apps, 多-模型 pipelines, and more! |
 | 8,923 | [graviraja/MLOps-Basics](https://github.com/graviraja/MLOps-Basics) | 2026-11-11 | 暂无简介 |
-| 7,363 | [feast-dev/feast](https://github.com/feast-dev/feast) | 2026-11-14 | The Open Source 特征 存储 for AI/ML |
+| 7,365 | [feast-dev/feast](https://github.com/feast-dev/feast) | 2026-11-15 | The Open Source 特征 存储 for AI/ML |
 | 6,938 | [clearml/clearml](https://github.com/clearml/clearml) | 2026-11-14 | ClearML - Auto-Magical CI/CD to streamline your AI workload. 实验 Management, 数据 Management, 流水线, 编排, Scheduling & 服务 in one MLOps/LLMOps solution |
-| 6,229 | [kserve/kserve](https://github.com/kserve/kserve) | 2026-11-14 | Standardized 分布式 Generative and Predictive AI 推理 平台 for 可扩展, 多-框架 部署 on Kubernetes |
-| 5,666 | [nyblnet/bento](https://github.com/nyblnet/bento) | 2026-11-14 | Bento, the office suite that fits in a file |
+| 6,231 | [kserve/kserve](https://github.com/kserve/kserve) | 2026-11-15 | Standardized 分布式 Generative and Predictive AI 推理 平台 for 可扩展, 多-框架 部署 on Kubernetes |
+| 5,670 | [nyblnet/bento](https://github.com/nyblnet/bento) | 2026-11-15 | Bento, the office suite that fits in a file |
 | 5,636 | [zenml-io/zenml](https://github.com/zenml-io/zenml) | 2026-11-14 | ZenML 🙏: One AI 平台 from Pipelines to Agents. https://zenml.io. |
 | 4,785 | [SeldonIO/seldon-core](https://github.com/SeldonIO/seldon-core) | 2026-11-03 | An MLOps 框架 to package, 部署, monitor and manage thousands of 生产 machine learning models |
 | 4,463 | [chef/bento](https://github.com/chef/bento) | 2026-11-13 | Packer templates for building minimal Vagrant baseboxes for multiple platforms |
@@ -26,23 +26,23 @@
 | 4,264 | [kubeflow/pipelines](https://github.com/kubeflow/pipelines) | 2026-11-14 | Machine Learning Pipelines for Kubeflow |
 | 4,069 | [FedML-AI/FedML](https://github.com/FedML-AI/FedML) | 2026-11-12 | FEDML - The unified and 可扩展 ML 库 for large-scale 分布式 training, 模型 服务, and federated learning. FEDML Launch, a cross-cloud scheduler, further enables running any AI jobs on any GPU cloud or on-premise cluster. Built on this 库, T |
 | 3,440 | [data-science-on-aws/data-science-on-aws](https://github.com/data-science-on-aws/data-science-on-aws) | 2026-11-06 | AI and Machine Learning with Kubeflow, Amazon EKS, and SageMaker |
-| 3,414 | [GokuMohandas/mlops-course](https://github.com/GokuMohandas/mlops-course) | 2026-11-08 | Learn how to design, develop, 部署 and iterate on 生产-grade ML applications. |
+| 3,415 | [GokuMohandas/mlops-course](https://github.com/GokuMohandas/mlops-course) | 2026-11-15 | Learn how to design, develop, 部署 and iterate on 生产-grade ML applications. |
 | 3,353 | [shankarpandala/lazypredict](https://github.com/shankarpandala/lazypredict) | 2026-11-14 | Python AutoML 工具集 for benchmarking 分类, regression, and 时-series forecasting models, with GPU acceleration, MLflow 追踪, and automated preprocessing. |
 | 3,246 | [determined-ai/determined](https://github.com/determined-ai/determined) | 2026-11-04 | Determined is an 开源 machine learning 平台 that simplifies 分布式 training, hyperparameter tuning, 实验 追踪, and resource management. Works with PyTorch and TensorFlow. |
-| 3,154 | [open-mmlab/mmdeploy](https://github.com/open-mmlab/mmdeploy) | 2026-11-14 | OpenMMLab 模型 部署 框架 |
+| 3,155 | [open-mmlab/mmdeploy](https://github.com/open-mmlab/mmdeploy) | 2026-11-15 | OpenMMLab 模型 部署 框架 |
 | 2,463 | [KnpLabs/Gaufrette](https://github.com/KnpLabs/Gaufrette) | 2026-11-12 | PHP 库 that provides a filesystem abstraction layer − will be a feast for your files! |
 | 2,284 | [kubeflow/trainer](https://github.com/kubeflow/trainer) | 2026-11-12 | 分布式 AI 模型 Training and LLM 微调 on Kubernetes |
-| 2,200 | [migueravila/bento](https://github.com/migueravila/bento) | 2026-11-14 | The minimalist, elegant and hackable startpage. |
+| 2,201 | [migueravila/bento](https://github.com/migueravila/bento) | 2026-11-14 | The minimalist, elegant and hackable startpage. |
 | 2,039 | [deepsweet/hocs](https://github.com/deepsweet/hocs) | 2026-11-09 | :bento: Higher-Order Components for React |
 | 1,991 | [featureform/featureform](https://github.com/featureform/featureform) | 2026-10-24 | The Virtual 特征 存储. Turn your existing 数据 infrastructure into a 特征 存储. |
-| 1,885 | [adrianhajdin/brainwave](https://github.com/adrianhajdin/brainwave) | 2026-11-13 | Learn to create modern websites with sleek parallax effects and bento box layouts. This course covers everything from stylish UI design to mobile-first principles while strengthening your React.js and Tailwind CSS skills. |
-| 1,780 | [gradio-app/trackio](https://github.com/gradio-app/trackio) | 2026-11-14 | A 轻量, 本地-first, and free 实验 追踪 库 from Hugging Face 🤗 |
+| 1,886 | [adrianhajdin/brainwave](https://github.com/adrianhajdin/brainwave) | 2026-11-15 | Learn to create modern websites with sleek parallax effects and bento box layouts. This course covers everything from stylish UI design to mobile-first principles while strengthening your React.js and Tailwind CSS skills. |
+| 1,783 | [gradio-app/trackio](https://github.com/gradio-app/trackio) | 2026-11-15 | A 轻量, 本地-first, and free 实验 追踪 库 from Hugging Face 🤗 |
 | 1,708 | [kubeflow/katib](https://github.com/kubeflow/katib) | 2026-11-11 | WARNING: Katib project is DEPRECATED, users should migrate to OptimizationJob and Kubeflow Trainer |
 | 1,705 | [mlrun/mlrun](https://github.com/mlrun/mlrun) | 2026-11-12 | MLRun is an open source MLOps 平台 for quickly building and managing continuous ML applications across their lifecycle. MLRun integrates into your development and CI/CD environment and automates the delivery of 生产 数据, ML pipelines, and online app |
 | 1,508 | [kefranabg/bento-starter](https://github.com/kefranabg/bento-starter) | 2026-11-14 | :bento: Full-Stack solution to quickly 构建 PWA applications with Vue.js and Firebase |
 | 1,476 | [SeldonIO/seldon-server](https://github.com/SeldonIO/seldon-server) | 2026-10-23 | Machine Learning 平台 and Recommendation 引擎 built on Kubernetes |
-| 1,421 | [fmind/mlops-python-package](https://github.com/fmind/mlops-python-package) | 2026-11-07 | 生产-shaped MLOps Python package and reference implementation of the MLOps Coding Course: MLflow, scikit-learn, Pydantic, Pandera, uv, and mise. |
-| 1,311 | [logicalclocks/hopsworks](https://github.com/logicalclocks/hopsworks) | 2026-11-10 | Hopsworks - 数据-Intensive AI 平台 with a 特征 存储 |
+| 1,421 | [fmind/mlops-python-package](https://github.com/fmind/mlops-python-package) | 2026-11-14 | 生产-shaped MLOps Python package and reference implementation of the MLOps Coding Course: MLflow, scikit-learn, Pydantic, Pandera, uv, and mise. |
+| 1,312 | [logicalclocks/hopsworks](https://github.com/logicalclocks/hopsworks) | 2026-11-15 | Hopsworks - 数据-Intensive AI 平台 with a 特征 存储 |
 | 1,050 | [kubeflow/community-distribution](https://github.com/kubeflow/community-distribution) | 2026-11-14 | Kubeflow Community Distribution |
 | 934 | [euvl/vue-js-grid](https://github.com/euvl/vue-js-grid) | 2026-10-15 | :bento:  Vue.js 2.x responsive grid system with smooth sorting, drag-n-drop and reordering |
 | 909 | [guildai/guildai](https://github.com/guildai/guildai) | 2026-10-06 | 实验 追踪, ML developer tools |
@@ -63,11 +63,11 @@
 | 416 | [AlexIoannides/kubernetes-mlops](https://github.com/AlexIoannides/kubernetes-mlops) | 2026-11-10 | MLOps tutorial using Python, Docker and Kubernetes. |
 | 404 | [metaskills/minitest-spec-rails](https://github.com/metaskills/minitest-spec-rails) | 2026-02-06 | :bento: Make Rails Use MiniTest::Spec! |
 | 395 | [thoughtworks/mlops-platforms](https://github.com/thoughtworks/mlops-platforms) | 2026-04-27 | Compare MLOps Platforms. Breakdowns of SageMaker, VertexAI, AzureML, Dataiku, Databricks, h2o, kubeflow, mlflow... |
-| 394 | [Ladvace/astro-bento-portfolio](https://github.com/Ladvace/astro-bento-portfolio) | 2026-11-14 | Astro-bento-portfolio is a minimal bento-like (almost) single page portfolio website made in Astro |
+| 395 | [Ladvace/astro-bento-portfolio](https://github.com/Ladvace/astro-bento-portfolio) | 2026-11-15 | Astro-bento-portfolio is a minimal bento-like (almost) single page portfolio website made in Astro |
 | 394 | [thats-it-dev/bento](https://github.com/thats-it-dev/bento) | 2026-11-03 | a computer in a keyboard |
 | 392 | [DagsHub/fds](https://github.com/DagsHub/fds) | 2026-05-07 | 快速 数据 Science, AKA fds, is a CLI for 数据 Scientists to version control 数据 and code at once, by conveniently wrapping git and dvc |
 | 390 | [bentoml/BentoDiffusion](https://github.com/bentoml/BentoDiffusion) | 2026-11-09 | BentoDiffusion: A collection of diffusion models served with BentoML |
-| 385 | [treeverse/dvc.org](https://github.com/treeverse/dvc.org) | 2026-10-01 | 📖 DVC documentation website |
+| 386 | [treeverse/dvc.org](https://github.com/treeverse/dvc.org) | 2026-11-14 | 📖 DVC documentation website |
 | 382 | [Pythondeveloper6/Awesome-MLOPS](https://github.com/Pythondeveloper6/Awesome-MLOPS) | 2026-11-08 | All the available resources to master MLOPS from scratch |
 | 373 | [itsEricWu/ericwu.me](https://github.com/itsEricWu/ericwu.me) | 2026-11-03 | Personal website built with Next.js 16, React 19 and Tailwind CSS v4: a liquid-glass bento grid with hand-made cards and motion, and a Notion-powered blog. |
 | 370 | [babylonhealth/Bento](https://github.com/babylonhealth/Bento) | 2026-11-12 | Swift 库 for building component-based interfaces on top of UITableView and UICollectionView 🍱 |
@@ -98,13 +98,13 @@
 | 219 | [flo-bit/blento](https://github.com/flo-bit/blento) | 2026-10-30 | your bento style website with 数据 hosted on your bluesky PDS, svelte/tailwind |
 | 215 | [spotify/terraform-gke-kubeflow-cluster](https://github.com/spotify/terraform-gke-kubeflow-cluster) | 2026-10-06 | Terraform module for creating GKE clusters to 运行 Kubeflow |
 | 212 | [intro-to-ml-with-kubeflow/intro-to-ml-with-kubeflow-examples](https://github.com/intro-to-ml-with-kubeflow/intro-to-ml-with-kubeflow-examples) | 2026-11-11 | [WIP] Examples for the Intro to ML with Kubeflow book |
-| 206 | [machine-learning-apps/actions-ml-cicd](https://github.com/machine-learning-apps/actions-ml-cicd) | 2026-06-15 | A Collection of GitHub Actions That Facilitate MLOps |
+| 205 | [machine-learning-apps/actions-ml-cicd](https://github.com/machine-learning-apps/actions-ml-cicd) | 2026-11-15 | A Collection of GitHub Actions That Facilitate MLOps |
 | 203 | [kubeflow/community](https://github.com/kubeflow/community) | 2026-11-12 | Information about the Kubeflow community including proposals and 治理 information. |
 | 203 | [treeverse/example-get-started](https://github.com/treeverse/example-get-started) | 2026-10-27 | Get started DVC project (NLP, random forest) |
 | 201 | [engageintellect/cook](https://github.com/engageintellect/cook) | 2026-11-13 | An ultra-modern, visually-rich, bento ui using Next.js, PocketBase, shadcd/ui, tailwind css, magic-ui, and zod. |
 | 198 | [flopach/digits-recognizer-kubeflow](https://github.com/flopach/digits-recognizer-kubeflow) | 2026-10-29 | Sample MLOps 工作流: Recognizing Digits with Kubeflow |
 | 195 | [treeverse/dvclive](https://github.com/treeverse/dvclive) | 2026-09-28 | 📈 Log and track ML metrics, parameters, models with Git and/or DVC |
-| 194 | [prsdm/mlops-project](https://github.com/prsdm/mlops-project) | 2026-11-10 | 暂无简介 |
+| 194 | [prsdm/mlops-project](https://github.com/prsdm/mlops-project) | 2026-11-14 | 暂无简介 |
 | 189 | [kubeflow/website](https://github.com/kubeflow/website) | 2026-11-11 | Kubeflow Website |
 | 189 | [zenml-io/zenbytes](https://github.com/zenml-io/zenbytes) | 2026-08-14 | A 简单 guide to MLOps through ZenML and its various integrations. |
 | 171 | [kubeflow/example-seldon](https://github.com/kubeflow/example-seldon) | 2026-09-15 | Example for end-to-end machine learning on Kubernetes using Kubeflow and Seldon Core |
@@ -142,7 +142,7 @@
 | 62 | [GokuMohandas/feature-store](https://github.com/GokuMohandas/feature-store) | 2026-09-07 | Using a 特征 存储 to connect the DataOps and MLOps workflows to enable collaborative teams to develop efficiently. |
 | 61 | [Netflix/metaflow-nflx-extensions](https://github.com/Netflix/metaflow-nflx-extensions) | 2026-11-09 | 暂无简介 |
 | 56 | [Netflix/metaflow-tools](https://github.com/Netflix/metaflow-tools) | 2025-02-27 | :rocket: 部署 tools/scripts for Metaflow! |
-| 54 | [kserve/models-web-app](https://github.com/kserve/models-web-app) | 2026-11-11 | KServe UI |
+| 55 | [kserve/models-web-app](https://github.com/kserve/models-web-app) | 2026-11-15 | KServe UI |
 | 53 | [Nneji123/Serving-Machine-Learning-Models](https://github.com/Nneji123/Serving-Machine-Learning-Models) | 2026-07-01 | This repository contains instructions, template source code and examples on how to serve/部署 machine learning models using various frameworks and applications such as Docker, Flask, FastAPI, BentoML, Streamlit, MLflow and even code on how to 部署 your mac |
 | 53 | [evidentlyai/community-examples](https://github.com/evidentlyai/community-examples) | 2026-10-19 | Examples of using Evidently to evaluate, 测试 and monitor ML models. |
 | 51 | [adriangonz/mlflow-talk](https://github.com/adriangonz/mlflow-talk) | 2026-01-09 | End to End example integrating MLFlow and Seldon Core |
@@ -173,7 +173,6 @@
 | 14 | [kserve/rest-proxy](https://github.com/kserve/rest-proxy) | 2026-04-07 | KServe V2 Protocol Rest API Implementation Proxy |
 | 14 | [clearml/clearml-docs](https://github.com/clearml/clearml-docs) | 2026-11-12 | ClearML Documentation website |
 | 14 | [Jacoo-Zhao/AI-Studio-ClearML](https://github.com/Jacoo-Zhao/AI-Studio-ClearML) | 2026-05-11 | 暂无简介 |
-| 13 | [clearml/clearml-blogs](https://github.com/clearml/clearml-blogs) | 2026-10-25 | This repository contains the codebase mentioned and used in trains' blogs |
 | 10 | [SeldonIO/seldon-core-launcher](https://github.com/SeldonIO/seldon-core-launcher) | 2025-09-15 | Seldon Core Cloud Launcher |
 | 10 | [yinondn/seldon-core-tutorial](https://github.com/yinondn/seldon-core-tutorial) | 2025-03-03 | 暂无简介 |
 | 7 | [udacity/cd0583-model-scoring-and-drift-using-evidently](https://github.com/udacity/cd0583-model-scoring-and-drift-using-evidently) | 2026-03-23 | 监控 machine learning models in 生产 using Evidently. |
