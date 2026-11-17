@@ -4,17 +4,17 @@
 
 | ⭐ Stars | 仓库 | 最近更新 | 中文简介 |
 |--------:|------|----------|----------|
-| 22,398 | [airbytehq/airbyte](https://github.com/airbytehq/airbyte) | 2026-11-17 | 开源 数据 movement for ELT pipelines and AI agents — from APIs, databases & files to warehouses, lakes, and AI applications. Both self-hosted and Cloud. |
-| 16,147 | [coderamp-labs/gitingest](https://github.com/coderamp-labs/gitingest) | 2026-11-16 | Replace 'hub' with 'ingest' in any GitHub URL to get a 提示词-friendly extract of a codebase |
-| 13,357 | [debezium/debezium](https://github.com/debezium/debezium) | 2026-11-17 | 变更 数据 捕获 for a variety of databases. Please log issues at https://github.com/debezium/dbz/issues. |
+| 22,404 | [airbytehq/airbyte](https://github.com/airbytehq/airbyte) | 2026-11-17 | 开源 数据 movement for ELT pipelines and AI agents — from APIs, databases & files to warehouses, lakes, and AI applications. Both self-hosted and Cloud. |
+| 16,149 | [coderamp-labs/gitingest](https://github.com/coderamp-labs/gitingest) | 2026-11-17 | Replace 'hub' with 'ingest' in any GitHub URL to get a 提示词-friendly extract of a codebase |
+| 13,358 | [debezium/debezium](https://github.com/debezium/debezium) | 2026-11-17 | 变更 数据 捕获 for a variety of databases. Please log issues at https://github.com/debezium/dbz/issues. |
 | 11,936 | [fivetran/great_expectations](https://github.com/fivetran/great_expectations) | 2026-11-16 | Always know what to expect from your 数据. |
-| 9,809 | [apache/seatunnel](https://github.com/apache/seatunnel) | 2026-11-16 | SeaTunnel is a 多模态, high-性能, 分布式, massive 数据 集成 工具. |
-| 8,417 | [pentaho/pentaho-kettle](https://github.com/pentaho/pentaho-kettle) | 2026-11-15 | Pentaho 数据 集成 ( ETL ) a.k.a Kettle |
+| 9,812 | [apache/seatunnel](https://github.com/apache/seatunnel) | 2026-11-17 | SeaTunnel is a 多模态, high-性能, 分布式, massive 数据 集成 工具. |
+| 8,417 | [pentaho/pentaho-kettle](https://github.com/pentaho/pentaho-kettle) | 2026-11-17 | Pentaho 数据 集成 ( ETL ) a.k.a Kettle |
 | 8,012 | [turbot/steampipe](https://github.com/turbot/steampipe) | 2026-11-16 | Zero-ETL, infinite possibilities. Live 查询 APIs, code & more with SQL. No DB required. |
 | 7,935 | [adithya-s-k/omniparse](https://github.com/adithya-s-k/omniparse) | 2026-11-14 | Ingest, parse, and optimize any 数据 format ➡️ from documents to multimedia ➡️ for enhanced compatibility with GenAI frameworks |
-| 7,419 | [The-Vibe-Company/megaparse](https://github.com/The-Vibe-Company/megaparse) | 2026-11-10 | File Parser optimised for LLM Ingestion with no loss 🧠 Parse PDFs, Docx, PPTx in a format that is ideal for LLMs. |
-| 6,496 | [apache/flink-cdc](https://github.com/apache/flink-cdc) | 2026-11-15 | Flink CDC is a streaming 数据 集成 工具 |
-| 6,097 | [dlt-hub/dlt](https://github.com/dlt-hub/dlt) | 2026-11-16 | 数据 load 工具 (dlt) is an open source Python 库 that makes 数据 loading easy 🛠️ |
+| 7,418 | [The-Vibe-Company/megaparse](https://github.com/The-Vibe-Company/megaparse) | 2026-11-17 | File Parser optimised for LLM Ingestion with no loss 🧠 Parse PDFs, Docx, PPTx in a format that is ideal for LLMs. |
+| 6,497 | [apache/flink-cdc](https://github.com/apache/flink-cdc) | 2026-11-17 | Flink CDC is a streaming 数据 集成 工具 |
+| 6,098 | [dlt-hub/dlt](https://github.com/dlt-hub/dlt) | 2026-11-17 | 数据 load 工具 (dlt) is an open source Python 库 that makes 数据 loading easy 🛠️ |
 | 5,721 | [mik3y/usb-serial-for-android](https://github.com/mik3y/usb-serial-for-android) | 2026-11-16 | Android USB host serial driver 库 for CDC, FTDI, Arduino and other devices. |
 | 4,108 | [DTStack/chunjun](https://github.com/DTStack/chunjun) | 2026-11-16 | A 数据 集成 框架 |
 | 3,682 | [linkedin/databus](https://github.com/linkedin/databus) | 2026-11-16 | Source-agnostic 分布式 变更 数据 捕获 system |
@@ -40,9 +40,9 @@
 | 1,574 | [getdozer/dozer](https://github.com/getdozer/dozer) | 2026-11-11 | Dozer is a 实时-时 数据 movement 工具 that leverages CDC from various sources and moves 数据 into various sinks. |
 | 1,550 | [tilo/smarter_csv](https://github.com/tilo/smarter_csv) | 2026-11-16 | Fastest end-to-end CSV ingestion for Ruby (with C acceleration). SmarterCSV auto-detects formats, applies smart defaults, and returns Rails-ready hashes for seamless use with ActiveRecord, Sidekiq, parallel jobs, and S3 pipelines — even for messy user-uploaded |
 | 1,458 | [superstreamerapp/superstreamer](https://github.com/superstreamerapp/superstreamer) | 2026-11-14 | An open, 可扩展, online streaming setup. All-in-one 工具集 from ingest to adaptive 视频 playback. Built for developers in need of 视频 tooling. |
-| 1,452 | [wgzhao/Addax](https://github.com/wgzhao/Addax) | 2026-11-13 | Actively maintained successor to Alibaba DataX — a 快速, versatile, 开源 ETL 工具 for 30+ RDBMS and NoSQL 数据 sources. |
+| 1,454 | [wgzhao/Addax](https://github.com/wgzhao/Addax) | 2026-11-17 | Actively maintained successor to Alibaba DataX — a 快速, versatile, 开源 ETL 工具 for 30+ RDBMS and NoSQL 数据 sources. |
 | 1,438 | [compose/transporter](https://github.com/compose/transporter) | 2026-11-04 | Sync 数据 between persistence engines, like ETL only not stodgy |
-| 1,324 | [StarlightSearch/EmbedAnything](https://github.com/StarlightSearch/EmbedAnything) | 2026-11-15 | Highly Performant, Modular, 记忆 Safe and 生产-ready 推理, Ingestion and 索引 built in Rust 🦀 |
+| 1,325 | [StarlightSearch/EmbedAnything](https://github.com/StarlightSearch/EmbedAnything) | 2026-11-17 | Highly Performant, Modular, 记忆 Safe and 生产-ready 推理, Ingestion and 索引 built in Rust 🦀 |
 | 1,005 | [danielealbano/cachegrand](https://github.com/danielealbano/cachegrand) | 2026-11-14 | cachegrand - a modern 数据 ingestion, 处理 and 服务 平台 built for today's hardware |
 | 990 | [estuary/flow](https://github.com/estuary/flow) | 2026-11-13 | 🌊 Continuously synchronize the systems where your 数据 lives, to the systems where you _want_ it to live, by managing your 数据 flows with Estuary. 🌊 |
 | 979 | [openlink/virtuoso-opensource](https://github.com/openlink/virtuoso-opensource) | 2026-11-13 | Virtuoso is a high-性能 and 可扩展 多-模型 RDBMS, 数据 集成 Middleware, Linked 数据 部署, and HTTP Application 服务器 平台 |
@@ -53,7 +53,7 @@
 | 465 | [pingcap/tiflow](https://github.com/pingcap/tiflow) | 2026-11-11 | This repo maintains DM (a 数据 migration 平台) and TiCDC (变更 数据 捕获 for TiDB) |
 | 449 | [airbnb/SpinalTap](https://github.com/airbnb/SpinalTap) | 2026-10-23 | 变更 数据 捕获 (CDC) service |
 | 408 | [YelpArchive/mysql_streamer](https://github.com/YelpArchive/mysql_streamer) | 2026-10-27 | MySQLStreamer is a 数据库 变更 数据 捕获 and publish system. |
-| 387 | [bersler/OpenLogReplicator](https://github.com/bersler/OpenLogReplicator) | 2026-11-14 | Open Source Oracle 数据库 CDC |
+| 388 | [bersler/OpenLogReplicator](https://github.com/bersler/OpenLogReplicator) | 2026-11-17 | Open Source Oracle 数据库 CDC |
 | 370 | [agoodway/walex](https://github.com/agoodway/walex) | 2026-11-02 | Postgres 变更 events (CDC) in Elixir [WAL] |
 | 365 | [Mariuxtheone/Teleport](https://github.com/Mariuxtheone/Teleport) | 2026-09-05 | 数据 Sync & Messaging 库 for Android Wear |
 | 360 | [AMPLIFIER-sp-z-o-o/ampli-sync](https://github.com/AMPLIFIER-sp-z-o-o/ampli-sync) | 2026-10-01 | 离线-first 数据 sync 框架: bidirectional synchronization between SQLite and MS SQL, MySQL, Oracle, and PostgreSQL. |

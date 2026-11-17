@@ -4,21 +4,21 @@
 
 | ⭐ Stars | 仓库 | 最近更新 | 中文简介 |
 |--------:|------|----------|----------|
-| 28,840 | [mlflow/mlflow](https://github.com/mlflow/mlflow) | 2026-11-17 | The open source AI engineering 平台 for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, evaluate, monitor, and optimize 生产-质量 AI applications while controlling costs and managing access to models and 数据. |
-| 17,247 | [FlashML-org/FreeToken](https://github.com/FlashML-org/FreeToken) | 2026-11-16 | FreeToken brings datacenter-scale 模型 服务 to your desktop. 运行 massive models locally, 快速 and efficiently. |
+| 28,849 | [mlflow/mlflow](https://github.com/mlflow/mlflow) | 2026-11-17 | The open source AI engineering 平台 for agents, LLMs, and ML models. MLflow enables teams of all sizes to debug, evaluate, monitor, and optimize 生产-质量 AI applications while controlling costs and managing access to models and 数据. |
+| 17,260 | [FlashML-org/FreeToken](https://github.com/FlashML-org/FreeToken) | 2026-11-17 | FreeToken brings datacenter-scale 模型 服务 to your desktop. 运行 massive models locally, 快速 and efficiently. |
 | 15,978 | [treeverse/dvc](https://github.com/treeverse/dvc) | 2026-11-16 | 🦉 数据 Versioning and ML Experiments |
 | 15,967 | [kubeflow/kubeflow](https://github.com/kubeflow/kubeflow) | 2026-11-16 | The Cloud Native AI 平台 |
-| 15,566 | [DataTalksClub/mlops-zoomcamp](https://github.com/DataTalksClub/mlops-zoomcamp) | 2026-11-16 | Free MLOps course from DataTalks.Club. Register here 👇🏼 to get notified about the next cohort |
-| 14,299 | [visenger/awesome-mlops](https://github.com/visenger/awesome-mlops) | 2026-11-15 | A curated list of references for MLOps |
-| 12,604 | [bentoml/OpenLLM](https://github.com/bentoml/OpenLLM) | 2026-11-16 | 运行 any 开源 LLMs, such as DeepSeek and Llama, as OpenAI compatible API endpoint in the cloud. |
+| 15,568 | [DataTalksClub/mlops-zoomcamp](https://github.com/DataTalksClub/mlops-zoomcamp) | 2026-11-17 | Free MLOps course from DataTalks.Club. Register here 👇🏼 to get notified about the next cohort |
+| 14,300 | [visenger/awesome-mlops](https://github.com/visenger/awesome-mlops) | 2026-11-17 | A curated list of references for MLOps |
+| 12,603 | [bentoml/OpenLLM](https://github.com/bentoml/OpenLLM) | 2026-11-17 | 运行 any 开源 LLMs, such as DeepSeek and Llama, as OpenAI compatible API endpoint in the cloud. |
 | 10,350 | [Netflix/metaflow](https://github.com/Netflix/metaflow) | 2026-11-16 | 构建, Manage and 部署 AI/ML Systems |
 | 9,890 | [Tiiny-AI/PowerInfer](https://github.com/Tiiny-AI/PowerInfer) | 2026-11-16 | High-speed Large 语言 模型 服务 for 本地 部署 |
-| 8,941 | [bentoml/BentoML](https://github.com/bentoml/BentoML) | 2026-11-14 | The easiest way to serve AI apps and models - 构建 模型 推理 APIs, Job queues, LLM apps, 多-模型 pipelines, and more! |
-| 8,922 | [graviraja/MLOps-Basics](https://github.com/graviraja/MLOps-Basics) | 2026-11-16 | 暂无简介 |
+| 8,942 | [bentoml/BentoML](https://github.com/bentoml/BentoML) | 2026-11-17 | The easiest way to serve AI apps and models - 构建 模型 推理 APIs, Job queues, LLM apps, 多-模型 pipelines, and more! |
+| 8,921 | [graviraja/MLOps-Basics](https://github.com/graviraja/MLOps-Basics) | 2026-11-17 | 暂无简介 |
 | 7,365 | [feast-dev/feast](https://github.com/feast-dev/feast) | 2026-11-15 | The Open Source 特征 存储 for AI/ML |
 | 6,939 | [clearml/clearml](https://github.com/clearml/clearml) | 2026-11-16 | ClearML - Auto-Magical CI/CD to streamline your AI workload. 实验 Management, 数据 Management, 流水线, 编排, Scheduling & 服务 in one MLOps/LLMOps solution |
-| 6,240 | [kserve/kserve](https://github.com/kserve/kserve) | 2026-11-16 | Standardized 分布式 Generative and Predictive AI 推理 平台 for 可扩展, 多-框架 部署 on Kubernetes |
-| 5,670 | [nyblnet/bento](https://github.com/nyblnet/bento) | 2026-11-15 | Bento, the office suite that fits in a file |
+| 6,241 | [kserve/kserve](https://github.com/kserve/kserve) | 2026-11-17 | Standardized 分布式 Generative and Predictive AI 推理 平台 for 可扩展, 多-框架 部署 on Kubernetes |
+| 5,673 | [nyblnet/bento](https://github.com/nyblnet/bento) | 2026-11-17 | Bento, the office suite that fits in a file |
 | 5,636 | [zenml-io/zenml](https://github.com/zenml-io/zenml) | 2026-11-14 | ZenML 🙏: One AI 平台 from Pipelines to Agents. https://zenml.io. |
 | 4,785 | [SeldonIO/seldon-core](https://github.com/SeldonIO/seldon-core) | 2026-11-03 | An MLOps 框架 to package, 部署, monitor and manage thousands of 生产 machine learning models |
 | 4,463 | [chef/bento](https://github.com/chef/bento) | 2026-11-13 | Packer templates for building minimal Vagrant baseboxes for multiple platforms |
@@ -32,11 +32,11 @@
 | 3,156 | [open-mmlab/mmdeploy](https://github.com/open-mmlab/mmdeploy) | 2026-11-16 | OpenMMLab 模型 部署 框架 |
 | 2,463 | [KnpLabs/Gaufrette](https://github.com/KnpLabs/Gaufrette) | 2026-11-12 | PHP 库 that provides a filesystem abstraction layer − will be a feast for your files! |
 | 2,286 | [kubeflow/trainer](https://github.com/kubeflow/trainer) | 2026-11-16 | 分布式 AI 模型 Training and LLM 微调 on Kubernetes |
-| 2,201 | [migueravila/bento](https://github.com/migueravila/bento) | 2026-11-14 | The minimalist, elegant and hackable startpage. |
+| 2,200 | [migueravila/bento](https://github.com/migueravila/bento) | 2026-11-17 | The minimalist, elegant and hackable startpage. |
 | 2,039 | [deepsweet/hocs](https://github.com/deepsweet/hocs) | 2026-11-09 | :bento: Higher-Order Components for React |
 | 1,991 | [featureform/featureform](https://github.com/featureform/featureform) | 2026-10-24 | The Virtual 特征 存储. Turn your existing 数据 infrastructure into a 特征 存储. |
 | 1,886 | [adrianhajdin/brainwave](https://github.com/adrianhajdin/brainwave) | 2026-11-15 | Learn to create modern websites with sleek parallax effects and bento box layouts. This course covers everything from stylish UI design to mobile-first principles while strengthening your React.js and Tailwind CSS skills. |
-| 1,785 | [gradio-app/trackio](https://github.com/gradio-app/trackio) | 2026-11-16 | A 轻量, 本地-first, and free 实验 追踪 库 from Hugging Face 🤗 |
+| 1,786 | [gradio-app/trackio](https://github.com/gradio-app/trackio) | 2026-11-17 | A 轻量, 本地-first, and free 实验 追踪 库 from Hugging Face 🤗 |
 | 1,708 | [kubeflow/katib](https://github.com/kubeflow/katib) | 2026-11-11 | WARNING: Katib project is DEPRECATED, users should migrate to OptimizationJob and Kubeflow Trainer |
 | 1,705 | [mlrun/mlrun](https://github.com/mlrun/mlrun) | 2026-11-12 | MLRun is an open source MLOps 平台 for quickly building and managing continuous ML applications across their lifecycle. MLRun integrates into your development and CI/CD environment and automates the delivery of 生产 数据, ML pipelines, and online app |
 | 1,508 | [kefranabg/bento-starter](https://github.com/kefranabg/bento-starter) | 2026-11-14 | :bento: Full-Stack solution to quickly 构建 PWA applications with Vue.js and Firebase |
@@ -74,7 +74,7 @@
 | 360 | [Netflix/metaflow-ui](https://github.com/Netflix/metaflow-ui) | 2026-09-20 | :art: UI for 监控 your Metaflow executions! |
 | 352 | [shikanon/kubeflow-manifests](https://github.com/shikanon/kubeflow-manifests) | 2026-10-12 | kubeflow国内一键安装文件 |
 | 352 | [alibaba/feathub](https://github.com/alibaba/feathub) | 2026-11-13 | FeatHub - A 流-batch unified 特征 存储 for 实时-时 machine learning |
-| 346 | [METR/eval-analysis-public](https://github.com/METR/eval-analysis-public) | 2026-11-09 | Public repository containing METR's DVC 流水线 for eval 数据 analysis |
+| 347 | [METR/eval-analysis-public](https://github.com/METR/eval-analysis-public) | 2026-11-17 | Public repository containing METR's DVC 流水线 for eval 数据 analysis |
 | 332 | [ahmetb/gen-crd-api-reference-docs](https://github.com/ahmetb/gen-crd-api-reference-docs) | 2026-10-18 | API Reference Docs generator for Kubernetes CRDs (used by Knative, Kubeflow and others) |
 | 330 | [rapenne-s/bento](https://github.com/rapenne-s/bento) | 2026-11-11 | A KISS 部署 工具 to keep your NixOS fleet (servers & workstations) up to date. |
 | 326 | [mlops-guide/mlops-guide.github.io](https://github.com/mlops-guide/mlops-guide.github.io) | 2026-11-08 | 🛠 MLOps end-to-end guide and tutorial website, using IBM Watson, DVC, CML, Terraform, Github Actions and more. |
@@ -112,7 +112,7 @@
 | 165 | [metaflow-ai/blog](https://github.com/metaflow-ai/blog) | 2025-10-17 | Technical blog repo of metaflow |
 | 163 | [awesome-mlops/awesome-ml-experiment-management](https://github.com/awesome-mlops/awesome-ml-experiment-management) | 2026-11-14 | A curated list of awesome open source tools and commercial products for ML 实验 追踪 and Management 🚀 |
 | 161 | [iterative/gto](https://github.com/iterative/gto) | 2026-09-28 | 🏷️ Git Tag Ops. Turn your Git repository into Artifact 注册表 or 模型 注册表. |
-| 152 | [cozygene/FEAST](https://github.com/cozygene/FEAST) | 2026-09-30 | 快速 expectation maximization for microbial source 追踪 |
+| 153 | [cozygene/FEAST](https://github.com/cozygene/FEAST) | 2026-11-17 | 快速 expectation maximization for microbial source 追踪 |
 | 145 | [bentoml/gallery](https://github.com/bentoml/gallery) | 2026-11-05 | BentoML Example Projects 🎨 |
 | 137 | [itsmekhoathekid/RecSys-MLops](https://github.com/itsmekhoathekid/RecSys-MLops) | 2026-11-15 | Highly 可扩展 RecSys ML & 数据 system |
 | 131 | [machine-learning-apps/ml-template-azure](https://github.com/machine-learning-apps/ml-template-azure) | 2026-05-25 | Template for getting started with automated ML Ops on Azure Machine Learning |
