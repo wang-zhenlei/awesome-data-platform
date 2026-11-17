@@ -53,6 +53,7 @@ jobs:
             REPORT_DIR: 日报
             STATE: scripts/state/vendor_ai_seen.json
             TOPICS_DIR: topics
+            GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
         - name: Commit & push changes
           run: |
