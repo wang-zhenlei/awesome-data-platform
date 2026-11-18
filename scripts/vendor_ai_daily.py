@@ -34,6 +34,15 @@ REPORT_DIR = os.environ.get("REPORT_DIR", "日报")
 STATE = os.environ.get("STATE", "scripts/state/vendor_ai_seen.json")
 TOPICS_DIR = os.environ.get("TOPICS_DIR", "topics")
 GH_TOKEN = os.environ.get("GH_TOKEN") or os.environ.get("GITHUB_TOKEN")
+
+# 报告日期用北京时间（读者口径）：GitHub 调度有延迟且 runner 用 UTC，
+# 若按 UTC 计日期，北京早晨打开会看到"昨天"的报告
+try:
+    from zoneinfo import ZoneInfo
+    NOW = datetime.datetime.now(ZoneInfo("Asia/Shanghai")).replace(tzinfo=None)
+except Exception:
+    NOW = datetime.datetime.utcnow() + datetime.timedelta(hours=8)
+TODAY = NOW.date()
 UA = "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0 Safari/537.36"
 TIMEOUT = 20
 WINDOW_DAYS = 14          # L1 首次回看窗口（有快照后按增量）
@@ -291,7 +300,7 @@ def load_state():
 
 def save_state(state):
     os.makedirs(os.path.dirname(STATE), exist_ok=True)
-    cutoff = (datetime.date.today() - datetime.timedelta(days=90)).isoformat()
+    cutoff = (TODAY - datetime.timedelta(days=90)).isoformat()
     state = {k: v for k, v in state.items() if v >= cutoff}
     json.dump(state, open(STATE, "w", encoding="utf-8"), ensure_ascii=False, indent=0)
     print(f"== 快照已回写：{len(state)} 条")
@@ -299,7 +308,7 @@ def save_state(state):
 
 # ---------- 主流程 ----------
 def main():
-    today = datetime.date.today().isoformat()
+    today = TODAY.isoformat()
     state = load_state()
     first_run = len(state) == 0
     env = "GitHub Action" if os.environ.get("GITHUB_ACTIONS") else "本地试跑"
@@ -334,7 +343,7 @@ def main():
                     d = parse_date(it["date"])
                     if d:
                         it["date"] = d.date().isoformat()
-                        age = (datetime.date.today() - d.date()).days
+                        age = (TODAY - d.date()).days
                         if age > (WINDOW_DAYS if first_run else 7):  # 增量模式也限窗，防陈旧条目混入
                             continue
                     keep.append(it)
@@ -350,7 +359,7 @@ def main():
                 keep = []
                 for it in items:
                     c = it.get("created") or ""
-                    if c and (datetime.date.today() - datetime.date.fromisoformat(c)).days > WINDOW_DAYS:
+                    if c and (TODAY - datetime.date.fromisoformat(c)).days > WINDOW_DAYS:
                         continue
                     keep.append(it)
                 items = keep
@@ -376,7 +385,7 @@ def main():
                 d = parse_date(it["date"])
                 if d:
                     it["date"] = d.date().isoformat()
-                    if first_run and (datetime.date.today() - d.date()).days > MEDIA_WINDOW_DAYS:
+                    if first_run and (TODAY - d.date()).days > MEDIA_WINDOW_DAYS:
                         continue
                 norm.append(it)
             items = norm
@@ -398,7 +407,7 @@ def main():
             try:
                 items = parse_gh_org(org)
                 if first_run:
-                    items = [it for it in items if it["date"] >= (datetime.date.today() - datetime.timedelta(days=GH_WINDOW_DAYS)).isoformat()]
+                    items = [it for it in items if it["date"] >= (TODAY - datetime.timedelta(days=GH_WINDOW_DAYS)).isoformat()]
                 got = len(items)
                 for it in items:
                     add(vendor, "开源", it, f"github/{org}")
@@ -448,7 +457,7 @@ def main():
     c = [
         f"# 厂商AI产品进展日报 · {today}",
         "",
-        f"> 运行环境：**{env}** ｜ 生成时间：{time.strftime('%Y-%m-%d %H:%M')} ｜ 当日收录：**{new_total}** 条",
+        f"> 运行环境：**{env}** ｜ 生成时间：{NOW.strftime('%Y-%m-%d %H:%M')}（北京时间） ｜ 当日收录：**{new_total}** 条",
         "> 三层信号：**[官方]** 厂方博客/HF 模型发布 ｜ **[媒体]** 量子位/IT之家按厂商归口（宽口径） ｜ **[开源]** 厂商 GitHub org 发布事件",
         "> 链接级去重 + 同厂同日标题归并（多源报同一事件合并为一条，来源并列标注）。",
         "> ⚠️ 诚实边界：媒体层为宽口径，含发布/更新/观点/融资等一切命中厂商关键词的报道；本地试跑网络不通的源次日由 Action 补齐。",
