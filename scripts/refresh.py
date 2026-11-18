@@ -202,6 +202,7 @@ def main():
         idx.append(f"| {i} | {tname} | {len(buckets[tname])} | [查看 →](./{fname}) |")
     # 静态分类：厂商AI产品进展（由 vendor_ai_daily.py 每日生成，不走仓库搜索管线）
     idx.append(f"| {len(THEMES)+1} | 📰 厂商AI产品进展（每日动态） | 动态 | [查看 →](./topics/11-vendor-ai/README.md) |")
+    idx.append(f"| {len(THEMES)+2} | 🧠 AI大模型进展（每日动态） | 动态 | [查看 →](./topics/12-llm-daily/README.md) |")
     idx += ["\n---\n","## 🏆 [全局 Top 100 总览](./topics/00-overview.md)\n",
         "## 🤝 [贡献指南](./CONTRIBUTING.md)\n",
         "## ⚖️ 声明\n",
