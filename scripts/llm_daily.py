@@ -60,7 +60,6 @@ FAMILY_ORDER = ["阿里 Qwen", "字节 豆包/Seed", "DeepSeek", "月之暗面 K
 # ---------- L1 官方 ----------
 OFFICIAL_RSS = [
     ("OpenAI GPT", "OpenAI 官方新闻", "https://openai.com/news/rss.xml"),
-    ("Mistral", "Mistral 官方新闻", "https://mistral.ai/news/rss.xml"),
 ]
 HF_ORGS = [
     ("OpenAI GPT", "openai"),
@@ -373,6 +372,7 @@ def main():
     c += ["", "## 待补通道", "",
           "- Anthropic 官方新闻页为 JS 渲染（无 RSS），Claude 动态目前靠媒体层覆盖",
           "- xAI/MiniMax 官方通道待补（Grok/海螺动态走媒体层）",
+          "- Mistral 官方 RSS 地址待确认（news/rss.xml 返回 404，暂靠 HF + 媒体层）",
           "", "---", "[← 返回大模型日报索引](../topics/12-llm-daily/README.md) ｜ [← 仓库首页](../README.md)", ""]
 
     if os.path.exists(path):
