@@ -5,23 +5,23 @@
 | ⭐ Stars | 仓库 | 最近更新 | 中文简介 |
 |--------:|------|----------|----------|
 | 111,839 | [microsoft/TypeScript](https://github.com/microsoft/TypeScript) | 2026-11-18 | TypeScript is a superset of JavaScript that compiles to clean JavaScript output. |
-| 90,862 | [koala73/worldmonitor](https://github.com/koala73/worldmonitor) | 2026-11-18 | 实时-时 global 智能 仪表盘. AI-powered news aggregation, geopolitical 监控, and infrastructure 追踪 in a unified situational awareness 界面 |
+| 90,866 | [koala73/worldmonitor](https://github.com/koala73/worldmonitor) | 2026-11-18 | 实时-时 global 智能 仪表盘. AI-powered news aggregation, geopolitical 监控, and infrastructure 追踪 in a unified situational awareness 界面 |
 | 75,552 | [apache/superset](https://github.com/apache/superset) | 2026-11-18 | Apache Superset is a 数据 Visualization and 数据 Exploration 平台 |
-| 73,154 | [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | 2026-11-18 | LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered 多-market stock analysis system with 多-source market 数据, 实时-时 news, decision 仪表盘, automated notifications, and cost-free scheduled runs. |
-| 50,389 | [metabase/metabase](https://github.com/metabase/metabase) | 2026-11-18 | The easy-to-use open source 商业 智能 and Embedded 分析 工具 that lets everyone work with 数据 :bar_chart: |
+| 73,173 | [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | 2026-11-18 | LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered 多-market stock analysis system with 多-source market 数据, 实时-时 news, decision 仪表盘, automated notifications, and cost-free scheduled runs. |
+| 50,390 | [metabase/metabase](https://github.com/metabase/metabase) | 2026-11-18 | The easy-to-use open source 商业 智能 and Embedded 分析 工具 that lets everyone work with 数据 :bar_chart: |
 | 45,697 | [ColorlibHQ/AdminLTE](https://github.com/ColorlibHQ/AdminLTE) | 2026-11-18 | AdminLTE - Free admin 仪表盘 template based on Bootstrap 5 |
 | 42,083 | [tabler/tabler](https://github.com/tabler/tabler) | 2026-11-18 | Free and open source admin 仪表盘 UI kit built on Bootstrap: 100+ pages, 6,000+ icons, dark mode, RTL. |
-| 40,212 | [umami-software/umami](https://github.com/umami-software/umami) | 2026-11-18 | Umami is a 隐私-first 网页 and product 分析 平台. Traffic, campaigns, behavior, conversions, and revenue in one place. No cookies, no surveillance, self-hosted or in the cloud. |
-| 38,280 | [glanceapp/glance](https://github.com/glanceapp/glance) | 2026-11-18 | A self-hosted 仪表盘 that puts all your feeds in one place |
-| 33,719 | [gethomepage/homepage](https://github.com/gethomepage/homepage) | 2026-11-18 | A highly customizable homepage (or startpage / application 仪表盘) with Docker and service API integrations. |
+| 40,213 | [umami-software/umami](https://github.com/umami-software/umami) | 2026-11-18 | Umami is a 隐私-first 网页 and product 分析 平台. Traffic, campaigns, behavior, conversions, and revenue in one place. No cookies, no surveillance, self-hosted or in the cloud. |
+| 38,282 | [glanceapp/glance](https://github.com/glanceapp/glance) | 2026-11-18 | A self-hosted 仪表盘 that puts all your feeds in one place |
+| 33,720 | [gethomepage/homepage](https://github.com/gethomepage/homepage) | 2026-11-18 | A highly customizable homepage (or startpage / application 仪表盘) with Docker and service API integrations. |
 | 28,888 | [getredash/redash](https://github.com/getredash/redash) | 2026-11-17 | Make Your Company 数据 Driven. Connect to any 数据 source, easily visualize, 仪表盘 and share your 数据. |
-| 27,017 | [lissy93/dashy](https://github.com/lissy93/dashy) | 2026-11-18 | 🚀 A self-hostable personal 仪表盘 built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more! |
+| 27,018 | [lissy93/dashy](https://github.com/lissy93/dashy) | 2026-11-18 | 🚀 A self-hostable personal 仪表盘 built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more! |
 | 25,667 | [akveo/ngx-admin](https://github.com/akveo/ngx-admin) | 2026-11-17 | Customizable admin 仪表盘 template based on Angular 10+ |
 | 24,711 | [dataease/dataease](https://github.com/dataease/dataease) | 2026-11-18 | 🔥 人人可用的开源 BI 工具，数据可视化神器。An open-source BI tool alternative to Tableau. |
-| 24,360 | [knadh/listmonk](https://github.com/knadh/listmonk) | 2026-11-18 | High 性能, self-hosted, newsletter and mailing list manager with a modern 仪表盘. Single binary app. |
-| 21,571 | [ColorlibHQ/gentelella](https://github.com/ColorlibHQ/gentelella) | 2026-11-18 | Free admin 仪表盘 template — vanilla JS, SCSS, Vite 8. No Bootstrap, no jQuery. |
+| 24,363 | [knadh/listmonk](https://github.com/knadh/listmonk) | 2026-11-18 | High 性能, self-hosted, newsletter and mailing list manager with a modern 仪表盘. Single binary app. |
+| 21,572 | [ColorlibHQ/gentelella](https://github.com/ColorlibHQ/gentelella) | 2026-11-18 | Free admin 仪表盘 template — vanilla JS, SCSS, Vite 8. No Bootstrap, no jQuery. |
 | 17,155 | [wtfutil/wtf](https://github.com/wtfutil/wtf) | 2026-11-18 | The personal information 仪表盘 for your terminal |
-| 16,769 | [satnaing/shadcn-admin](https://github.com/satnaing/shadcn-admin) | 2026-11-18 | Admin 仪表盘 UI built with Shadcn and Vite. |
+| 16,773 | [satnaing/shadcn-admin](https://github.com/satnaing/shadcn-admin) | 2026-11-18 | Admin 仪表盘 UI built with Shadcn and Vite. |
 | 13,946 | [FormidableLabs/webpack-dashboard](https://github.com/FormidableLabs/webpack-dashboard) | 2026-11-18 | A CLI 仪表盘 for webpack dev 服务器 |
 | 13,586 | [gizak/termui](https://github.com/gizak/termui) | 2026-11-18 | Golang terminal 仪表盘 |
 | 12,613 | [d2-projects/d2-admin](https://github.com/d2-projects/d2-admin) | 2026-11-18 | An elegant 仪表盘 |
@@ -30,7 +30,7 @@
 | 11,122 | [AgriciDaniel/claude-ads](https://github.com/AgriciDaniel/claude-ads) | 2026-11-18 | Claude-first paid-media operations skill for Claude Code across 12 ad platforms (Google, Meta, YouTube, LinkedIn, TikTok, Microsoft, Apple, Amazon, Reddit, Pinterest, Snapchat, X): source-grounded audits, deterministic findings and evidence coverage, versioned |
 | 9,089 | [didi/cube-ui](https://github.com/didi/cube-ui) | 2026-11-18 | :large_orange_diamond: A fantastic mobile ui lib implement by Vue |
 | 7,702 | [veloren/veloren](https://github.com/veloren/veloren) | 2026-11-18 | [mirror of https://gitlab.com/veloren/veloren] An open world, open source voxel RPG inspired by Dwarf Fortress and Cube World. This repository is a mirror. Please submit all PRs and issues on our GitLab page. |
-| 7,305 | [Openpanel-dev/openpanel](https://github.com/Openpanel-dev/openpanel) | 2026-11-17 | OpenPanel is an 开源 网页 and product 分析 平台, an 开源 alternative to Mixpanel with optional self-hosting. |
+| 7,306 | [Openpanel-dev/openpanel](https://github.com/Openpanel-dev/openpanel) | 2026-11-18 | OpenPanel is an 开源 网页 and product 分析 平台, an 开源 alternative to Mixpanel with optional self-hosting. |
 | 7,126 | [evidence-dev/evidence](https://github.com/evidence-dev/evidence) | 2026-11-18 | 商业 智能 as code: 构建 快速, interactive 数据 visualizations in SQL and markdown |
 | 6,076 | [ledger/ledger](https://github.com/ledger/ledger) | 2026-11-17 | Double-entry accounting system with a command-line 报表 界面 |
 | 5,588 | [allure-framework/allure2](https://github.com/allure-framework/allure2) | 2026-11-17 | Allure Report is a flexible, 轻量 多-语言 测试 报表 工具. It provides clear graphical reports and allows everyone involved in the development process to extract the maximum of information from the everyday testing process |
@@ -101,7 +101,7 @@
 | 350 | [webgpu-tools/wesl-spec](https://github.com/webgpu-tools/wesl-spec) | 2026-11-16 | A portable and modular superset of WGSL |
 | 330 | [metriql/metriql](https://github.com/metriql/metriql) | 2026-08-24 | The metrics layer for your 数据. Join us at https://metriql.com/slack |
 | 322 | [kakakakakku/redash-hands-on](https://github.com/kakakakakku/redash-hands-on) | 2026-09-26 | Redash study materials for beginners |
-| 313 | [Avril-Exoplanet/Avril](https://github.com/Avril-Exoplanet/Avril) | 2026-11-18 | AI-guided, evidence-preserving exoplanet candidate discovery for public TESS 数据. |
+| 316 | [Avril-Exoplanet/Avril](https://github.com/Avril-Exoplanet/Avril) | 2026-11-18 | AI-guided, evidence-preserving exoplanet candidate discovery for public TESS 数据. |
 | 292 | [Blade67/GATE](https://github.com/Blade67/GATE) | 2026-11-10 | A Godot 引擎 GDScript superset. |
 | 291 | [ManuCutillas/ngx-responsive](https://github.com/ManuCutillas/ngx-responsive) | 2026-10-12 | Superset of RESPONSIVE DIRECTIVES to show or hide items according to the size of the device screen and another features in Angular 9 |
 | 270 | [ris-tlp/audiophile-e2e-pipeline](https://github.com/ris-tlp/audiophile-e2e-pipeline) | 2026-09-06 | 流水线 that extracts 数据 from Crinacle's Headphone and InEarMonitor databases and finalizes 数据 for a Metabase 仪表盘. The 仪表盘 is then used to support a purchasing decision of which Headphone / IEM to get. |

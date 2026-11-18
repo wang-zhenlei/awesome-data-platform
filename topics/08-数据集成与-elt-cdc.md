@@ -13,7 +13,7 @@
 | 8,015 | [turbot/steampipe](https://github.com/turbot/steampipe) | 2026-11-18 | Zero-ETL, infinite possibilities. Live 查询 APIs, code & more with SQL. No DB required. |
 | 7,935 | [adithya-s-k/omniparse](https://github.com/adithya-s-k/omniparse) | 2026-11-14 | Ingest, parse, and optimize any 数据 format ➡️ from documents to multimedia ➡️ for enhanced compatibility with GenAI frameworks |
 | 7,418 | [The-Vibe-Company/megaparse](https://github.com/The-Vibe-Company/megaparse) | 2026-11-17 | File Parser optimised for LLM Ingestion with no loss 🧠 Parse PDFs, Docx, PPTx in a format that is ideal for LLMs. |
-| 6,497 | [apache/flink-cdc](https://github.com/apache/flink-cdc) | 2026-11-17 | Flink CDC is a streaming 数据 集成 工具 |
+| 6,497 | [apache/flink-cdc](https://github.com/apache/flink-cdc) | 2026-11-18 | Flink CDC is a streaming 数据 集成 工具 |
 | 6,104 | [dlt-hub/dlt](https://github.com/dlt-hub/dlt) | 2026-11-18 | 数据 load 工具 (dlt) is an open source Python 库 that makes 数据 loading easy 🛠️ |
 | 5,722 | [mik3y/usb-serial-for-android](https://github.com/mik3y/usb-serial-for-android) | 2026-11-17 | Android USB host serial driver 库 for CDC, FTDI, Arduino and other devices. |
 | 4,108 | [DTStack/chunjun](https://github.com/DTStack/chunjun) | 2026-11-16 | A 数据 集成 框架 |
@@ -40,7 +40,7 @@
 | 1,574 | [getdozer/dozer](https://github.com/getdozer/dozer) | 2026-11-11 | Dozer is a 实时-时 数据 movement 工具 that leverages CDC from various sources and moves 数据 into various sinks. |
 | 1,550 | [tilo/smarter_csv](https://github.com/tilo/smarter_csv) | 2026-11-16 | Fastest end-to-end CSV ingestion for Ruby (with C acceleration). SmarterCSV auto-detects formats, applies smart defaults, and returns Rails-ready hashes for seamless use with ActiveRecord, Sidekiq, parallel jobs, and S3 pipelines — even for messy user-uploaded |
 | 1,459 | [superstreamerapp/superstreamer](https://github.com/superstreamerapp/superstreamer) | 2026-11-18 | An open, 可扩展, online streaming setup. All-in-one 工具集 from ingest to adaptive 视频 playback. Built for developers in need of 视频 tooling. |
-| 1,455 | [wgzhao/Addax](https://github.com/wgzhao/Addax) | 2026-11-17 | Actively maintained successor to Alibaba DataX — a 快速, versatile, 开源 ETL 工具 for 30+ RDBMS and NoSQL 数据 sources. |
+| 1,456 | [wgzhao/Addax](https://github.com/wgzhao/Addax) | 2026-11-18 | Actively maintained successor to Alibaba DataX — a 快速, versatile, 开源 ETL 工具 for 30+ RDBMS and NoSQL 数据 sources. |
 | 1,438 | [compose/transporter](https://github.com/compose/transporter) | 2026-11-04 | Sync 数据 between persistence engines, like ETL only not stodgy |
 | 1,329 | [StarlightSearch/EmbedAnything](https://github.com/StarlightSearch/EmbedAnything) | 2026-11-18 | Highly Performant, Modular, 记忆 Safe and 生产-ready 推理, Ingestion and 索引 built in Rust 🦀 |
 | 1,005 | [danielealbano/cachegrand](https://github.com/danielealbano/cachegrand) | 2026-11-14 | cachegrand - a modern 数据 ingestion, 处理 and 服务 平台 built for today's hardware |
