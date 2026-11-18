@@ -5,11 +5,11 @@
 | ⭐ Stars | 仓库 | 最近更新 | 中文简介 |
 |--------:|------|----------|----------|
 | 111,839 | [microsoft/TypeScript](https://github.com/microsoft/TypeScript) | 2026-11-18 | TypeScript is a superset of JavaScript that compiles to clean JavaScript output. |
-| 90,866 | [koala73/worldmonitor](https://github.com/koala73/worldmonitor) | 2026-11-18 | 实时-时 global 智能 仪表盘. AI-powered news aggregation, geopolitical 监控, and infrastructure 追踪 in a unified situational awareness 界面 |
+| 90,867 | [koala73/worldmonitor](https://github.com/koala73/worldmonitor) | 2026-11-18 | 实时-时 global 智能 仪表盘. AI-powered news aggregation, geopolitical 监控, and infrastructure 追踪 in a unified situational awareness 界面 |
 | 75,552 | [apache/superset](https://github.com/apache/superset) | 2026-11-18 | Apache Superset is a 数据 Visualization and 数据 Exploration 平台 |
-| 73,173 | [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | 2026-11-18 | LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered 多-market stock analysis system with 多-source market 数据, 实时-时 news, decision 仪表盘, automated notifications, and cost-free scheduled runs. |
-| 50,390 | [metabase/metabase](https://github.com/metabase/metabase) | 2026-11-18 | The easy-to-use open source 商业 智能 and Embedded 分析 工具 that lets everyone work with 数据 :bar_chart: |
-| 45,697 | [ColorlibHQ/AdminLTE](https://github.com/ColorlibHQ/AdminLTE) | 2026-11-18 | AdminLTE - Free admin 仪表盘 template based on Bootstrap 5 |
+| 73,177 | [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | 2026-11-18 | LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered 多-market stock analysis system with 多-source market 数据, 实时-时 news, decision 仪表盘, automated notifications, and cost-free scheduled runs. |
+| 50,391 | [metabase/metabase](https://github.com/metabase/metabase) | 2026-11-18 | The easy-to-use open source 商业 智能 and Embedded 分析 工具 that lets everyone work with 数据 :bar_chart: |
+| 45,696 | [ColorlibHQ/AdminLTE](https://github.com/ColorlibHQ/AdminLTE) | 2026-11-18 | AdminLTE - Free admin 仪表盘 template based on Bootstrap 5 |
 | 42,083 | [tabler/tabler](https://github.com/tabler/tabler) | 2026-11-18 | Free and open source admin 仪表盘 UI kit built on Bootstrap: 100+ pages, 6,000+ icons, dark mode, RTL. |
 | 40,213 | [umami-software/umami](https://github.com/umami-software/umami) | 2026-11-18 | Umami is a 隐私-first 网页 and product 分析 平台. Traffic, campaigns, behavior, conversions, and revenue in one place. No cookies, no surveillance, self-hosted or in the cloud. |
 | 38,282 | [glanceapp/glance](https://github.com/glanceapp/glance) | 2026-11-18 | A self-hosted 仪表盘 that puts all your feeds in one place |
@@ -18,7 +18,7 @@
 | 27,018 | [lissy93/dashy](https://github.com/lissy93/dashy) | 2026-11-18 | 🚀 A self-hostable personal 仪表盘 built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more! |
 | 25,667 | [akveo/ngx-admin](https://github.com/akveo/ngx-admin) | 2026-11-17 | Customizable admin 仪表盘 template based on Angular 10+ |
 | 24,711 | [dataease/dataease](https://github.com/dataease/dataease) | 2026-11-18 | 🔥 人人可用的开源 BI 工具，数据可视化神器。An open-source BI tool alternative to Tableau. |
-| 24,363 | [knadh/listmonk](https://github.com/knadh/listmonk) | 2026-11-18 | High 性能, self-hosted, newsletter and mailing list manager with a modern 仪表盘. Single binary app. |
+| 24,364 | [knadh/listmonk](https://github.com/knadh/listmonk) | 2026-11-18 | High 性能, self-hosted, newsletter and mailing list manager with a modern 仪表盘. Single binary app. |
 | 21,572 | [ColorlibHQ/gentelella](https://github.com/ColorlibHQ/gentelella) | 2026-11-18 | Free admin 仪表盘 template — vanilla JS, SCSS, Vite 8. No Bootstrap, no jQuery. |
 | 17,155 | [wtfutil/wtf](https://github.com/wtfutil/wtf) | 2026-11-18 | The personal information 仪表盘 for your terminal |
 | 16,773 | [satnaing/shadcn-admin](https://github.com/satnaing/shadcn-admin) | 2026-11-18 | Admin 仪表盘 UI built with Shadcn and Vite. |
@@ -39,7 +39,7 @@
 | 4,909 | [m3db/m3](https://github.com/m3db/m3) | 2026-11-16 | M3 monorepo - 分布式 TSDB, Aggregator and 查询 引擎, Prometheus Sidecar, Graphite Compatible, Metrics 平台 |
 | 4,807 | [ankane/blazer](https://github.com/ankane/blazer) | 2026-11-16 | 商业 智能 made 简单 |
 | 4,663 | [nunomaduro/collision](https://github.com/nunomaduro/collision) | 2026-11-17 | 💥 Collision is a beautiful error 报表 工具 for command-line applications |
-| 4,642 | [intuitem/ciso-assistant-community](https://github.com/intuitem/ciso-assistant-community) | 2026-11-17 | CISO 助手 is a one-stop-shop GRC 平台 for Risk Management, AppSec, 合规 & Audit, TPRM, BIA, 隐私, and 报表. It supports 200+ global frameworks with automatic control mapping, including ISO 27001, NIST CSF, SOC 2, CIS, PCI DSS, NIS2, DORA |
+| 4,642 | [intuitem/ciso-assistant-community](https://github.com/intuitem/ciso-assistant-community) | 2026-11-18 | CISO 助手 is a one-stop-shop GRC 平台 for Risk Management, AppSec, 合规 & Audit, TPRM, BIA, 隐私, and 报表. It supports 200+ global frameworks with automatic control mapping, including ISO 27001, NIST CSF, SOC 2, CIS, PCI DSS, NIS2, DORA |
 | 3,865 | [square/cube](https://github.com/square/cube) | 2026-11-06 | Cube: A system for 时 series visualization. |
 | 3,802 | [didi/xiaoju-survey](https://github.com/didi/xiaoju-survey) | 2026-11-18 | XIAOJUSURVEY is an enterprises form builder and 分析 平台 that allows users to create questionnaires, exams, polls, quizzes, and analyze 数据 online. |
 | 3,793 | [1186258278/OpenClawChineseTranslation](https://github.com/1186258278/OpenClawChineseTranslation) | 2026-11-18 | 🦞 OpenClaw (Clawdbot/Moltbot) 汉化版 - 开源个人 AI 助手中文版 \| Claude/ChatGPT LLM 接入 \| WhatsApp/Telegram/Discord 多平台 \| 每小时自动同步 \| CLI + 仪表盘 全中文 \| 全流程搭建教程，以及排错指南！ |

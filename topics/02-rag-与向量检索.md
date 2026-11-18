@@ -1,26 +1,26 @@
 # 🔎 RAG 与向量检索
 
-> 共 **315** 个项目，按 star 降序。[← 返回首页](../README.md)
+> 共 **316** 个项目，按 star 降序。[← 返回首页](../README.md)
 
 | ⭐ Stars | 仓库 | 最近更新 | 中文简介 |
 |--------:|------|----------|----------|
 | 161,395 | [langgenius/dify](https://github.com/langgenius/dify) | 2026-11-18 | 构建 Agentic workflows, RAG pipelines, with rich AI 模型 and 工具 support on one collaborative workspace. 部署 on cloud, VPC, or self-hosted, so teams move from prototype to 生产 without rebuilding the stack. |
-| 149,831 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | 2026-11-18 | The 智能体 engineering 平台. |
-| 149,793 | [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) | 2026-11-18 | Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable 知识 图. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: 本地 deterministic AST parsing, every edge explained, no 向量 存储. |
+| 149,832 | [langchain-ai/langchain](https://github.com/langchain-ai/langchain) | 2026-11-18 | The 智能体 engineering 平台. |
+| 149,798 | [Graphify-Labs/graphify](https://github.com/Graphify-Labs/graphify) | 2026-11-18 | Turn any codebase, with its docs, SQL schemas, configs, and PDFs, into a queryable 知识 图. A /graphify skill for Claude Code, Cursor, Codex, and Gemini CLI: 本地 deterministic AST parsing, every edge explained, no 向量 存储. |
 | 144,988 | [Shubhamsaboo/awesome-llm-apps](https://github.com/Shubhamsaboo/awesome-llm-apps) | 2026-11-18 | 100+ AI Agents, 智能体 Skills and RAG Apps - Free and Open Source. |
-| 94,360 | [infiniflow/ragflow](https://github.com/infiniflow/ragflow) | 2026-11-18 | RAGFlow is an 智能体-native 数据库: a 检索-增强 生成 (RAG) 引擎 that grew into 上下文 infrastructure. |
+| 94,363 | [infiniflow/ragflow](https://github.com/infiniflow/ragflow) | 2026-11-18 | RAGFlow is an 智能体-native 数据库: a 检索-增强 生成 (RAG) 引擎 that grew into 上下文 infrastructure. |
 | 81,989 | [ruvnet/ruflo](https://github.com/ruvnet/ruflo) | 2026-11-18 | 🌊 The original 智能体 harness. 部署 intelligent 多-player swarms, coordinate autonomous workflows, and 构建 conversational AI systems. Features adaptive 记忆, self-learning 智能, federation, 向量 RAG 集成, and native Claude Code / Codex |
-| 80,164 | [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) | 2026-11-18 | 🐙 Guides, papers, lessons, notebooks and resources for 提示词 engineering, 上下文 engineering, RAG, and AI Agents. |
+| 80,163 | [dair-ai/Prompt-Engineering-Guide](https://github.com/dair-ai/Prompt-Engineering-Guide) | 2026-11-18 | 🐙 Guides, papers, lessons, notebooks and resources for 提示词 engineering, 上下文 engineering, RAG, and AI Agents. |
 | 79,952 | [headroomlabs-ai/headroom](https://github.com/headroomlabs-ai/headroom) | 2026-11-18 | Compress 工具 outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. 库, proxy, MCP 服务器. |
 | 61,988 | [pathwaycom/pathway](https://github.com/pathwaycom/pathway) | 2026-11-18 | Python ETL 框架 for 流 处理, 实时-时 分析, LLM pipelines, and RAG. |
-| 59,892 | [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) | 2026-11-18 | A lightning-快速 搜索 引擎 API bringing AI-powered 混合 搜索 to your sites and applications. |
+| 59,891 | [meilisearch/meilisearch](https://github.com/meilisearch/meilisearch) | 2026-11-18 | A lightning-快速 搜索 引擎 API bringing AI-powered 混合 搜索 to your sites and applications. |
 | 58,708 | [pathwaycom/serviette](https://github.com/pathwaycom/serviette) | 2026-11-18 | A no-code RAG 服务器 that keeps answers in sync with your documents. Works with 8 向量 databases. Built on Pathway. |
 | 52,936 | [run-llama/llama_index](https://github.com/run-llama/llama_index) | 2026-11-18 | LlamaIndex is the 文档 处理 平台 for AI |
-| 47,296 | [LibreChat-AI/LibreChat](https://github.com/LibreChat-AI/LibreChat) | 2026-11-18 | Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI 模型 switching, message 搜索, Code Interpreter, langchain, DALL-E-3, OpenAPI |
-| 46,686 | [milvus-io/milvus](https://github.com/milvus-io/milvus) | 2026-11-18 | Milvus is a high-性能, cloud-native 向量 数据库 built for 可扩展 向量 ANN 搜索 |
+| 47,297 | [LibreChat-AI/LibreChat](https://github.com/LibreChat-AI/LibreChat) | 2026-11-18 | Enhanced ChatGPT Clone: Features Agents, MCP, Skills, DeepSeek, Anthropic, AWS, OpenAI, Responses API, Azure, Groq, o1, GPT-5, Mistral, OpenRouter, Vertex AI, Gemini, Artifacts, AI 模型 switching, message 搜索, Code Interpreter, langchain, DALL-E-3, OpenAPI |
+| 46,687 | [milvus-io/milvus](https://github.com/milvus-io/milvus) | 2026-11-18 | Milvus is a high-性能, cloud-native 向量 数据库 built for 可扩展 向量 ANN 搜索 |
 | 45,096 | [langchain-ai/langgraph](https://github.com/langchain-ai/langgraph) | 2026-11-18 | 构建 resilient agents. |
-| 42,399 | [volcengine/OpenViking](https://github.com/volcengine/OpenViking) | 2026-11-18 | Self-evolving 上下文 数据库 for AI Agents. Unify 智能体 记忆, 知识 RAG and Skills. |
-| 41,797 | [facebookresearch/faiss](https://github.com/facebookresearch/faiss) | 2026-11-18 | A 库 for 高效 similarity 搜索 and clustering of dense vectors. |
+| 42,400 | [volcengine/OpenViking](https://github.com/volcengine/OpenViking) | 2026-11-18 | Self-evolving 上下文 数据库 for AI Agents. Unify 智能体 记忆, 知识 RAG and Skills. |
+| 41,798 | [facebookresearch/faiss](https://github.com/facebookresearch/faiss) | 2026-11-18 | A 库 for 高效 similarity 搜索 and clustering of dense vectors. |
 | 40,754 | [HKUDS/LightRAG](https://github.com/HKUDS/LightRAG) | 2026-11-18 | [EMNLP2025] LightRAG: 简单 and 快速 检索-增强 生成 |
 | 40,745 | [pingcap/tidb](https://github.com/pingcap/tidb) | 2026-11-18 | TiDB is built for agentic workloads that grow unpredictably, with ACID guarantees and native support for transactions, 分析, and 向量 搜索. No 数据 silos. No noisy neighbors. No infrastructure ceiling. |
 | 40,462 | [VectifyAI/PageIndex](https://github.com/VectifyAI/PageIndex) | 2026-11-18 | 📑 PageIndex: 文档 索引 for Vectorless, Reasoning-based RAG |
@@ -28,11 +28,11 @@
 | 38,982 | [TriliumNext/Trilium](https://github.com/TriliumNext/Trilium) | 2026-11-18 | 构建 your personal 知识 base with Trilium Notes |
 | 38,717 | [chatchat-space/Langchain-Chatchat](https://github.com/chatchat-space/Langchain-Chatchat) | 2026-11-18 | Langchain-Chatchat（原Langchain-ChatGLM）基于 Langchain 与 ChatGLM, Qwen 与 Llama 等语言模型的 RAG 与 智能体 应用 \| Langchain-Chatchat (formerly langchain-ChatGLM), 本地 知识 based LLM (like ChatGLM, Qwen and Llama) RAG and 智能体 app with langchain |
 | 38,557 | [servo/servo](https://github.com/servo/servo) | 2026-11-18 | Servo aims to empower developers with a 轻量, high-性能 alternative for 嵌入 网页 technologies in applications. |
-| 37,707 | [Tencent/WeKnora](https://github.com/Tencent/WeKnora) | 2026-11-18 | 开源 LLM 知识 平台: turn raw documents into a queryable RAG, an autonomous reasoning 智能体, and a self-maintaining Wiki. |
+| 37,708 | [Tencent/WeKnora](https://github.com/Tencent/WeKnora) | 2026-11-18 | 开源 LLM 知识 平台: turn raw documents into a queryable RAG, an autonomous reasoning 智能体, and a self-maintaining Wiki. |
 | 36,681 | [microsoft/graphrag](https://github.com/microsoft/graphrag) | 2026-11-18 | A modular 图-based 检索-增强 生成 (RAG) system |
-| 35,619 | [qdrant/qdrant](https://github.com/qdrant/qdrant) | 2026-11-18 | Qdrant - High-性能, massive-scale 向量 数据库 and 向量 搜索 引擎 for the next 生成 of AI. Also available in the cloud https://cloud.qdrant.io/ |
-| 31,382 | [langchain-ai/deepagents](https://github.com/langchain-ai/deepagents) | 2026-11-18 | The batteries-included 智能体 harness. |
-| 30,426 | [NirDiamant/RAG_Techniques](https://github.com/NirDiamant/RAG_Techniques) | 2026-11-18 | This repository showcases various advanced techniques for 检索-增强 生成 (RAG) systems. Each technique has a detailed notebook tutorial. |
+| 35,620 | [qdrant/qdrant](https://github.com/qdrant/qdrant) | 2026-11-18 | Qdrant - High-性能, massive-scale 向量 数据库 and 向量 搜索 引擎 for the next 生成 of AI. Also available in the cloud https://cloud.qdrant.io/ |
+| 31,383 | [langchain-ai/deepagents](https://github.com/langchain-ai/deepagents) | 2026-11-18 | The batteries-included 智能体 harness. |
+| 30,427 | [NirDiamant/RAG_Techniques](https://github.com/NirDiamant/RAG_Techniques) | 2026-11-18 | This repository showcases various advanced techniques for 检索-增强 生成 (RAG) systems. Each technique has a detailed notebook tutorial. |
 | 30,061 | [labring/FastGPT](https://github.com/labring/FastGPT) | 2026-11-18 | FastGPT is a 知识-based 平台 built on the LLMs, offers a comprehensive suite of out-of-the-box capabilities such as 数据 处理, RAG 检索, and visual AI 工作流 编排, letting you easily develop and 部署 complex question-answering |
 | 29,709 | [chroma-core/chroma](https://github.com/chroma-core/chroma) | 2026-11-18 | 搜索 infrastructure for AI |
 | 27,040 | [deepset-ai/haystack](https://github.com/deepset-ai/haystack) | 2026-11-18 | 开源 AI 编排 框架 for building 上下文-engineered, 生产-ready LLM applications. Design modular pipelines and 智能体 workflows with explicit control over 检索, routing, 记忆, and 生成. Built for 可扩展 agents, RAG, 多 |
@@ -41,24 +41,24 @@
 | 23,448 | [comet-ml/opik](https://github.com/comet-ml/opik) | 2026-11-18 | Debug, evaluate, and monitor your LLM applications, RAG systems, and agentic workflows with comprehensive tracing, automated evaluations, and 生产-ready dashboards. |
 | 23,052 | [NVIDIA/NemoClaw](https://github.com/NVIDIA/NemoClaw) | 2026-11-18 | 运行 agents like Hermes, LangChain Deep Agents, and OpenClaw more securely inside NVIDIA OpenShell with managed 推理 |
 | 22,591 | [dipakkr/awesome-ai-engineering](https://github.com/dipakkr/awesome-ai-engineering) | 2026-11-18 | 🚀 A curated collection of AI engineering resources, roadmaps, tools, and projects covering LLMs, RAG, AI Agents, MCP, 微调, evaluations, and 生产 AI systems. |
-| 22,189 | [liyupi/ai-guide](https://github.com/liyupi/ai-guide) | 2026-11-18 | 程序员鱼皮的 AI 资源大全 + Vibe Coding 零基础教程，分享 OpenClaw 保姆级教程、大模型玩法（DeepSeek / GPT / Gemini / Claude / GLM）、最新 AI 资讯、提示词 提示词大全、AI 知识百科（智能体 Skills / RAG / MCP / A2A）、AI 编程教程（Harness Engineering）、AI 工具用法（Cursor / Claude Code / TRAE / Codex / Copilot）、AI 开发框架教程（Sprin |
+| 22,191 | [liyupi/ai-guide](https://github.com/liyupi/ai-guide) | 2026-11-18 | 程序员鱼皮的 AI 资源大全 + Vibe Coding 零基础教程，分享 OpenClaw 保姆级教程、大模型玩法（DeepSeek / GPT / Gemini / Claude / GLM）、最新 AI 资讯、提示词 提示词大全、AI 知识百科（智能体 Skills / RAG / MCP / A2A）、AI 编程教程（Harness Engineering）、AI 工具用法（Cursor / Claude Code / TRAE / Codex / Copilot）、AI 开发框架教程（Sprin |
 | 19,216 | [xerj-org/xerj](https://github.com/xerj-org/xerj) | 2026-11-18 | AI 搜索 引擎 and MCP 服务器 for bots and agents. One Rust binary indexes code, docs, logs, JSONL/CSV and PDFs for BM25 full-文本, 向量 and 混合 搜索, code 搜索 without grep, 智能体 记忆 and RAG. Elasticsearch-compatible API; Corpus Hub serves hund |
-| 18,598 | [meta-llama/llama-cookbook](https://github.com/meta-llama/llama-cookbook) | 2026-11-18 | Welcome to the Llama Cookbook! This is your go to guide for Building with Llama: Getting started with 推理, 微调, RAG. We also show you how to solve end to end problems using Llama 模型 family and using them on various provider services |
+| 18,597 | [meta-llama/llama-cookbook](https://github.com/meta-llama/llama-cookbook) | 2026-11-18 | Welcome to the Llama Cookbook! This is your go to guide for Building with Llama: Getting started with 推理, 微调, RAG. We also show you how to solve end to end problems using Llama 模型 family and using them on various provider services |
 | 18,352 | [langchain-ai/langchainjs](https://github.com/langchain-ai/langchainjs) | 2026-11-18 | The 智能体 engineering 平台 |
 | 17,429 | [memvid/memvid](https://github.com/memvid/memvid) | 2026-11-18 | 记忆 layer for AI Agents. Replace complex RAG pipelines with a serverless, single-file 记忆 layer. Give your agents instant 检索 and long-term 记忆. |
 | 17,269 | [QwenLM/Qwen-Agent](https://github.com/QwenLM/Qwen-Agent) | 2026-11-18 | 智能体 框架 and applications built upon Qwen>=3.0, featuring Function Calling, MCP, Code Interpreter, RAG, Chrome extension, etc. |
 | 16,954 | [weaviate/weaviate](https://github.com/weaviate/weaviate) | 2026-11-18 | Weaviate is an 开源 向量 数据库 that stores both objects and vectors, allowing for the combination of 向量 搜索 with structured filtering with the fault tolerance and scalability of a cloud-native 数据库​. |
 | 16,580 | [mayooear/ai-pdf-chatbot-langchain](https://github.com/mayooear/ai-pdf-chatbot-langchain) | 2026-11-18 | AI PDF 聊天机器人 智能体 built with LangChain & LangGraph |
 | 16,261 | [alibaba/zvec](https://github.com/alibaba/zvec) | 2026-11-18 | A 轻量, lightning-快速, in-process 向量 数据库 |
-| 16,238 | [apache/doris](https://github.com/apache/doris) | 2026-11-18 | Apache Doris is a 实时-时 分析 and 混合 搜索 数据库 for AI agents. |
+| 16,239 | [apache/doris](https://github.com/apache/doris) | 2026-11-18 | Apache Doris is a 实时-时 分析 and 混合 搜索 数据库 for AI agents. |
 | 15,762 | [Unstructured-IO/unstructured](https://github.com/Unstructured-IO/unstructured) | 2026-11-18 | Convert documents to structured 数据 effortlessly. 非结构化 is 开源 ETL solution for transforming complex documents into clean, structured formats for 语言 models.  Visit our website to learn more about our 企业级 grade 平台 product for |
 | 13,803 | [StarTrail-org/LEANN](https://github.com/StarTrail-org/LEANN) | 2026-11-18 | [MLsys2026 Best Paper]: https://arxiv.org/abs/2506.08276. RAG on Everything with LEANN. Enjoy 97% storage savings while running a 快速, accurate, and 100% 私有 RAG application on your personal device. |
 | 13,418 | [langchain4j/langchain4j](https://github.com/langchain4j/langchain4j) | 2026-11-18 | LangChain4j is an idiomatic, 开源 Java 库 for building LLM-powered applications on the JVM. It offers a unified API over popular LLM providers and 向量 stores, and makes implementing 工具 calling (including MCP support), agents and RAG easy. It i |
 | 13,203 | [datawhalechina/all-in-rag](https://github.com/datawhalechina/all-in-rag) | 2026-11-18 | 🔍大模型应用开发实战一：RAG 技术全栈指南，在线阅读地址：https://datawhalechina.github.io/all-in-rag/ |
-| 12,355 | [dataelement/bisheng](https://github.com/dataelement/bisheng) | 2026-11-18 | BISHENG is an 开源 企业级 智能体 平台 for building, deploying, and managing AI applications. It combines AI agents, workflows, RAG and 知识 management, desktop 智能体 集成, and vibecoding app hosting with unified 模型 management, eval |
+| 12,356 | [dataelement/bisheng](https://github.com/dataelement/bisheng) | 2026-11-18 | BISHENG is an 开源 企业级 智能体 平台 for building, deploying, and managing AI applications. It combines AI agents, workflows, RAG and 知识 management, desktop 智能体 集成, and vibecoding app hosting with unified 模型 management, eval |
 | 12,344 | [FlagOpen/FlagEmbedding](https://github.com/FlagOpen/FlagEmbedding) | 2026-11-18 | 检索 and 检索-增强 LLMs |
 | 12,093 | [manticoresoftware/manticoresearch](https://github.com/manticoresoftware/manticoresearch) | 2026-11-18 | 开源 搜索 数据库 for full-文本, 向量, and 混合 搜索 with 实时-时 索引 and SQL. |
-| 12,060 | [adongwanai/AgentGuide](https://github.com/adongwanai/AgentGuide) | 2026-11-18 | AI 智能体 开发指南 \| 智能体 Harness \| 上下文工程 \| 高级 RAG \| MCP \| Agentic RL 强化学习 \| LangGraph 实战 \| 1.2 万+ 大模型面试题 \| 算法岗 / 开发岗求职 \| 转行大模型 |
+| 12,061 | [adongwanai/AgentGuide](https://github.com/adongwanai/AgentGuide) | 2026-11-18 | AI 智能体 开发指南 \| 智能体 Harness \| 上下文工程 \| 高级 RAG \| MCP \| Agentic RL 强化学习 \| LangGraph 实战 \| 1.2 万+ 大模型面试题 \| 算法岗 / 开发岗求职 \| 转行大模型 |
 | 10,614 | [oramasearch/orama](https://github.com/oramasearch/orama) | 2026-11-18 | 🌌  A complete 搜索 引擎 and RAG 流水线 in your browser, 服务器 or edge network with support for full-文本, 向量, and 混合 搜索 in less than 2kb. |
 | 10,607 | [gka/chroma.js](https://github.com/gka/chroma.js) | 2026-11-18 | JavaScript 库 for all kinds of color manipulations |
 | 9,665 | [xorbitsai/inference](https://github.com/xorbitsai/inference) | 2026-11-18 | 开源 推理 平台 for 语言, 视觉, 嵌入, reranking, 图像, 音频, and 视频 models. 部署 with multiple engines across heterogeneous hardware, from a laptop to a 分布式 cluster. Serve models through OpenAI-compatible APIs. |
@@ -66,23 +66,23 @@
 | 8,234 | [zilliztech/GPTCache](https://github.com/zilliztech/GPTCache) | 2026-11-18 | 语义 cache for LLMs. Fully integrated with LangChain and llama_index. |
 | 8,102 | [SciPhi-AI/R2R](https://github.com/SciPhi-AI/R2R) | 2026-11-17 | SoTA 生产-ready AI 检索 system. Agentic 检索-增强 生成 (RAG) with a RESTful API. |
 | 7,805 | [Azure-Samples/azure-search-openai-demo](https://github.com/Azure-Samples/azure-search-openai-demo) | 2026-11-18 | A sample app for the 检索-增强 生成 pattern running in Azure, using Azure AI 搜索 for 检索 and Azure OpenAI large 语言 models  to power ChatGPT-style and Q&A experiences. |
-| 7,695 | [xerrors/Yuxi](https://github.com/xerrors/Yuxi) | 2026-11-18 | 可私有部署的多租户知识智能体平台：统一 RAG、知识图谱、多智能体、MCP/Skills、沙盒与权限管理。Yuxi = Cloud Agents + 知识 RAG, Self-hosted 知识 智能体 平台 for RAG, 知识 graphs and 多-智能体 workflows. |
+| 7,696 | [xerrors/Yuxi](https://github.com/xerrors/Yuxi) | 2026-11-18 | 可私有部署的多租户知识智能体平台：统一 RAG、知识图谱、多智能体、MCP/Skills、沙盒与权限管理。Yuxi = Cloud Agents + 知识 RAG, Self-hosted 知识 智能体 平台 for RAG, 知识 graphs and 多-智能体 workflows. |
 | 7,691 | [weaviate/Verba](https://github.com/weaviate/Verba) | 2026-11-17 | 检索 增强 生成 (RAG) 聊天机器人 powered by Weaviate |
 | 7,460 | [Zipstack/unstract](https://github.com/Zipstack/unstract) | 2026-11-18 | LLM-Driven 抽取 of 非结构化 数据 — Built for API Deployments & ETL 流水线 Workflows |
 | 6,216 | [Shaunwei/RealChar](https://github.com/Shaunwei/RealChar) | 2026-11-17 | 🎙️🤖Create, Customize and Talk to your AI Character/Companion in Realtime (All in One Codebase!). Have a 自然 seamless conversation with AI everywhere (mobile, 网页 and terminal) using LLM OpenAI GPT3.5/4, Anthropic Claude2, Chroma 向量 DB, Whisper Speech2T |
 | 6,177 | [apache/pinot](https://github.com/apache/pinot) | 2026-11-18 | Apache Pinot: a 实时-时 分析 数据库 for low-latency SQL and 向量 搜索, 服务 user-facing and 智能体-facing applications |
 | 6,052 | [didilili/ai-agents-from-zero](https://github.com/didilili/ai-agents-from-zero) | 2026-11-18 | 🚀 2026 最系统的 AI 智能体 速成指南｜智能体实战教程 · 完整学习路径  + 实战项目 + 面试题库 · 对标大模型应用开发工程师岗位 · 覆盖LangChain / LangGraph / Coze / Dify / MCP / skills / LLM / RAG / 提示词 · 企业级部署与微调 · 从0到企业级落地 + 从学习到上线项目 + 面试准备一体化 |
-| 5,813 | [unslothai/notebooks](https://github.com/unslothai/notebooks) | 2026-11-17 | 250+ 微调 & RL Notebooks for 文本, 视觉, 音频, 嵌入, TTS models. |
+| 5,814 | [unslothai/notebooks](https://github.com/unslothai/notebooks) | 2026-11-18 | 250+ 微调 & RL Notebooks for 文本, 视觉, 音频, 嵌入, TTS models. |
 | 5,745 | [OpenBMB/UltraRAG](https://github.com/OpenBMB/UltraRAG) | 2026-11-18 | A Low-Code MCP 框架 for Building Complex and Innovative RAG Pipelines |
 | 5,565 | [brianpetro/obsidian-smart-connections](https://github.com/brianpetro/obsidian-smart-connections) | 2026-11-18 | Find related notes and excerpts while writing. Your link building copilot displays relevant content in 图 + list view. A 本地 嵌入 模型 powers 语义 搜索. Zero setup. No API key. |
 | 5,381 | [vitali87/code-graph-rag](https://github.com/vitali87/code-graph-rag) | 2026-11-18 | The ultimate RAG for your monorepo. 查询, understand, and edit 多-语言 codebases with the power of AI and 知识 graphs |
 | 5,316 | [neo4j-labs/llm-graph-builder](https://github.com/neo4j-labs/llm-graph-builder) | 2026-11-18 | Neo4j 图 construction from 非结构化 数据 using LLMs |
-| 5,084 | [alecthomas/chroma](https://github.com/alecthomas/chroma) | 2026-11-18 | A general purpose syntax highlighter in pure Go |
+| 5,085 | [alecthomas/chroma](https://github.com/alecthomas/chroma) | 2026-11-18 | A general purpose syntax highlighter in pure Go |
 | 5,036 | [apple/embedding-atlas](https://github.com/apple/embedding-atlas) | 2026-11-17 | 嵌入 Atlas is a 工具 that provides interactive visualizations for large embeddings. It allows you to visualize, cross-filter, and 搜索 embeddings and 元数据. |
 | 4,842 | [feyninc/chonkie](https://github.com/feyninc/chonkie) | 2026-11-18 | 🦛 CHONK docs with Chonkie ✨ — The 轻量 ingestion 库 for 快速, 高效 and robust RAG pipelines |
 | 4,831 | [ChristianLempa/cheat-sheets](https://github.com/ChristianLempa/cheat-sheets) | 2026-11-17 | This is my personal 知识-base. Here you'll find code-snippets, technical documentation, and command reference for various tools, and technologies. |
 | 4,770 | [infiniflow/infinity](https://github.com/infiniflow/infinity) | 2026-11-18 | The AI-native 数据库 built for LLM applications, providing incredibly 快速 混合 搜索 of dense 向量, sparse 向量, tensor (多-向量), and full-文本. |
-| 4,686 | [langflow-ai/openrag](https://github.com/langflow-ai/openrag) | 2026-11-17 | OpenRAG is a comprehensive, single package 检索-增强 生成 平台 built on Langflow, Docling, and Opensearch. |
+| 4,686 | [langflow-ai/openrag](https://github.com/langflow-ai/openrag) | 2026-11-18 | OpenRAG is a comprehensive, single package 检索-增强 生成 平台 built on Langflow, Docling, and Opensearch. |
 | 4,611 | [supabase/supabase-js](https://github.com/supabase/supabase-js) | 2026-11-17 | An isomorphic Javascript 客户端 for Supabase. 查询 your Supabase 数据库, subscribe to realtime events, upload and download files, browse typescript examples, invoke postgres functions via rpc, invoke supabase edge functions, 查询 pgvector. |
 | 4,589 | [ssrajadh/sentrysearch](https://github.com/ssrajadh/sentrysearch) | 2026-11-18 | 语义 搜索 over videos using Gemini 嵌入 2 or Qwen3-VL. |
 | 4,514 | [FlowElement-xinliuyuansu/m_flow](https://github.com/FlowElement-xinliuyuansu/m_flow) | 2026-11-18 | A bio-inspired cognitive 记忆 引擎 — a new paradigm for 图 RAG. |
@@ -91,14 +91,14 @@
 | 4,407 | [truefoundry/cognita](https://github.com/truefoundry/cognita) | 2026-11-17 | RAG (检索 增强 生成) 框架 for building modular, open source applications for 生产 by TrueFoundry |
 | 4,390 | [GiovanniPasq/agentic-rag-for-dummies](https://github.com/GiovanniPasq/agentic-rag-for-dummies) | 2026-11-18 | A modular Agentic RAG built with LangGraph — learn 检索-增强 生成 Agents in minutes. |
 | 4,390 | [unum-cloud/USearch](https://github.com/unum-cloud/USearch) | 2026-11-18 | One proximity 图 for 向量 搜索, sparse products & attention across RAM, VRAM & NVMe, over dense vectors, sequences, shapes & geospatial sets in 14 languages 🔍 |
-| 4,263 | [mongodb-developer/GenAI-Showcase](https://github.com/mongodb-developer/GenAI-Showcase) | 2026-11-17 | MongoDB's Generative AI Showcase: an exhaustive collection of examples and sample applications covering 检索-增强 生成 (RAG), AI agents, and industry-specific use cases. |
+| 4,263 | [mongodb-developer/GenAI-Showcase](https://github.com/mongodb-developer/GenAI-Showcase) | 2026-11-18 | MongoDB's Generative AI Showcase: an exhaustive collection of examples and sample applications covering 检索-增强 生成 (RAG), AI agents, and industry-specific use cases. |
 | 4,242 | [yifanfeng97/Hyper-Extract](https://github.com/yifanfeng97/Hyper-Extract) | 2026-11-17 | Hypergraph is more 强大. 转换 非结构化 文本 into structured 知识 with LLMs. Graphs, hypergraphs, and spatio-temporal extractions — with one command. |
 | 4,151 | [cozodb/cozo](https://github.com/cozodb/cozo) | 2026-11-15 | A transactional, relational-图-向量 数据库 that uses Datalog for 查询. The hippocampus for AI! |
 | 4,131 | [OSU-NLP-Group/HippoRAG](https://github.com/OSU-NLP-Group/HippoRAG) | 2026-11-18 | [NeurIPS'24] HippoRAG is a novel RAG 框架 inspired by human long-term 记忆 that enables LLMs to continuously integrate 知识 across external documents. RAG + 知识 Graphs + Personalized PageRank. |
 | 4,022 | [kuzudb/kuzu](https://github.com/kuzudb/kuzu) | 2026-11-12 | Embedded property 图 数据库 built for speed. 向量 搜索 and full-文本 搜索 built in. Implements Cypher. |
 | 3,972 | [circlemind-ai/fast-graphrag](https://github.com/circlemind-ai/fast-graphrag) | 2026-11-17 | RAG that intelligently adapts to your use case, 数据, and queries |
 | 3,723 | [django-haystack/django-haystack](https://github.com/django-haystack/django-haystack) | 2026-11-04 | Modular 搜索 for Django |
-| 3,711 | [SamurAIGPT/llm-wiki-agent](https://github.com/SamurAIGPT/llm-wiki-agent) | 2026-11-18 | A personal 知识 base that builds and maintains itself. Drop in sources — Claude (or Codex/Gemini) reads them, extracts 知识, and maintains a persistent interlinked wiki. Works with Claude Code, Codex, OpenCode, Gemini CLI. No API key needed. |
+| 3,712 | [SamurAIGPT/llm-wiki-agent](https://github.com/SamurAIGPT/llm-wiki-agent) | 2026-11-18 | A personal 知识 base that builds and maintains itself. Drop in sources — Claude (or Codex/Gemini) reads them, extracts 知识, and maintains a persistent interlinked wiki. Works with Claude Code, Codex, OpenCode, Gemini CLI. No API key needed. |
 | 3,660 | [GanymedeNil/document.ai](https://github.com/GanymedeNil/document.ai) | 2026-11-17 | 可溯源、带时效判断的企业知识库问答：每条结论标明出自哪份文档的哪个版本、哪一处，以及在目标时间是否有效（Traceable, version- and time-aware enterprise RAG） |
 | 3,640 | [langchain-ai/langchain-mcp-adapters](https://github.com/langchain-ai/langchain-mcp-adapters) | 2026-11-15 | LangChain 🔌 MCP |
 | 3,518 | [Snailclimb/interview-guide](https://github.com/Snailclimb/interview-guide) | 2026-11-17 | 基于 Spring Boot 4.1、Java 25、Spring AI 2.0、React、PostgreSQL/pgvector、Redis 和 RustFS 构建的开源 AI 面试平台，支持简历智能分析、模拟面试、语音面试和知识库 RAG。 |
@@ -305,7 +305,7 @@
 | 104 | [weaviate/agent-skills](https://github.com/weaviate/agent-skills) | 2026-11-09 | 智能体 Skills to empower developers building AI applications with Weaviate. |
 | 101 | [weaviate/typescript-client](https://github.com/weaviate/typescript-client) | 2026-11-10 | Official Weaviate TypeScript 客户端 |
 | 100 | [weaviate/retrieve-dspy](https://github.com/weaviate/retrieve-dspy) | 2026-08-17 | A collection of Compound 检索 Systems implemented with DSPy and Weaviate. |
-| 96 | [Daniele-Cangi/Alchimista](https://github.com/Daniele-Cangi/Alchimista) | 2026-11-18 | Self-hosted AI 治理, 文档 智能, RAG, 隐私 and auditable decision evidence — with 本地-first 部署 and optional Full Rizzo PII 检测. |
+| 97 | [Daniele-Cangi/Alchimista](https://github.com/Daniele-Cangi/Alchimista) | 2026-11-18 | Self-hosted AI 治理, 文档 智能, RAG, 隐私 and auditable decision evidence — with 本地-first 部署 and optional Full Rizzo PII 检测. |
 | 93 | [benitomartin/substack-newsletters-search-course](https://github.com/benitomartin/substack-newsletters-search-course) | 2026-09-12 | 生产 RAG System Course |
 | 89 | [weaviate/weaviate-io](https://github.com/weaviate/weaviate-io) | 2026-11-12 | Website for the Weaviate 向量 数据库 |
 | 89 | [arsbr/Veritensor](https://github.com/arsbr/Veritensor) | 2026-11-16 | The Anti-Virus for AI Artifacts & RAG Firewall. A static analysis 工具 scanning Models and Notebooks for RCE, Datasets and RAG docs for 数据 Poisoning, PII, and 提示词 Injections. 安全 your AI Supply Chain. |
@@ -317,5 +317,6 @@
 | 54 | [nsrinidhibhat/gradio_RAG](https://github.com/nsrinidhibhat/gradio_RAG) | 2026-10-19 | Code and resources showcasing the 检索-增强 生成 (RAG) technique, a solution for enhancing 数据 新鲜度 in Large 语言 Models (LLMs). Incorporate up-to-date external 知识 into LLM-generated responses. Additionally, this repository inc |
 | 54 | [OpenGraphRAG/MedicalGraphRAG](https://github.com/OpenGraphRAG/MedicalGraphRAG) | 2026-11-17 | 自主实现面向医学知识的GraphRAG应用系统#大模型LLM#RAG#GraphRAG#Agent智能体#知识图谱KG |
 | 52 | [bentoml/rag-tutorials](https://github.com/bentoml/rag-tutorials) | 2026-11-09 | a series of tutorials implementing rag service with BentoML and LlamaIndex |
+| 50 | [PriyanshuBh/DeepPr](https://github.com/PriyanshuBh/DeepPr) | 2026-11-18 | An Autonomous AI Code Reviewer with 向量 RAG & Persistent 记忆 |
 | 34 | [vinayak-shanawad/AI-ML-Projects](https://github.com/vinayak-shanawad/AI-ML-Projects) | 2026-04-26 | AWS SageMaker, SeldonCore, KServe, Kubeflow & MLflow, VectorDB |
 | 13 | [dannySubsense/youtube-mcp-server](https://github.com/dannySubsense/youtube-mcp-server) | 2026-09-07 | A comprehensive 模型 上下文 Protocol (MCP) 服务器 providing 实时-时 YouTube 数据 API access for AI assistants. Features 14 functions including intelligent content evaluation with technology 新鲜度 scoring for 知识 base curation. |
