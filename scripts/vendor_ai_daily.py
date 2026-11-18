@@ -434,8 +434,10 @@ def main():
             state[link] = today
             k = title_key(it["title"])
             if k in seen_keys:
-                # 同厂同事件多源 → 归并来源
-                seen_keys[k].setdefault("extra_sources", []).append(it["source"])
+                # 同厂同事件多源 → 归并来源（同名来源不重复列）
+                existing = [seen_keys[k]["source"]] + seen_keys[k].get("extra_sources", [])
+                if it["source"] not in existing:
+                    seen_keys[k].setdefault("extra_sources", []).append(it["source"])
                 continue
             it.setdefault("extra_sources", [])
             seen_keys[k] = it
