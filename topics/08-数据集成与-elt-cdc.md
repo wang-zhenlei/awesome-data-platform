@@ -4,24 +4,24 @@
 
 | ⭐ Stars | 仓库 | 最近更新 | 中文简介 |
 |--------:|------|----------|----------|
-| 22,424 | [airbytehq/airbyte](https://github.com/airbytehq/airbyte) | 2026-11-20 | 开源 数据 movement for ELT pipelines and AI agents — from APIs, databases & files to warehouses, lakes, and AI applications. Both self-hosted and Cloud. |
-| 16,162 | [coderamp-labs/gitingest](https://github.com/coderamp-labs/gitingest) | 2026-11-20 | Replace 'hub' with 'ingest' in any GitHub URL to get a 提示词-friendly extract of a codebase |
-| 13,365 | [debezium/debezium](https://github.com/debezium/debezium) | 2026-11-20 | 变更 数据 捕获 for a variety of databases. Please log issues at https://github.com/debezium/dbz/issues. |
-| 11,941 | [fivetran/great_expectations](https://github.com/fivetran/great_expectations) | 2026-11-20 | Always know what to expect from your 数据. |
-| 9,820 | [apache/seatunnel](https://github.com/apache/seatunnel) | 2026-11-20 | SeaTunnel is a 多模态, high-性能, 分布式, massive 数据 集成 工具. |
+| 22,427 | [airbytehq/airbyte](https://github.com/airbytehq/airbyte) | 2026-11-21 | 开源 数据 movement for ELT pipelines and AI agents — from APIs, databases & files to warehouses, lakes, and AI applications. Both self-hosted and Cloud. |
+| 16,167 | [coderamp-labs/gitingest](https://github.com/coderamp-labs/gitingest) | 2026-11-21 | Replace 'hub' with 'ingest' in any GitHub URL to get a 提示词-friendly extract of a codebase |
+| 13,366 | [debezium/debezium](https://github.com/debezium/debezium) | 2026-11-21 | 变更 数据 捕获 for a variety of databases. Please log issues at https://github.com/debezium/dbz/issues. |
+| 11,942 | [fivetran/great_expectations](https://github.com/fivetran/great_expectations) | 2026-11-21 | Always know what to expect from your 数据. |
+| 9,823 | [apache/seatunnel](https://github.com/apache/seatunnel) | 2026-11-21 | SeaTunnel is a 多模态, high-性能, 分布式, massive 数据 集成 工具. |
 | 8,419 | [pentaho/pentaho-kettle](https://github.com/pentaho/pentaho-kettle) | 2026-11-20 | Pentaho 数据 集成 ( ETL ) a.k.a Kettle |
-| 8,020 | [turbot/steampipe](https://github.com/turbot/steampipe) | 2026-11-20 | Zero-ETL, infinite possibilities. Live 查询 APIs, code & more with SQL. No DB required. |
+| 8,019 | [turbot/steampipe](https://github.com/turbot/steampipe) | 2026-11-21 | Zero-ETL, infinite possibilities. Live 查询 APIs, code & more with SQL. No DB required. |
 | 7,935 | [adithya-s-k/omniparse](https://github.com/adithya-s-k/omniparse) | 2026-11-19 | Ingest, parse, and optimize any 数据 format ➡️ from documents to multimedia ➡️ for enhanced compatibility with GenAI frameworks |
 | 7,417 | [The-Vibe-Company/megaparse](https://github.com/The-Vibe-Company/megaparse) | 2026-11-20 | File Parser optimised for LLM Ingestion with no loss 🧠 Parse PDFs, Docx, PPTx in a format that is ideal for LLMs. |
 | 6,495 | [apache/flink-cdc](https://github.com/apache/flink-cdc) | 2026-11-19 | Flink CDC is a streaming 数据 集成 工具 |
-| 6,115 | [dlt-hub/dlt](https://github.com/dlt-hub/dlt) | 2026-11-20 | 数据 load 工具 (dlt) is an open source Python 库 that makes 数据 loading easy 🛠️ |
-| 5,723 | [mik3y/usb-serial-for-android](https://github.com/mik3y/usb-serial-for-android) | 2026-11-20 | Android USB host serial driver 库 for CDC, FTDI, Arduino and other devices. |
+| 6,117 | [dlt-hub/dlt](https://github.com/dlt-hub/dlt) | 2026-11-21 | 数据 load 工具 (dlt) is an open source Python 库 that makes 数据 loading easy 🛠️ |
+| 5,724 | [mik3y/usb-serial-for-android](https://github.com/mik3y/usb-serial-for-android) | 2026-11-21 | Android USB host serial driver 库 for CDC, FTDI, Arduino and other devices. |
 | 4,107 | [DTStack/chunjun](https://github.com/DTStack/chunjun) | 2026-11-19 | A 数据 集成 框架 |
 | 3,681 | [linkedin/databus](https://github.com/linkedin/databus) | 2026-11-19 | Source-agnostic 分布式 变更 数据 捕获 system |
 | 3,607 | [pawl/awesome-etl](https://github.com/pawl/awesome-etl) | 2026-11-19 | A curated list of awesome ETL frameworks, libraries, and software. |
 | 3,391 | [google/cdc-file-transfer](https://github.com/google/cdc-file-transfer) | 2026-11-09 | Tools for synching and streaming files from Windows to Linux |
 | 3,205 | [ferventdesert/Hawk](https://github.com/ferventdesert/Hawk) | 2026-11-19 | visualized 爬虫 & ETL IDE written with C#/WPF |
-| 3,171 | [ETLCPP/etl](https://github.com/ETLCPP/etl) | 2026-11-19 | Embedded Template 库 |
+| 3,173 | [ETLCPP/etl](https://github.com/ETLCPP/etl) | 2026-11-21 | Embedded Template 库 |
 | 3,132 | [blockchain-etl/ethereum-etl](https://github.com/blockchain-etl/ethereum-etl) | 2026-11-19 | Python scripts for ETL (extract, 转换 and load) jobs for Ethereum blocks, transactions, ERC20 / ERC721 tokens, transfers, receipts, logs, contracts, internal transactions. 数据 is available in Google BigQuery https://goo.gl/oY5BCQ |
 | 2,892 | [airbnb/streamalert](https://github.com/airbnb/streamalert) | 2026-11-19 | StreamAlert is a serverless, realtime 数据 analysis 框架 which empowers you to ingest, analyze, and alert on 数据 from any environment, using datasources and alerting logic you define. |
 | 2,694 | [elixir-broadway/broadway](https://github.com/elixir-broadway/broadway) | 2026-11-19 | Concurrent and 多-stage 数据 ingestion and 数据 处理 with Elixir |
@@ -32,23 +32,23 @@
 | 2,231 | [sequinstream/sequin](https://github.com/sequinstream/sequin) | 2026-11-20 | Postgres 变更 数据 捕获 to streams, queues, and 搜索 indexes like Kafka, SQS, Elasticsearch, HTTP endpoints, and more |
 | 2,139 | [async-library/react-async](https://github.com/async-library/react-async) | 2026-11-20 | 🍾 Flexible promise-based React 数据 loader |
 | 2,139 | [Micke-K/IntuneManagement](https://github.com/Micke-K/IntuneManagement) | 2026-11-20 | Copy, export, import, delete, 文档 and compare policies and profiles in Intune and Azure with PowerShell script and WPF UI. Import ADMX files and 注册表 settings with ADMX ingestion. View and edit PowerShell script. |
-| 2,126 | [monoscope-tech/monoscope](https://github.com/monoscope-tech/monoscope) | 2026-11-20 | Monoscope lets you ingest and explore your logs, traces and metrics. We 存储 these in S3 compatible buckets. 查询 in 自然 语言 via LLMs. |
+| 2,132 | [monoscope-tech/monoscope](https://github.com/monoscope-tech/monoscope) | 2026-11-21 | Monoscope lets you ingest and explore your logs, traces and metrics. We 存储 these in S3 compatible buckets. 查询 in 自然 语言 via LLMs. |
 | 2,030 | [jimmc414/onefilellm](https://github.com/jimmc414/onefilellm) | 2026-11-19 | Specify a github or 本地 repo, github pull request,  arXiv or Sci-Hub paper, Youtube transcript or documentation URL on the 网页 and scrape into a 文本 file and clipboard  for easier LLM ingestion |
 | 1,816 | [bruin-data/bruin](https://github.com/bruin-data/bruin) | 2026-11-19 | 构建 数据 pipelines with SQL and Python, ingest 数据 from different sources, add 质量 checks, and 构建 end-to-end flows. |
 | 1,783 | [embulk/embulk](https://github.com/embulk/embulk) | 2026-11-19 | Embulk: Pluggable Bulk 数据 Loader. |
-| 1,689 | [debezium/debezium-examples](https://github.com/debezium/debezium-examples) | 2026-11-19 | Examples for running Debezium (Configuration, Docker Compose files etc.). Please log issues at https://github.com/debezium/dbz/issues. |
+| 1,690 | [debezium/debezium-examples](https://github.com/debezium/debezium-examples) | 2026-11-21 | Examples for running Debezium (Configuration, Docker Compose files etc.). Please log issues at https://github.com/debezium/dbz/issues. |
 | 1,573 | [getdozer/dozer](https://github.com/getdozer/dozer) | 2026-11-19 | Dozer is a 实时-时 数据 movement 工具 that leverages CDC from various sources and moves 数据 into various sinks. |
 | 1,549 | [tilo/smarter_csv](https://github.com/tilo/smarter_csv) | 2026-11-19 | Fastest end-to-end CSV ingestion for Ruby (with C acceleration). SmarterCSV auto-detects formats, applies smart defaults, and returns Rails-ready hashes for seamless use with ActiveRecord, Sidekiq, parallel jobs, and S3 pipelines — even for messy user-uploaded |
 | 1,458 | [superstreamerapp/superstreamer](https://github.com/superstreamerapp/superstreamer) | 2026-11-19 | An open, 可扩展, online streaming setup. All-in-one 工具集 from ingest to adaptive 视频 playback. Built for developers in need of 视频 tooling. |
-| 1,454 | [wgzhao/Addax](https://github.com/wgzhao/Addax) | 2026-11-20 | Actively maintained successor to Alibaba DataX — a 快速, versatile, 开源 ETL 工具 for 30+ RDBMS and NoSQL 数据 sources. |
+| 1,455 | [wgzhao/Addax](https://github.com/wgzhao/Addax) | 2026-11-21 | Actively maintained successor to Alibaba DataX — a 快速, versatile, 开源 ETL 工具 for 30+ RDBMS and NoSQL 数据 sources. |
 | 1,437 | [compose/transporter](https://github.com/compose/transporter) | 2026-11-19 | Sync 数据 between persistence engines, like ETL only not stodgy |
 | 1,334 | [StarlightSearch/EmbedAnything](https://github.com/StarlightSearch/EmbedAnything) | 2026-11-20 | Highly Performant, Modular, 记忆 Safe and 生产-ready 推理, Ingestion and 索引 built in Rust 🦀 |
 | 1,004 | [danielealbano/cachegrand](https://github.com/danielealbano/cachegrand) | 2026-11-19 | cachegrand - a modern 数据 ingestion, 处理 and 服务 平台 built for today's hardware |
-| 993 | [estuary/flow](https://github.com/estuary/flow) | 2026-11-19 | 🌊 Continuously synchronize the systems where your 数据 lives, to the systems where you _want_ it to live, by managing your 数据 flows with Estuary. 🌊 |
+| 995 | [estuary/flow](https://github.com/estuary/flow) | 2026-11-21 | 🌊 Continuously synchronize the systems where your 数据 lives, to the systems where you _want_ it to live, by managing your 数据 flows with Estuary. 🌊 |
 | 979 | [openlink/virtuoso-opensource](https://github.com/openlink/virtuoso-opensource) | 2026-11-13 | Virtuoso is a high-性能 and 可扩展 多-模型 RDBMS, 数据 集成 Middleware, Linked 数据 部署, and HTTP Application 服务器 平台 |
 | 800 | [pyproject-nix/uv2nix](https://github.com/pyproject-nix/uv2nix) | 2026-11-19 | Uv2nix - Ingest uv workspaces using Nix [maintainer=@adisbladis] |
 | 780 | [grouparoo/grouparoo](https://github.com/grouparoo/grouparoo) | 2026-11-19 | 🦘 The Grouparoo Monorepo - open source customer 数据 sync 框架 |
-| 778 | [NationalSecurityAgency/datawave](https://github.com/NationalSecurityAgency/datawave) | 2026-11-19 | DataWave is an ingest/查询 框架 that leverages Apache Accumulo to provide 快速, 安全 数据 access. |
+| 779 | [NationalSecurityAgency/datawave](https://github.com/NationalSecurityAgency/datawave) | 2026-11-21 | DataWave is an ingest/查询 框架 that leverages Apache Accumulo to provide 快速, 安全 数据 access. |
 | 763 | [threeknowbigdata/flink_second_understand](https://github.com/threeknowbigdata/flink_second_understand) | 2026-11-19 | 该仓库专注于让读者秒懂Flink组件，包含Flink实战代码和文档、200个Flink教程知识点，Flink Datastream、Flink Table、Flink Window、Flink State、Flink Checkpoint、Flink Metrics、Flink 记忆、Flink on standalone /yarn/k8s、Flink SQL、Flink CEP、Flink CDC、Flink UDF、PyFlink、Flink新特性、Flink Partition、Flink Memo |
 | 465 | [pingcap/tiflow](https://github.com/pingcap/tiflow) | 2026-11-11 | This repo maintains DM (a 数据 migration 平台) and TiCDC (变更 数据 捕获 for TiDB) |
 | 449 | [airbnb/SpinalTap](https://github.com/airbnb/SpinalTap) | 2026-10-23 | 变更 数据 捕获 (CDC) service |
@@ -65,15 +65,15 @@
 | 262 | [dlt-hub/dlthub-education](https://github.com/dlt-hub/dlthub-education) | 2026-11-17 | In this repository we 存储 all materials for dlt workshops, courses, etc. |
 | 245 | [application-research/estuary](https://github.com/application-research/estuary) | 2026-11-10 | A custom IPFS/Filecoin node that makes it easy to pin IPFS content and make Filecoin deals. |
 | 214 | [unipop-graph/unipop](https://github.com/unipop-graph/unipop) | 2026-11-12 | 数据 集成 图 |
+| 196 | [unytics/airbyte_serverless](https://github.com/unytics/airbyte_serverless) | 2026-11-21 | Airbyte made 简单 (no UI, no 数据库, no cluster) |
 | 196 | [dktr0/estuary](https://github.com/dktr0/estuary) | 2026-11-04 | 平台 for collaboration and learning through live coding |
-| 195 | [unytics/airbyte_serverless](https://github.com/unytics/airbyte_serverless) | 2026-11-01 | Airbyte made 简单 (no UI, no 数据库, no cluster) |
 | 171 | [fivetran/benchmark](https://github.com/fivetran/benchmark) | 2026-08-03 | Benchmark 数据 warehouses under Fivetran-like conditions |
 | 156 | [uuhnaut69/saga-pattern-microservices](https://github.com/uuhnaut69/saga-pattern-microservices) | 2026-10-02 | Demo saga pattern, outbox pattern using Spring Boot, Debezium, Kafka, Kafka Connect |
 | 151 | [debezium/debezium-server](https://github.com/debezium/debezium-server) | 2026-11-13 | Debezium 服务器 runtime for standalone execution of Debezium connectors. Please log issues at https://github.com/debezium/dbz/issues. |
 | 147 | [b-jesch/skin.estuary.modv2](https://github.com/b-jesch/skin.estuary.modv2) | 2026-11-15 | A Skin for Matrix/Nexus/Omega |
 | 139 | [fivetran/connector_sdk](https://github.com/fivetran/connector_sdk) | 2026-11-11 | 构建 custom connectors on Fivetran's 平台 |
 | 136 | [airbytehq/airbyte-agent-sdk](https://github.com/airbytehq/airbyte-agent-sdk) | 2026-11-12 | 🐙 Drop-in tools that give AI agents reliable, permission-aware access to external systems. |
-| 127 | [dlt-hub/verified-sources](https://github.com/dlt-hub/verified-sources) | 2026-11-12 | Contribute to dlt verified sources 🔥 |
+| 128 | [dlt-hub/verified-sources](https://github.com/dlt-hub/verified-sources) | 2026-11-21 | Contribute to dlt verified sources 🔥 |
 | 120 | [singer-io/tap-facebook](https://github.com/singer-io/tap-facebook) | 2026-11-10 | Singer.io tap for Facebook Marketing API |
 | 120 | [meltano/sdk](https://github.com/meltano/sdk) | 2026-11-09 | Write 70% less code by using the SDK to 构建 custom extractors and loaders that adhere to the Singer standard: https://sdk.meltano.com |
 | 108 | [ContextData/VectorETL](https://github.com/ContextData/VectorETL) | 2026-10-17 | 构建 super 简单 end-to-end 数据 & ETL pipelines for your 向量 databases and Generative AI applications |
