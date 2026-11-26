@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/projects-2418+-blue" alt="projects"/> 
+<img src="https://img.shields.io/badge/projects-2417+-blue" alt="projects"/> 
 <img src="https://img.shields.io/badge/themes-10-green" alt="themes"/>
 
 </div>
@@ -11,14 +11,14 @@
 
 > ⚠️ 简介为**字典机翻中文化**参考，以原仓库 README 为准。所有项目版权归原作者所有。
 
-> 最近刷新：2026-11-25（GitHub Action 自动）
+> 最近刷新：2026-11-26（GitHub Action 自动）
 
 ## 📊 统计
 
 - 主题数：**10**
-- 收录项目：**2418** 条（过滤后）
-- 原始检索 5007 → 质量过滤后 4158 → 归类 2418
-- 未命中主题：1740 条
+- 收录项目：**2417** 条（过滤后）
+- 原始检索 5007 → 质量过滤后 4158 → 归类 2417
+- 未命中主题：1741 条
 
 ## 📑 主题目录
 
@@ -26,7 +26,7 @@
 |--:|------|------:|------|
 | 1 | 🦙 本地 LLM 与推理 | 227 | [查看 →](./topics/01-本地-llm-与推理.md) |
 | 2 | 🔎 RAG 与向量检索 | 316 | [查看 →](./topics/02-rag-与向量检索.md) |
-| 3 | 🧠 语义层与上下文 / Agent | 397 | [查看 →](./topics/03-语义层与上下文-agent.md) |
+| 3 | 🧠 语义层与上下文 / Agent | 396 | [查看 →](./topics/03-语义层与上下文-agent.md) |
 | 4 | ✅ 数据质量与可观测性 | 186 | [查看 →](./topics/04-数据质量与可观测性.md) |
 | 5 | 🗄️ 数据中台与数据资产 | 404 | [查看 →](./topics/05-数据中台与数据资产.md) |
 | 6 | 📊 指标平台与 Headless BI | 159 | [查看 →](./topics/06-指标平台与-headless-bi.md) |
