@@ -4,76 +4,76 @@
 
 | ⭐ Stars | 仓库 | 最近更新 | 中文简介 |
 |--------:|------|----------|----------|
-| 111,919 | [microsoft/TypeScript](https://github.com/microsoft/TypeScript) | 2026-11-27 | TypeScript is a superset of JavaScript that compiles to clean JavaScript output. |
-| 91,229 | [koala73/worldmonitor](https://github.com/koala73/worldmonitor) | 2026-11-27 | 实时-时 global 智能 仪表盘. AI-powered news aggregation, geopolitical 监控, and infrastructure 追踪 in a unified situational awareness 界面 |
-| 75,703 | [apache/superset](https://github.com/apache/superset) | 2026-11-27 | Apache Superset is a 数据 Visualization and 数据 Exploration 平台 |
-| 74,815 | [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | 2026-11-27 | LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered 多-market stock analysis system with 多-source market 数据, 实时-时 news, decision 仪表盘, automated notifications, and cost-free scheduled runs. |
-| 50,598 | [metabase/metabase](https://github.com/metabase/metabase) | 2026-11-26 | The easy-to-use open source 商业 智能 and Embedded 分析 工具 that lets everyone work with 数据 :bar_chart: |
-| 45,709 | [ColorlibHQ/AdminLTE](https://github.com/ColorlibHQ/AdminLTE) | 2026-11-26 | AdminLTE - Free admin 仪表盘 template based on Bootstrap 5 |
-| 42,142 | [tabler/tabler](https://github.com/tabler/tabler) | 2026-11-26 | Free and open source admin 仪表盘 UI kit built on Bootstrap: 100+ pages, 6,500+ icons, dark mode, RTL. |
-| 40,404 | [umami-software/umami](https://github.com/umami-software/umami) | 2026-11-27 | Umami is a 隐私-first 网页 and product 分析 平台. Traffic, campaigns, behavior, conversions, and revenue in one place. No cookies, no surveillance, self-hosted or in the cloud. |
-| 38,388 | [glanceapp/glance](https://github.com/glanceapp/glance) | 2026-11-26 | A self-hosted 仪表盘 that puts all your feeds in one place |
-| 33,839 | [gethomepage/homepage](https://github.com/gethomepage/homepage) | 2026-11-26 | A highly customizable homepage (or startpage / application 仪表盘) with Docker and service API integrations. |
-| 28,903 | [getredash/redash](https://github.com/getredash/redash) | 2026-11-26 | Make Your Company 数据 Driven. Connect to any 数据 source, easily visualize, 仪表盘 and share your 数据. |
-| 27,080 | [lissy93/dashy](https://github.com/lissy93/dashy) | 2026-11-27 | 🚀 A self-hostable personal 仪表盘 built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more! |
-| 25,661 | [akveo/ngx-admin](https://github.com/akveo/ngx-admin) | 2026-11-26 | Customizable admin 仪表盘 template based on Angular 10+ |
-| 24,749 | [dataease/dataease](https://github.com/dataease/dataease) | 2026-11-26 | 🔥 人人可用的开源 BI 工具，数据可视化神器。An open-source BI tool alternative to Tableau. |
-| 24,477 | [knadh/listmonk](https://github.com/knadh/listmonk) | 2026-11-27 | High 性能, self-hosted, newsletter and mailing list manager with a modern 仪表盘. Single binary app. |
-| 21,573 | [ColorlibHQ/gentelella](https://github.com/ColorlibHQ/gentelella) | 2026-11-26 | Free admin 仪表盘 template — vanilla JS, SCSS, Vite 8. No Bootstrap, no jQuery. |
-| 17,156 | [wtfutil/wtf](https://github.com/wtfutil/wtf) | 2026-11-26 | The personal information 仪表盘 for your terminal |
-| 17,000 | [satnaing/shadcn-admin](https://github.com/satnaing/shadcn-admin) | 2026-11-26 | Admin 仪表盘 UI built with Shadcn and Vite. |
-| 13,947 | [FormidableLabs/webpack-dashboard](https://github.com/FormidableLabs/webpack-dashboard) | 2026-11-25 | A CLI 仪表盘 for webpack dev 服务器 |
-| 13,589 | [gizak/termui](https://github.com/gizak/termui) | 2026-11-26 | Golang terminal 仪表盘 |
+| 111,924 | [microsoft/TypeScript](https://github.com/microsoft/TypeScript) | 2026-11-28 | TypeScript is a superset of JavaScript that compiles to clean JavaScript output. |
+| 91,265 | [koala73/worldmonitor](https://github.com/koala73/worldmonitor) | 2026-11-27 | 实时-时 global 智能 仪表盘. AI-powered news aggregation, geopolitical 监控, and infrastructure 追踪 in a unified situational awareness 界面 |
+| 75,711 | [apache/superset](https://github.com/apache/superset) | 2026-11-28 | Apache Superset is a 数据 Visualization and 数据 Exploration 平台 |
+| 75,010 | [ZhuLinsen/daily_stock_analysis](https://github.com/ZhuLinsen/daily_stock_analysis) | 2026-11-28 | LLM 驱动的多市场股票智能分析系统：多源行情、实时新闻、决策看板与自动推送，支持零成本定时运行。  LLM-powered 多-market stock analysis system with 多-source market 数据, 实时-时 news, decision 仪表盘, automated notifications, and cost-free scheduled runs. |
+| 50,630 | [metabase/metabase](https://github.com/metabase/metabase) | 2026-11-28 | The easy-to-use open source 商业 智能 and Embedded 分析 工具 that lets everyone work with 数据 :bar_chart: |
+| 45,714 | [ColorlibHQ/AdminLTE](https://github.com/ColorlibHQ/AdminLTE) | 2026-11-27 | AdminLTE - Free admin 仪表盘 template based on Bootstrap 5 |
+| 42,143 | [tabler/tabler](https://github.com/tabler/tabler) | 2026-11-27 | Free and open source admin 仪表盘 UI kit built on Bootstrap: 100+ pages, 6,500+ icons, dark mode, RTL. |
+| 40,441 | [umami-software/umami](https://github.com/umami-software/umami) | 2026-11-28 | Umami is a 隐私-first 网页 and product 分析 平台. Traffic, campaigns, behavior, conversions, and revenue in one place. No cookies, no surveillance, self-hosted or in the cloud. |
+| 38,401 | [glanceapp/glance](https://github.com/glanceapp/glance) | 2026-11-28 | A self-hosted 仪表盘 that puts all your feeds in one place |
+| 33,849 | [gethomepage/homepage](https://github.com/gethomepage/homepage) | 2026-11-27 | A highly customizable homepage (or startpage / application 仪表盘) with Docker and service API integrations. |
+| 28,908 | [getredash/redash](https://github.com/getredash/redash) | 2026-11-27 | Make Your Company 数据 Driven. Connect to any 数据 source, easily visualize, 仪表盘 and share your 数据. |
+| 27,086 | [lissy93/dashy](https://github.com/lissy93/dashy) | 2026-11-27 | 🚀 A self-hostable personal 仪表盘 built for you. Includes status-checking, widgets, themes, icon packs, a UI editor and tons more! |
+| 25,660 | [akveo/ngx-admin](https://github.com/akveo/ngx-admin) | 2026-11-27 | Customizable admin 仪表盘 template based on Angular 10+ |
+| 24,753 | [dataease/dataease](https://github.com/dataease/dataease) | 2026-11-28 | 🔥 人人可用的开源 BI 工具，数据可视化神器。An open-source BI tool alternative to Tableau. |
+| 24,488 | [knadh/listmonk](https://github.com/knadh/listmonk) | 2026-11-27 | High 性能, self-hosted, newsletter and mailing list manager with a modern 仪表盘. Single binary app. |
+| 21,577 | [ColorlibHQ/gentelella](https://github.com/ColorlibHQ/gentelella) | 2026-11-27 | Free admin 仪表盘 template — vanilla JS, SCSS, Vite 8. No Bootstrap, no jQuery. |
+| 17,158 | [wtfutil/wtf](https://github.com/wtfutil/wtf) | 2026-11-27 | The personal information 仪表盘 for your terminal |
+| 17,010 | [satnaing/shadcn-admin](https://github.com/satnaing/shadcn-admin) | 2026-11-27 | Admin 仪表盘 UI built with Shadcn and Vite. |
+| 13,948 | [FormidableLabs/webpack-dashboard](https://github.com/FormidableLabs/webpack-dashboard) | 2026-11-27 | A CLI 仪表盘 for webpack dev 服务器 |
+| 13,590 | [gizak/termui](https://github.com/gizak/termui) | 2026-11-27 | Golang terminal 仪表盘 |
 | 12,608 | [d2-projects/d2-admin](https://github.com/d2-projects/d2-admin) | 2026-11-26 | An elegant 仪表盘 |
-| 12,368 | [illacloud/illa-builder](https://github.com/illacloud/illa-builder) | 2026-11-26 | Low-code 平台 allows you to 构建 商业 apps, enables you to quickly create internal tools such as 仪表盘, crud app, admin panel, crm, cms, etc. Supports PostgreSQL, MySQL, Supabase, GraphQL, MongoDB, MSSQL, Rest API, Hugging Face, Redis, etc. Automa |
-| 12,274 | [coreui/coreui-free-bootstrap-admin-template](https://github.com/coreui/coreui-free-bootstrap-admin-template) | 2026-11-26 | Free Bootstrap Admin & 仪表盘 Template Built for AI-Assisted Development |
-| 11,371 | [AgriciDaniel/claude-ads](https://github.com/AgriciDaniel/claude-ads) | 2026-11-27 | Claude-first paid-media operations skill for Claude Code across 12 ad platforms (Google, Meta, YouTube, LinkedIn, TikTok, Microsoft, Apple, Amazon, Reddit, Pinterest, Snapchat, X): source-grounded audits, deterministic findings and evidence coverage, versioned |
+| 12,369 | [illacloud/illa-builder](https://github.com/illacloud/illa-builder) | 2026-11-27 | Low-code 平台 allows you to 构建 商业 apps, enables you to quickly create internal tools such as 仪表盘, crud app, admin panel, crm, cms, etc. Supports PostgreSQL, MySQL, Supabase, GraphQL, MongoDB, MSSQL, Rest API, Hugging Face, Redis, etc. Automa |
+| 12,274 | [coreui/coreui-free-bootstrap-admin-template](https://github.com/coreui/coreui-free-bootstrap-admin-template) | 2026-11-27 | Free Bootstrap Admin & 仪表盘 Template Built for AI-Assisted Development |
+| 11,392 | [AgriciDaniel/claude-ads](https://github.com/AgriciDaniel/claude-ads) | 2026-11-27 | Claude-first paid-media operations skill for Claude Code across 12 ad platforms (Google, Meta, YouTube, LinkedIn, TikTok, Microsoft, Apple, Amazon, Reddit, Pinterest, Snapchat, X): source-grounded audits, deterministic findings and evidence coverage, versioned |
 | 9,089 | [didi/cube-ui](https://github.com/didi/cube-ui) | 2026-11-22 | :large_orange_diamond: A fantastic mobile ui lib implement by Vue |
-| 7,718 | [veloren/veloren](https://github.com/veloren/veloren) | 2026-11-26 | [mirror of https://gitlab.com/veloren/veloren] An open world, open source voxel RPG inspired by Dwarf Fortress and Cube World. This repository is a mirror. Please submit all PRs and issues on our GitLab page. |
-| 7,328 | [Openpanel-dev/openpanel](https://github.com/Openpanel-dev/openpanel) | 2026-11-26 | OpenPanel is an 开源 网页 and product 分析 平台, an 开源 alternative to Mixpanel with optional self-hosting. |
-| 7,148 | [evidence-dev/evidence](https://github.com/evidence-dev/evidence) | 2026-11-26 | 商业 智能 as code: 构建 快速, interactive 数据 visualizations in SQL and markdown |
-| 6,081 | [ledger/ledger](https://github.com/ledger/ledger) | 2026-11-26 | Double-entry accounting system with a command-line 报表 界面 |
-| 5,592 | [allure-framework/allure2](https://github.com/allure-framework/allure2) | 2026-11-26 | Allure Report is a flexible, 轻量 多-语言 测试 报表 工具. It provides clear graphical reports and allows everyone involved in the development process to extract the maximum of information from the everyday testing process |
+| 7,719 | [veloren/veloren](https://github.com/veloren/veloren) | 2026-11-27 | [mirror of https://gitlab.com/veloren/veloren] An open world, open source voxel RPG inspired by Dwarf Fortress and Cube World. This repository is a mirror. Please submit all PRs and issues on our GitLab page. |
+| 7,335 | [Openpanel-dev/openpanel](https://github.com/Openpanel-dev/openpanel) | 2026-11-27 | OpenPanel is an 开源 网页 and product 分析 平台, an 开源 alternative to Mixpanel with optional self-hosting. |
+| 7,152 | [evidence-dev/evidence](https://github.com/evidence-dev/evidence) | 2026-11-27 | 商业 智能 as code: 构建 快速, interactive 数据 visualizations in SQL and markdown |
+| 6,080 | [ledger/ledger](https://github.com/ledger/ledger) | 2026-11-27 | Double-entry accounting system with a command-line 报表 界面 |
+| 5,592 | [allure-framework/allure2](https://github.com/allure-framework/allure2) | 2026-11-27 | Allure Report is a flexible, 轻量 多-语言 测试 报表 工具. It provides clear graphical reports and allows everyone involved in the development process to extract the maximum of information from the everyday testing process |
 | 5,287 | [ravionhq/superjson](https://github.com/ravionhq/superjson) | 2026-11-26 | Safely serialize JavaScript expressions to a superset of JSON, which includes Dates, BigInts, and more. |
-| 5,238 | [console-rs/indicatif](https://github.com/console-rs/indicatif) | 2026-11-26 | A command line progress 报表 库 for Rust |
+| 5,236 | [console-rs/indicatif](https://github.com/console-rs/indicatif) | 2026-11-27 | A command line progress 报表 库 for Rust |
 | 4,910 | [m3db/m3](https://github.com/m3db/m3) | 2026-11-25 | M3 monorepo - 分布式 TSDB, Aggregator and 查询 引擎, Prometheus Sidecar, Graphite Compatible, Metrics 平台 |
-| 4,806 | [ankane/blazer](https://github.com/ankane/blazer) | 2026-11-23 | 商业 智能 made 简单 |
-| 4,686 | [intuitem/ciso-assistant-community](https://github.com/intuitem/ciso-assistant-community) | 2026-11-26 | CISO 助手 is a one-stop-shop GRC 平台 for Risk Management, AppSec, 合规 & Audit, TPRM, BIA, 隐私, and 报表. It supports 200+ global frameworks with automatic control mapping, including ISO 27001, NIST CSF, SOC 2, CIS, PCI DSS, NIS2, DORA |
+| 4,807 | [ankane/blazer](https://github.com/ankane/blazer) | 2026-11-27 | 商业 智能 made 简单 |
+| 4,688 | [intuitem/ciso-assistant-community](https://github.com/intuitem/ciso-assistant-community) | 2026-11-27 | CISO 助手 is a one-stop-shop GRC 平台 for Risk Management, AppSec, 合规 & Audit, TPRM, BIA, 隐私, and 报表. It supports 200+ global frameworks with automatic control mapping, including ISO 27001, NIST CSF, SOC 2, CIS, PCI DSS, NIS2, DORA |
 | 4,660 | [nunomaduro/collision](https://github.com/nunomaduro/collision) | 2026-11-26 | 💥 Collision is a beautiful error 报表 工具 for command-line applications |
 | 3,864 | [square/cube](https://github.com/square/cube) | 2026-11-24 | Cube: A system for 时 series visualization. |
 | 3,805 | [didi/xiaoju-survey](https://github.com/didi/xiaoju-survey) | 2026-11-26 | XIAOJUSURVEY is an enterprises form builder and 分析 平台 that allows users to create questionnaires, exams, polls, quizzes, and analyze 数据 online. |
-| 3,787 | [1186258278/OpenClawChineseTranslation](https://github.com/1186258278/OpenClawChineseTranslation) | 2026-11-26 | 🦞 OpenClaw (Clawdbot/Moltbot) 汉化版 - 开源个人 AI 助手中文版 \| Claude/ChatGPT LLM 接入 \| WhatsApp/Telegram/Discord 多平台 \| 每小时自动同步 \| CLI + 仪表盘 全中文 \| 全流程搭建教程，以及排错指南！ |
-| 3,402 | [mw00/project-maya](https://github.com/mw00/project-maya) | 2026-11-27 | 运行 GLM-5.3 (744B), DeepSeek-V4.1-Flash (748B), MiniMax-M3.1-Flash (428B), GLM-5.3-Flash (321B), Hy4-Flash (220B) and Inkling 2 Mini (26B) on your own GPUs - from 8 GB of VRAM, NVIDIA and AMD, one 仪表盘, OpenAI- and Anthropic-compatible API. |
-| 3,109 | [corbindavenport/just-the-browser](https://github.com/corbindavenport/just-the-browser) | 2026-11-26 | Remove AI features, telemetry 数据 报表, sponsored content, product integrations, and other annoyances from 网页 browsers. |
+| 3,788 | [1186258278/OpenClawChineseTranslation](https://github.com/1186258278/OpenClawChineseTranslation) | 2026-11-27 | 🦞 OpenClaw (Clawdbot/Moltbot) 汉化版 - 开源个人 AI 助手中文版 \| Claude/ChatGPT LLM 接入 \| WhatsApp/Telegram/Discord 多平台 \| 每小时自动同步 \| CLI + 仪表盘 全中文 \| 全流程搭建教程，以及排错指南！ |
+| 3,463 | [mw00/project-maya](https://github.com/mw00/project-maya) | 2026-11-28 | 运行 GLM-5.3 (744B), DeepSeek-V4.1-Flash (748B), MiniMax-M3.1-Flash (428B), GLM-5.3-Flash (321B), Hy4-Flash (220B), Ling-3.2-air (128B) and Inkling 2 Mini (26B) on your own GPUs - from 8 GB of VRAM, NVIDIA and AMD, one 仪表盘, OpenAI- and Anthropic-compatibl |
+| 3,110 | [corbindavenport/just-the-browser](https://github.com/corbindavenport/just-the-browser) | 2026-11-27 | Remove AI features, telemetry 数据 报表, sponsored content, product integrations, and other annoyances from 网页 browsers. |
 | 3,099 | [TuiQiao/CBoard](https://github.com/TuiQiao/CBoard) | 2026-11-19 | An easy to use, self-service open BI 报表 and BI 仪表盘 平台. |
-| 3,015 | [rilldata/rill](https://github.com/rilldata/rill) | 2026-11-27 | The fastest 商业 智能 工具 for humans and agents. |
-| 2,932 | [chdb-io/chdb](https://github.com/chdb-io/chdb) | 2026-11-23 | chDB is an in-process OLAP SQL 引擎 🚀 powered by ClickHouse |
+| 3,016 | [rilldata/rill](https://github.com/rilldata/rill) | 2026-11-27 | The fastest 商业 智能 工具 for humans and agents. |
+| 2,933 | [chdb-io/chdb](https://github.com/chdb-io/chdb) | 2026-11-27 | chDB is an in-process OLAP SQL 引擎 🚀 powered by ClickHouse |
 | 2,925 | [yahoo/serialize-javascript](https://github.com/yahoo/serialize-javascript) | 2026-11-19 | Serialize JavaScript to a superset of JSON that includes regular expressions and functions. |
 | 2,729 | [oakes/vim_cubed](https://github.com/oakes/vim_cubed) | 2026-11-17 | Vim rendered on a cube for no reason |
 | 2,488 | [zouxiaohang/TinySTL](https://github.com/zouxiaohang/TinySTL) | 2026-11-19 | TinySTL is a subset of STL(cut some containers and algorithms) and also a superset of STL(add some other containers and algorithms) |
 | 2,467 | [ice-cube-ruby/ice_cube](https://github.com/ice-cube-ruby/ice_cube) | 2026-11-23 | Ruby Date Recurrence 库 - Allows easy creation of recurrence rules and 快速 querying |
 | 2,339 | [thenaturalist/awesome-business-intelligence](https://github.com/thenaturalist/awesome-business-intelligence) | 2026-11-25 | Actively curated list of awesome BI tools. PRs welcome! |
 | 2,057 | [wcandillon/react-native-redash](https://github.com/wcandillon/react-native-redash) | 2026-11-18 | The React Native Reanimated and Gesture Handler Toolbelt |
-| 2,055 | [sharkdp/cube-composer](https://github.com/sharkdp/cube-composer) | 2026-11-20 | A puzzle game inspired by functional programming |
+| 2,056 | [sharkdp/cube-composer](https://github.com/sharkdp/cube-composer) | 2026-11-27 | A puzzle game inspired by functional programming |
 | 2,010 | [NVIDIA-AI-Blueprints/video-search-and-summarization](https://github.com/NVIDIA-AI-Blueprints/video-search-and-summarization) | 2026-11-26 | NVIDIA AI Blueprint for 视频 搜索 and 摘要 (VSS) is a GPU-accelerated reference architecture for building 视频 分析 agents with 实时-时 verified alerts, visual Q&A, and automated 报表. The VSS Blueprint uses 视觉 语言 models (VLM |
-| 1,963 | [DanielXMoore/Civet](https://github.com/DanielXMoore/Civet) | 2026-11-26 | A TypeScript superset that favors more types and less typing |
+| 1,964 | [DanielXMoore/Civet](https://github.com/DanielXMoore/Civet) | 2026-11-28 | A TypeScript superset that favors more types and less typing |
 | 1,848 | [risinglightdb/risinglight](https://github.com/risinglightdb/risinglight) | 2026-11-23 | An educational OLAP 数据库 system. |
 | 1,782 | [gettalong/kramdown](https://github.com/gettalong/kramdown) | 2026-11-19 | kramdown is a 快速, pure Ruby Markdown superset converter, using a strict syntax definition and supporting several common extensions. |
+| 1,658 | [elviscjn-cjn/antigravity-context-viewer](https://github.com/elviscjn-cjn/antigravity-context-viewer) | 2026-11-27 | 上下文 & usage 仪表盘 for Google Antigravity 2.x. Monitor 实时-时 上下文 windows, 模型 quotas, 生成 speed, desktop & CLI token history, and estimated API costs—with per-模型 上下文 limits. Google Antigravity 2.x 上下文与用量看板，支持模型额度、生成速度、桌面/CLI 用量统计 |
 | 1,633 | [middlewarehq/middleware](https://github.com/middlewarehq/middleware) | 2026-11-23 | ✨ 开源 DORA metrics 平台 for engineering teams ✨ |
 | 1,625 | [Phantas0s/devdash](https://github.com/Phantas0s/devdash) | 2026-11-22 | :bento: Highly Configurable Terminal 仪表盘 for Developers and Creators |
-| 1,531 | [Bennettxai/FounderOS](https://github.com/Bennettxai/FounderOS) | 2026-11-26 | An 开源, single-operator 商业 command center: 运行 a one-person operated company as AI-assisted departments (comms, funnel, social, finances, agents, and a 知识 图) from one live 仪表盘. |
+| 1,538 | [Bennettxai/FounderOS](https://github.com/Bennettxai/FounderOS) | 2026-11-27 | An 开源, single-operator 商业 command center: 运行 a one-person operated company as AI-assisted departments (comms, funnel, social, finances, agents, and a 知识 图) from one live 仪表盘. |
 | 1,475 | [DataBrewery/cubes](https://github.com/DataBrewery/cubes) | 2026-11-19 | [Archived] Light-weight Python OLAP 框架 for 多-dimensional 数据 analysis |
 | 1,448 | [wx-chevalier/Database-Notes](https://github.com/wx-chevalier/Database-Notes) | 2026-11-26 | 📚深入浅出数据库存储：数据库理论、关系型数据库、文档型数据库、键值型数据库、New SQL、搜索引擎、数据仓库与 OLAP、大数据与数据中台 |
 | 1,412 | [apache/rocketmq-dashboard](https://github.com/apache/rocketmq-dashboard) | 2026-11-26 | The state-of-the-art 仪表盘 of Apache RoccketMQ provides excellent 监控 capability. Various graphs and statistics of events, 性能 and system information of clients and application is evidently made available to the user. |
 | 1,355 | [ColinLeung-NiloCat/UnityURPUnlitScreenSpaceDecalShader](https://github.com/ColinLeung-NiloCat/UnityURPUnlitScreenSpaceDecalShader) | 2026-11-21 | Unity unlit screen space decal shader for URP. Just create a new material using this shader, then assign it to a new unity cube GameObject = DONE, now you have unlit decal working in URP |
-| 1,344 | [Roblox/cube](https://github.com/Roblox/cube) | 2026-11-26 | Roblox Foundation 模型 for 3D 智能 |
+| 1,347 | [Roblox/cube](https://github.com/Roblox/cube) | 2026-11-27 | Roblox Foundation 模型 for 3D 智能 |
 | 1,340 | [PlumHound/PlumHound](https://github.com/PlumHound/PlumHound) | 2026-11-21 | Bloodhound 报表 for Blue and Purple Teams |
 | 1,336 | [Codecademy/EventHub](https://github.com/Codecademy/EventHub) | 2026-11-19 | An open source 事件 分析 平台 |
-| 1,325 | [elviscjn-cjn/antigravity-context-viewer](https://github.com/elviscjn-cjn/antigravity-context-viewer) | 2026-11-27 | 上下文 & usage 仪表盘 for Google Antigravity 2.x. Monitor 实时-时 上下文 windows, 模型 quotas, 生成 speed, desktop & CLI token history, and estimated API costs—with per-模型 上下文 limits. Google Antigravity 2.x 上下文与用量看板，支持模型额度、生成速度、桌面/CLI 用量统计 |
 | 1,286 | [mining/mining](https://github.com/mining/mining) | 2026-11-19 | 商业 智能 (BI) in Python, OLAP |
 | 1,237 | [opensemanticsearch/open-semantic-search](https://github.com/opensemanticsearch/open-semantic-search) | 2026-11-26 | Open Source research 工具 to 搜索, browse, analyze and explore large 文档 collections by 语义 搜索 引擎 and Open Source 文本 Mining & 文本 分析 平台 (Integrates ETL for 文档 处理, OCR for images & PDF, named entity recognition |
 | 1,221 | [uber-archive/AthenaX](https://github.com/uber-archive/AthenaX) | 2026-11-19 | SQL-based streaming 分析 平台 at scale |
-| 1,217 | [hoangsonww/Claude-Code-Agent-Monitor](https://github.com/hoangsonww/Claude-Code-Agent-Monitor) | 2026-11-26 | 🚀 A 实时-时 监控 仪表盘 for Claude Code & Codex, built with SQLite3, Node.js, Express, React, Vite, TailwindCSS, & WebSockets. It tracks sessions, 智能体 activity, 工具 usage, and subagent 编排, providing live 分析, a Kanban status boar |
+| 1,219 | [hoangsonww/Claude-Code-Agent-Monitor](https://github.com/hoangsonww/Claude-Code-Agent-Monitor) | 2026-11-28 | 🚀 A 实时-时 监控 仪表盘 for Claude Code & Codex, built with SQLite3, Node.js, Express, React, Vite, TailwindCSS, & WebSockets. It tracks sessions, 智能体 activity, 工具 usage, and subagent 编排, providing live 分析, a Kanban status boar |
 | 1,179 | [pentaho/mondrian](https://github.com/pentaho/mondrian) | 2026-11-19 | Mondrian is an Online Analytical 处理 (OLAP) 服务器 that enables 商业 users to analyze large quantities of 数据 in 实时-时. |
 | 1,171 | [itsharryle/LED_CUBE](https://github.com/itsharryle/LED_CUBE) | 2026-11-18 | 8x8x8 LED cube powered by an arduino |
 | 1,170 | [liaohuqiu/cube-sdk](https://github.com/liaohuqiu/cube-sdk) | 2026-11-19 | A light package for Android development, it handles loading 图像 and network request. |
@@ -83,7 +83,7 @@
 | 993 | [amancevice/docker-superset](https://github.com/amancevice/docker-superset) | 2026-11-19 | Docker 图像 for Airbnb's Superset |
 | 768 | [allegro/turnilo](https://github.com/allegro/turnilo) | 2026-11-19 | 商业 智能, 数据 exploration and visualization 网页 application for Druid, formerly known as Swiv and Pivot |
 | 700 | [Clearailhc/clearai-dsh](https://github.com/Clearailhc/clearai-dsh) | 2026-11-26 | ClearAI：以本体为纲的原生 DSH 插件 —— 经证据核验的研究长成可浏览的领域本体。 · ClearAI: an 本体-first DSH 智能体 preset — evidence-checked research that grows into a domain 本体. |
-| 698 | [PlutoLang/Pluto](https://github.com/PlutoLang/Pluto) | 2026-11-17 | A superset of Lua 5.5 with a focus on general-purpose programming. |
+| 699 | [PlutoLang/Pluto](https://github.com/PlutoLang/Pluto) | 2026-11-27 | A superset of Lua 5.5 with a focus on general-purpose programming. |
 | 679 | [andreypopp/reactify](https://github.com/andreypopp/reactify) | 2026-11-19 | [DEPRECATED] Browserify 转换 for JSX (superset of JavaScript used in React 库 by Facebook) |
 | 628 | [gouline/dbt-metabase](https://github.com/gouline/dbt-metabase) | 2026-11-19 | dbt + Metabase 集成 |
 | 613 | [anombyte93/prd-taskmaster](https://github.com/anombyte93/prd-taskmaster) | 2026-11-21 | Zero-config goal-to-tasks 引擎 for Claude Code (the Atlas 引擎). Graded PRD 校验, dependency-ordered task 图, evidence-gated execution. |
@@ -94,7 +94,7 @@
 | 517 | [drasimwagan/mdv](https://github.com/drasimwagan/mdv) | 2026-11-18 | MDV — a Markdown superset for documents, dashboards, and slides with embedded 数据 and visualizations. HTML + PDF export, live preview, VS Code extension. |
 | 511 | [ClickHouse/metabase-clickhouse-driver](https://github.com/ClickHouse/metabase-clickhouse-driver) | 2026-11-19 | ClickHouse 数据库 driver for the Metabase 商业 智能 front-end |
 | 503 | [bhollis/maruku](https://github.com/bhollis/maruku) | 2026-10-29 | A pure-Ruby Markdown-superset interpreter (Official Repo). |
-| 451 | [Avril-Exoplanet/Avril](https://github.com/Avril-Exoplanet/Avril) | 2026-11-26 | AI-guided, evidence-preserving exoplanet candidate discovery for public TESS 数据. |
+| 453 | [Avril-Exoplanet/Avril](https://github.com/Avril-Exoplanet/Avril) | 2026-11-27 | AI-guided, evidence-preserving exoplanet candidate discovery for public TESS 数据. |
 | 388 | [hubblestack/hubble](https://github.com/hubblestack/hubble) | 2026-11-19 | Hubble is a modular, 开源 安全 合规 框架. The project provides on-demand 剖析-based auditing, 实时-时 安全 事件 notifications, alerting, and 报表. |
 | 358 | [ldez/cubejs](https://github.com/ldez/cubejs) | 2026-11-22 | cube.js -- JavaScript 库 for modeling and solving the 3x3x3 Rubik's Cube |
 | 352 | [apache-superset/superset-ui](https://github.com/apache-superset/superset-ui) | 2026-11-19 | Apache Superset UI packages |
@@ -117,11 +117,11 @@
 | 174 | [getredash/contrib-helm-chart](https://github.com/getredash/contrib-helm-chart) | 2026-10-25 | Community maintained Redash Helm Chart |
 | 167 | [DataJunction/dj](https://github.com/DataJunction/dj) | 2026-11-11 | A metrics 平台. |
 | 159 | [vvaezian/metabase_api_python](https://github.com/vvaezian/metabase_api_python) | 2026-11-20 | A python wrapper for Metabase API |
+| 150 | [NingyuSUN/bioai-evidence-validator](https://github.com/NingyuSUN/bioai-evidence-validator) | 2026-11-27 | Evidence 校验 and policy 引擎 for AI-assisted biological curation |
 | 150 | [getredash/redash-toolbelt](https://github.com/getredash/redash-toolbelt) | 2026-06-19 | API 客户端 and utilities to manage a Redash instance |
 | 145 | [sidequery/sqlctx](https://github.com/sidequery/sqlctx) | 2026-11-26 | The universal metrics layer. Compatible with 15+ formats: Cube, MetricFlow, LookML, Omni, BSL, LDM, Cortex, Malloy, OSI, SML, TML, Hex, Rill, Superset |
 | 145 | [Aaron-Bird/rubiks-cube](https://github.com/Aaron-Bird/rubiks-cube) | 2026-09-05 | A 3D Rubik's Cube game by Three.js and TypeScript. |
 | 143 | [elevate/elevate.metabase.tools](https://github.com/elevate/elevate.metabase.tools) | 2026-10-29 | Tools for managing Metabase |
-| 141 | [NingyuSUN/bioai-evidence-validator](https://github.com/NingyuSUN/bioai-evidence-validator) | 2026-11-26 | Evidence 校验 and policy 引擎 for AI-assisted biological curation |
 | 133 | [ftupas/dbt-spotify-analytics](https://github.com/ftupas/dbt-spotify-analytics) | 2026-11-22 | Containerized end-to-end 分析 of Spotify 数据 using Python, dbt, Postgres, and Metabase |
 | 121 | [Cambalab/metabase-compose](https://github.com/Cambalab/metabase-compose) | 2026-08-22 | A dockerized solution to 运行 Metabase using compose |
 | 117 | [lutinglt/superset-zh](https://github.com/lutinglt/superset-zh) | 2026-11-21 | Superset 汉化, Superset 中文版 |
@@ -151,7 +151,7 @@
 | 38 | [cubing/AnimCubeJS](https://github.com/cubing/AnimCubeJS) | 2026-10-29 | ▶️ Play around with a Rubik's Cube simulator. |
 | 29 | [taylorjg/rubiks-cube](https://github.com/taylorjg/rubiks-cube) | 2026-11-09 | A three.js visualisation of solving a Rubik's cube |
 | 28 | [lightdash/helm-charts](https://github.com/lightdash/helm-charts) | 2026-11-12 | Lightdash Community helm charts |
-| 28 | [apache/superset-kubernetes-operator](https://github.com/apache/superset-kubernetes-operator) | 2026-11-12 | Apache Superset Kubernetes Operator |
+| 28 | [apache/superset-kubernetes-operator](https://github.com/apache/superset-kubernetes-operator) | 2026-11-27 | Apache Superset Kubernetes Operator |
 | 28 | [sairamkrish/superset-custom-authentication](https://github.com/sairamkrish/superset-custom-authentication) | 2025-10-15 | 暂无简介 |
 | 26 | [flatlogic/ecommerce-dashboard-react](https://github.com/flatlogic/ecommerce-dashboard-react) | 2026-11-05 | E-commerce 仪表盘 built with Cube.js and React |
 | 22 | [jimmarkunas/agents-enterprise-ai-operating-model](https://github.com/jimmarkunas/agents-enterprise-ai-operating-model) | 2026-11-15 | A.G.E.N.T.S. 企业级 AI Operating 模型 for putting AI into 生产 with value, 治理, evidence, escalation, and accountability. |
